@@ -8,6 +8,7 @@ description: ""
 ### Emerging Citizen Technology Program
 
 
+
 <p>GSA’s Emerging Citizen Technology program collaborates with agencies, startups, small businesses, civic organizations and inter-agency communities to implement government-wide public service modernization initiatives like:</p>
 
 <p><a href="https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/artificial-intelligence-for-citizen-services" target="_blank">-Artificial Intelligence for Citizen Services</a></p>
