@@ -5,4 +5,4 @@ permalink: /artificial-intelligence-programs/
 description: ""
 ---
 
-### Artificial Intelligence Programs
+### Artificial Intelligence - Programs
