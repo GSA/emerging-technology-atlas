@@ -5,4 +5,4 @@ permalink: /artificial-intelligence-federal/
 description: ""
 ---
 
-### Artificial Intelligence for Citizen Services Federal Use Cases
+### Artificial Intelligence for Citizen Services - Federal Use Cases
