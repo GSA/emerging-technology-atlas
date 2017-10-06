@@ -5,4 +5,4 @@ permalink: /artificial-intelligence-events/
 description: ""
 ---
 
-### Artificial Intelligence Events
+### Artificial Intelligence - Events
