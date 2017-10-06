@@ -5,4 +5,4 @@ permalink: /blockchain-resources/
 description: ""
 ---
 
-### Blockchain Resources
+### Blockchain - Resources
