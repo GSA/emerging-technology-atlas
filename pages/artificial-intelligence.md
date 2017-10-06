@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Open Government Plan | Title of the page"
-permalink: /ongoingflagship/
+title: "Emerging Technology Atlas | Title of the page"
+permalink: /artificial-intelligence/
 description: ""
 ---
 
-# Ongoing Flagship Initiatives
+# Artificial Intelligence for Citizen Services
 
 
 <p>Flagship Initatives represent the most ambitious, impactful Open Government initiatives an agency seeks to champion. Flagship Initiatives already integrated into GSA’s offerings and
