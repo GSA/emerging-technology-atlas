@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Open Government Plan | Title of the page"
-permalink: /openinnovation/
+title: "Emerging Technology Atlas | Title of the page"
+permalink: /virtual-reality/
 description: ""
 ---
 
-### Ongoing Flagship Initiatives
+### Virtual and Augmented Reality
 
 
 <p>Flagship initiatives undertaken under Version 1:</p>
