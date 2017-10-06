@@ -47,7 +47,7 @@ navigation:
     url: /newflagship/
 
 - text: "Section 2: <span>Blockchain</span>"
-  url: /opendata/
+  url: /Blockchain/
 
 - text: "Section 3: <span>Virtual and Augmented Reality (Coming Soon)</span>"
   url: /openinnovation/
