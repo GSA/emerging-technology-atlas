@@ -20,17 +20,17 @@ exclude:
 - LICENSE.md
 
 # Site metadata
-name: "Open Government Plan"
+name: "Emerging Technology Atlas"
 description: "Some information about GSA in general."
-baseurl: /opengovplan
+baseurl: /emerging-technology-atlas
 
 # Uncomment the following line for localhost development at http://127.0.0.1:4000/software/
 # baseurl: /software
 
 # GitHub information
 org_name: gsa
-repo_name: opengovplan
-branch: gh-pages
+repo_name: emerging-technology-atlas
+branch: master
 
 # Navigation
 # List links that should appear in the site sidebar here
