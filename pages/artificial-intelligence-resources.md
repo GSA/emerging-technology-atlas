@@ -5,4 +5,4 @@ permalink: /artificial-intelligence-resources/
 description: ""
 ---
 
-### Artificial Intelligence Resources
+### Artificial Intelligence - Resources
