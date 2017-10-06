@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Open Government Plan | Title of the page"
-permalink: /participation/
+title: "Emerging Technology Atlas | Title of the page"
+permalink: /social-technology/
 description: ""
 ---
 
-### Ongoing Flagship Initiatives
+### Social Technology
 
 
 <p>Flagship initiatives undertaken under Version 1:</p>
