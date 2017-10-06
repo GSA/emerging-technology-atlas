@@ -37,22 +37,22 @@ branch: gh-pages
 navigation:
 - text: "Home"
   url: /
-- text: "About GSA Open Government"
+- text: "About Emerging Technology Atlas"
   url: /summary/
-- text: "Section 1. Flagship Initiatives"
+- text: "Section 1. Artificial Intelligence for Citizen Services"
   url: /ongoingflagship/
 
   sub_navigation:
   - text: "1.1 <span>New Flagship Initiative: Contact USA: The First Machine Readable Federal Government Directory</span>"
     url: /newflagship/
 
-- text: "Section 2: <span>Open Data</span>"
+- text: "Section 2: <span>Blockchain</span>"
   url: /opendata/
 
-- text: "Section 3: <span>Open Innovation</span>"
+- text: "Section 3: <span>Virtual and Augmented Reality (Coming Soon)</span>"
   url: /openinnovation/
 
-- text: "Section 4: <span>Public Participation</span>"
+- text: "Section 4: <span>Social Technology (Coming Soon)</span>"
   url: /participation/
 
 - text: "Section 5: <span>Open Source Software</span>"
