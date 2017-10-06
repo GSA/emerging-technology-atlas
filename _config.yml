@@ -48,16 +48,10 @@ navigation:
   sub_navigation:
   - text: "Federal Use Cases</span>"
     url: /newflagship/
-    
-  sub_navigation:
   - text: "Programs</span>"
     url: /newflagship/
-    
-  sub_navigation:
   - text: "Resources</span>"
     url: /newflagship/
-
-  sub_navigation:
   - text: "Events</span>"
     url: /newflagship/
     
@@ -84,27 +78,3 @@ navigation:
 
 - text: "Section 9: <span>Whistleblower Protection</span>"
   url: /whistleblowerprotection/
-
-- text: "Section 10: <span>Websites</span>"
-  url: /websites/
-
-- text: "Section 11: <span>Spending Information</span>"
-  url: /spending/
-
-- text: "Section 12: <span>Public Notice</span>"
-  url: /publicnotice/
-
-- text: "Section 13: <span>Records Management</span>"
-  url: /records/
-
-- text: "Section 14: <span>Freedom of Information Act (FOIA) Requests</span>"
-  url: /foia/
-
-- text: "Section 15: <span>Declassification</span>"
-  url: /declassification/
-
-- text: "Section 16: <span>Congressional Requests</span>"
-  url: /congressionalrequests/
-
-- text: "Section 17: <span>Web Pages</span>"
-  url: /webpages/
