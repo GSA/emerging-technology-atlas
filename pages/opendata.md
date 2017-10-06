@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Open Government Plan | Title of the page"
-permalink: /opendata/
+title: "Emerging Technology Atlas | Title of the page"
+permalink: /Blockchain/
 description: ""
 ---
 
-### Ongoing Flagship Initiatives
+### Blockchain
 
 
 <p>Flagship initiatives undertaken under Version 1:</p>
