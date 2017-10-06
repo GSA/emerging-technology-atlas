@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/normalize.css">
+  <link href="{{ site.baseurl }}/assets/css/google-fonts.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/fonts.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css?{{ site.time | date: "%Y%m%j%H%M%S" }}">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/syntax.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/nara.css">
+  <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/nara.js"></script>
+
+  <!--[if lt IE 9]>
+    <script src="{{ site.baseurl }}/assets/js/html5.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/respond.min.js"></script>
+  <![endif]-->
+
+  <link rel="shortcut icon" type="image/ico" href="{{ site.baseurl }}/assets/favicon.ico" />
+
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+
+  {% if page.title %}
+    <title>{{ page.title }}</title>
+    <meta property="og:title" content="{{ page.title | xml_escape }}" />
+  {% else %}
+    <title>{{ site.title }}</title>
+    <meta property="og:title" content="{{ site.title | xml_escape }}" />
+  {% endif %}
+
+  {% if page.description %}
+    <meta name="description" content="{{ page.description | xml_escape }}">
+    <meta property="og:description" content="{{ page.description | xml_escape }}" />
+  {% else %}
+    <meta name="description" content="{{ site.description | xml_escape }}">
+    <meta property="og:description" content="{{ site.description | xml_escape }}" />
+  {% endif %}
+
+</head>
+<body>
+
+<div class="mycontainer">
+  <div>
+
+    <header role="banner">
+      <div class="hbadge">
+        <img src="{{ site.baseurl }}/assets/images/badge.png" alt="OpenGov National Archives"/>
+      </div>
+
+      <div class="pheader">
+        <div class="pheader_body">
+          <div class="pg_header">
+            <h1>Open Government Plan <span>2016 - 2018</span></h1>
+            <h2>U. S. General Services Administration</h2>
+    			</div>
+           <div class="header_menu">
+             <a href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/issues/" style="color: white;" class="button">Discuss</a> |
+             <a href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/{{ page.path }}" class="button" style="color: white;">Edit</a>
+           </div>
+          </div>
+        </div>
+        <div style="clear:both;">
+    </header>
+  </div>
+
+  <div class="wrap content">
+    {% include sidebar.html %}
+
+
+    <article id="main" class="main-content" role="main">
+      {{ content }}
+    </article>
+
+  </div>
+</div>
+
+{% include analytics.html %}
+
+</body>
+</html>

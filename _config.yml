@@ -1,0 +1,95 @@
+# markdown
+markdown: kramdown
+kramdown:
+  extensions: ["superscript","tables","with_toc_data","strikethrough","smart"]
+highlighter: rouge
+
+exclude:
+- ".ruby-version"
+- ".jekyll-metadata"
+- ".gitignore"
+- ".travis.yml"
+- todo.txt
+- resources
+- Gemfile
+- Gemfile.lock
+- Makefile
+- vendor
+- README.md
+- CONTRIBUTING.md
+- LICENSE.md
+
+# Site metadata
+name: "Open Government Plan"
+description: "Some information about GSA in general."
+baseurl: /opengovplan
+
+# Uncomment the following line for localhost development at http://127.0.0.1:4000/software/
+# baseurl: /software
+
+# GitHub information
+org_name: gsa
+repo_name: opengovplan
+branch: gh-pages
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: "Home"
+  url: /
+- text: "About GSA Open Government"
+  url: /summary/
+- text: "Section 1. Flagship Initiatives"
+  url: /ongoingflagship/
+
+  sub_navigation:
+  - text: "1.1 <span>New Flagship Initiative: Contact USA: The First Machine Readable Federal Government Directory</span>"
+    url: /newflagship/
+
+- text: "Section 2: <span>Open Data</span>"
+  url: /opendata/
+
+- text: "Section 3: <span>Open Innovation</span>"
+  url: /openinnovation/
+
+- text: "Section 4: <span>Public Participation</span>"
+  url: /participation/
+
+- text: "Section 5: <span>Open Source Software</span>"
+  url: /opensource/
+
+- text: "Section 6: <span>Transparency Initiatives</span>"
+  url: /transparency/
+
+- text: "Section 7: <span>Proactive Disclosures</span>"
+  url: /disclosures/
+
+- text: "Section 8: <span>Privacy</span>"
+  url: /privacy/
+
+- text: "Section 9: <span>Whistleblower Protection</span>"
+  url: /whistleblowerprotection/
+
+- text: "Section 10: <span>Websites</span>"
+  url: /websites/
+
+- text: "Section 11: <span>Spending Information</span>"
+  url: /spending/
+
+- text: "Section 12: <span>Public Notice</span>"
+  url: /publicnotice/
+
+- text: "Section 13: <span>Records Management</span>"
+  url: /records/
+
+- text: "Section 14: <span>Freedom of Information Act (FOIA) Requests</span>"
+  url: /foia/
+
+- text: "Section 15: <span>Declassification</span>"
+  url: /declassification/
+
+- text: "Section 16: <span>Congressional Requests</span>"
+  url: /congressionalrequests/
+
+- text: "Section 17: <span>Web Pages</span>"
+  url: /webpages/

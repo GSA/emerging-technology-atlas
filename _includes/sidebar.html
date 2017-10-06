@@ -1,0 +1,42 @@
+<aside>
+  <a class="skip-link visuallyhidden focusable" href="#main">Skip to Main Content</a>
+  <nav class="sidebar-nav" role="navigation">
+    <ul>
+      {% for link in site.navigation %}
+        {% assign current = '' %}
+        {% if page.url == link.url %}
+          {% assign current = 'sidebar-nav-active' %}
+        {% endif %}
+        <li class="{{ current }}">
+          {% if link.url %}
+          <a href="{{ site.baseurl }}{{ link.url }}">{{ link.text }}</a>
+          {%else%}
+          {{ link.text }}
+          {% endif %}
+          {% if link.sub_navigation != false %}
+          <ul>
+          {% endif %}
+          {% for sublink in link.sub_navigation %}
+            {% assign subcurrent = '' %}
+            {% if page.url == sublink.url %}
+              {% assign subcurrent = 'sidebar-nav-active' %}
+            {% endif %}
+
+            <li  class="{{ subcurrent }}"> <a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.text }}</a></li>
+
+          {% endfor %}
+          {% if link.sub_navigation != false %}
+            </ul>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+  <p>
+    <a href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/issues/">Discuss</a>
+  </p>
+  <p>
+    <a href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/{{ page.path }}">Edit this page</a>
+  </p>
+
+</aside>
