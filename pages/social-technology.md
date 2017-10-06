@@ -22,6 +22,6 @@ description: ""
 <p>One of these programs is the U.S. Digital Registry, which is the official resource agencies, citizens and developers use to confirm the official status of social media and public-facing collaboration accounts, mobile apps and mobile websites. This creates an additional layer of security by helping prevent exploitation from unofficial sources, phishing scams or malicious entities.</p>
 
 
-<p># Get Involved</p>
+<p>Get Involved</p>
 
 <p>If you are a government employee with a .gov or .mil email address, join our <a href="mailto:SM-COP-subscribe-request@listserv.gsa.gov?subject=SocialGov%20listserv">SocialGov Community</a>.</p>
