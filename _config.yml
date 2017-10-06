@@ -37,15 +37,30 @@ branch: master
 navigation:
 - text: "Home"
   url: /
-- text: "About Emerging Technology Atlas"
+- text: "How to Contribute"
   url: /summary/
-- text: "Section 1. Artificial Intelligence for Citizen Services"
+- text: "About Emerging Citizen Technology Program"
+  url: /summary/
+  
+- text: "Artificial Intelligence for Citizen Services"
   url: /artificial-intelligence/
 
   sub_navigation:
-  - text: "1.1 <span>New Flagship Initiative: Contact USA: The First Machine Readable Federal Government Directory</span>"
+  - text: "Federal Use Cases</span>"
+    url: /newflagship/
+    
+  sub_navigation:
+  - text: "Programs</span>"
+    url: /newflagship/
+    
+  sub_navigation:
+  - text: "Resources</span>"
     url: /newflagship/
 
+  sub_navigation:
+  - text: "Events</span>"
+    url: /newflagship/
+    
 - text: "Section 2: <span>Blockchain</span>"
   url: /Blockchain/
 
