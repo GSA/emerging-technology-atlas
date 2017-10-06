@@ -57,24 +57,19 @@ navigation:
     
 - text: "Blockchain"
   url: /Blockchain/
+  
+  sub_navigation:
+  - text: "Federal Use Cases</span>"
+    url: /newflagship/
+  - text: "Programs</span>"
+    url: /newflagship/
+  - text: "Resources</span>"
+    url: /newflagship/
+  - text: "Events</span>"
+    url: /newflagship/
 
 - text: "Virtual and Augmented Reality (Coming Soon)"
   url: /virtual-reality/
 
 - text: "Social Technology (Coming Soon)"
   url: /social-technology/
-
-- text: "Section 5: <span>Open Source Software</span>"
-  url: /opensource/
-
-- text: "Section 6: <span>Transparency Initiatives</span>"
-  url: /transparency/
-
-- text: "Section 7: <span>Proactive Disclosures</span>"
-  url: /disclosures/
-
-- text: "Section 8: <span>Privacy</span>"
-  url: /privacy/
-
-- text: "Section 9: <span>Whistleblower Protection</span>"
-  url: /whistleblowerprotection/
