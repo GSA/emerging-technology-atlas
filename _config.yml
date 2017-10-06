@@ -50,10 +50,10 @@ navigation:
   url: /Blockchain/
 
 - text: "Section 3: <span>Virtual and Augmented Reality (Coming Soon)</span>"
-  url: /openinnovation/
+  url: /virtual-reality/
 
 - text: "Section 4: <span>Social Technology (Coming Soon)</span>"
-  url: /participation/
+  url: /social-technology/
 
 - text: "Section 5: <span>Open Source Software</span>"
   url: /opensource/
