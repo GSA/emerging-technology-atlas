@@ -47,13 +47,13 @@ navigation:
 
   sub_navigation:
   - text: "Federal Use Cases</span>"
-    url: /newflagship/
+    url: /artificial-intelligence-federal/
   - text: "Programs</span>"
-    url: /newflagship/
+    url: /artificial-intelligence-programs/
   - text: "Resources</span>"
-    url: /newflagship/
+    url: /artificial-intelligence-resources/
   - text: "Events</span>"
-    url: /newflagship/
+    url: /artificial-intelligence-events/
     
 - text: "Blockchain"
   url: /Blockchain/
