@@ -40,7 +40,7 @@ navigation:
 - text: "About Emerging Technology Atlas"
   url: /summary/
 - text: "Section 1. Artificial Intelligence for Citizen Services"
-  url: /ongoingflagship/
+  url: /artificial-intelligence/
 
   sub_navigation:
   - text: "1.1 <span>New Flagship Initiative: Contact USA: The First Machine Readable Federal Government Directory</span>"
