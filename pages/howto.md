@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Open Government Plan | Title of the page"
-permalink: /summary/
+title: "Emerging Technology Atlas| Title of the page"
+permalink: /howto/
 description: ""
 ---
 
-### GSA Open Government
+### How to Contribute
 
 <p>The U.S. General Services Administration (GSA) has been a leader in fulfilling both the letter and spirit of President Obama's Open Government Directive. Through aggressive public engagement and collaboration across the public, private and nonprofit sectors, GSA has made significant strides in helping to create an open, transparent and accountable government. Today, GSA continues to provide tools that create a more effective and responsive government for the American public.</p>
 
