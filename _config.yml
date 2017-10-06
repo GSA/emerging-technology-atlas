@@ -60,13 +60,13 @@ navigation:
   
   sub_navigation:
   - text: "Federal Use Cases</span>"
-    url: /newflagship/
+    url: /blockchain-federal/
   - text: "Programs</span>"
-    url: /newflagship/
+    url: /blockchain-programs/
   - text: "Resources</span>"
-    url: /newflagship/
+    url: /blockchain-resources/
   - text: "Events</span>"
-    url: /newflagship/
+    url: /blockchain-events/
 
 - text: "Virtual and Augmented Reality (Coming Soon)"
   url: /virtual-reality/
