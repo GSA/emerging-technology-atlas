@@ -5,4 +5,4 @@ permalink: /blockchain-events/
 description: ""
 ---
 
-### Blockchain Events
+### Blockchain - Events
