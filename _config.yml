@@ -55,13 +55,13 @@ navigation:
   - text: "Events</span>"
     url: /newflagship/
     
-- text: "Section 2: <span>Blockchain</span>"
+- text: "Blockchain"
   url: /Blockchain/
 
-- text: "Section 3: <span>Virtual and Augmented Reality (Coming Soon)</span>"
+- text: "Virtual and Augmented Reality (Coming Soon)"
   url: /virtual-reality/
 
-- text: "Section 4: <span>Social Technology (Coming Soon)</span>"
+- text: "Social Technology (Coming Soon)"
   url: /social-technology/
 
 - text: "Section 5: <span>Open Source Software</span>"
