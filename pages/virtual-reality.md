@@ -7,6 +7,8 @@ description: ""
 
 ### Virtual and Augmented Reality
 
+<p>COMING SOON IN PHASE 2</p>
+
 
 <p>Immersive enhanced audio and visual experiences through virtual and augmented reality are now available to many U.S. citizens through smartphones and other mobile devices, opening the door to an incredible diversity of new programs and services.</p>
 
