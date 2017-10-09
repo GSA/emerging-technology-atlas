@@ -8,7 +8,7 @@ description: ""
 
 <h2>Welcome to the U.S. Emerging Citizen Technology Atlas</h2>
 
-<p dir="ltr">The U.S. Emerging Citizen Technology Atlas, launched Tuesday, Oct. 10, 2017 and in continuous development, is an open source one-stop shop for U.S. federal government Artificial Intelligence for Citizen Services, Blockchain, and soon Virtual and Augmented Reality and Social Technologies anyone can use and update with:</p> 
+<p dir="ltr">The U.S. Emerging Citizen Technology Atlas is an open source one-stop shop for U.S. federal government Artificial Intelligence for Citizen Services, Blockchain, and soon Virtual and Augmented Reality and Social Technologies anyone can use and update with:</p> 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Use cases for the practical application of emerging technologies;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Reports from public service workshops, pilots and initiaties;</p>
@@ -19,7 +19,7 @@ description: ""
 
 <p>In order for public services to best evaluate, test and where appropriate adopt new technologies to improve services for citizens and make them more cost effective for taxpayers, federal agencies must collaborate more openly with the U.S. businesses, policymakers and innovators who are critical to building transformational technology programs. By their nature, however, emerging technologies evolve at a pace faster than traditional programs develop, which requires us to find new ways of working together.</p> 
 
-<p>This U.S. Emerging Citizen Technology Atlas, a product of the General Services Administration’s Emerging Citizen Technology program and its inter-agency Communities and initiatives, serves as an open resource to help see the ideas and programs shaping federal emerging technology, and with your contributions, will evolve with the technologies and programs within it.</p> 
+<p>This U.S. Emerging Citizen Technology Atlas, a product of the General Services Administration’s Emerging Citizen Technology program and its inter-agency Communities and initiatives, launched Oct. 11, 2017, and will continuously evolve with the technologies and programs within it through contributions from federal agencies and anyone.</p> 
 
 <p>For more information on the U.S. Emerging Citizen Technology Atlas, contact Justin Herman, GSA Emerging Citizen Technology lead, at EmergingTech@gsa.gov.</p>
 
