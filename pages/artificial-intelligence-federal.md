@@ -9,4 +9,4 @@ description: ""
 
 <p> <br> </p>
 
-<p><a href="/emerging-technology-atlas/workshop/"><span>Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop</span></a></p>
+<p>Source:<a href="/emerging-technology-atlas/workshop/"><span>Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop</span></a></p>
