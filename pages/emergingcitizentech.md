@@ -27,4 +27,4 @@ description: ""
 
 <p>Join our public listservs to stay informed and contribute to our latest initiatives, project wikis and repositories.</p>
 
-<p><a href="https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology" target="_blank">Emerging Citizen Technology Program</a> Contact us at EmergingTech@gsa.gov</p>
+<p><a href="https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology" target="_blank">Emerging Citizen Technology Program</a> Contact Justin Herman, GSA Emerging Citizen Technology lead, at EmergingTech@gsa.gov</p>
