@@ -19,15 +19,15 @@ Source: Federal AI Personal Assistant Pilot
 #### Google Assistant
 - Google Assistant Developer Kit: https://developers.google.com/actions/ 
 - [Actions on Google Developers Google+ Community](https://plus.google.com/communities/105684267327487893574)
-- [Build your first Action for Google Home](https://medium.com/google-cloud/building-your-first-action-for-google-home-in-30-minutes-ec6c65b7bd32) | [Part 2](https://medium.com/google-cloud/building-your-first-action-for-google-home-part-2-594888a8c09b)
-- [Google Assistant Analytics](https://developers.google.com/actions/tools/analytics): [dashbot.io](https://www.dashbot.io/googlehome) | [Voicelabs.co](https://insights.voicelabs.co/assistant)
+- [Build your first Action for Google Home](https://medium.com/google-cloud/building-your-first-action-for-google-home-in-30-minutes-ec6c65b7bd32) - [Part 2](https://medium.com/google-cloud/building-your-first-action-for-google-home-part-2-594888a8c09b)
+- [Google Assistant Analytics](https://developers.google.com/actions/tools/analytics): [dashbot.io](https://www.dashbot.io/googlehome) - [Voicelabs.co](https://insights.voicelabs.co/assistant)
 
 #### Amazon Alexa
 - Amazon Alexa Skills Kit: https://developer.amazon.com/alexa-skills-kit
 - [Getting Started with the Alexa Skills Kit](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/getting-started-guide)
 - [Alexa Voice Service](https://developer.amazon.com/alexa-voice-service)
 - [Training for the Alexa Skills Kit](https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training#BEGINNER)
-- [Alexa Skills Kit Voice Design Handbook](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/alexa-skills-kit-voice-design-handbook) | [Best Practices](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/alexa-skills-kit-voice-design-best-practices)
+- [Alexa Skills Kit Voice Design Handbook](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/alexa-skills-kit-voice-design-handbook) - [Best Practices](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/alexa-skills-kit-voice-design-best-practices)
 - [Amazon Developer Forums](https://forums.developer.amazon.com/spaces/165/index.html)
 
 #### Microsoft Cortana & Bot Framework
