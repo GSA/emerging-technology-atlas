@@ -13,8 +13,8 @@ description: ""
 
 <p> <br> </p>
 
-|                                      Workshop Participants                                        |                                   
-| -------------------------------------------------:-----------------------------------------------:|
+|                                      Workshop Participants                                       ||                                   
+| ------------------------------------------------|:-----------------------------------------------:|
 | Adarsa Services                                 | National Aeronautics and Science Administration |
 | Atlas Research                                  | National Capital Planning Commission            |
 | Global Blockchain Business Council              | National Defense University                     |
