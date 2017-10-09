@@ -17,7 +17,7 @@ description: ""
 
 ### Department of Health and Human Services Office of the National Coordinator for Health Information Technology
 <p>Competition:</p> 
-<p>Event: Use of Blockchain in Healthcare and Research Workshop<p>
+<p>Event: Use of Blockchain in Healthcare and Research Workshop</p>
 
 ### Department of State 
 <p>Event: Blockchain@State, 10/11/17</p>
