@@ -5,14 +5,34 @@ permalink: /websites/
 description: ""
 ---
 
-### Ongoing Flagship Initiatives
+### Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop
 
+<p>At our collaborative workshop held on September 8, 2017, Emerging Technology and Open Data for a More Open Government over 90 participants from government, industry, civil society, and academia came together and crafted potential goals to be integrated into the fourth U.S. National Action Plan for Open Government.</p>
 
-<p>Flagship initiatives undertaken under Version 1:</p>
+<p> <br> </p>
 
-<p>In fugiat nulla irure salami aliquip non. Ribeye proident turducken jerky sint filet mignon dolore salami ea ad et reprehenderit. Pancetta incididunt occaecat ad filet mignon enim in chuck corned beef cow. Capicola qui exercitation, labore magna mollit chicken ham hock prosciutto excepteur. Fatback andouille voluptate irure spare ribs ground round. Officia irure anim tenderloin.</p>
-
-
-<p>Landjaeger jerky shank, in sunt chuck ut chicken mollit aliqua nisi short ribs. Incididunt pork chop tempor mollit et bacon. Ut ut enim, esse venison non ad pork belly pastrami picanha short ribs prosciutto nulla. Consectetur sed commodo pig mollit dolore ad strip steak pancetta shoulder. Ea ipsum leberkas culpa fugiat.</p>
-
-<p>On March 29, 2016, the Archivist of the United States and NARA Senior Executives held the first Open Government webinar.&nbsp; The webinar included an overview and presentations on innovation, research services, declassification, Freedom of Information Act, and records management. The recording from this webinar is also available on the agency’s <a href="https://www.youtube.com/watch?v=DYVp1pmIZZI">YouTube channel</a>. NARA also held an in-person meeting with the researcher community at the National Archives in College Park, MD, with remote participation from researchers across the country.</p>
+                                       Workshop Participants                                                                           
+| ------------------------------------------------|:-----------------------------------------------:|
+| Adarsa Services                                 | National Aeronautics and Science Administration |
+| Atlas Research                                  | National Capital Planning Commission            |
+| Global Blockchain Business Council              | National Defense University                     |
+| Booz Allen                                      | National Science Foundation                     |
+| BRMi                                            | Organic Crop Improvement Association            |
+| Center for Data Innovation                      | Office of Personal Management                   |
+| Center for Open Data Enterprise                 | Office of Management and Budget                 |
+| Center for Disease Control and Prevention       | Oracle                                          |
+| Chamber of Digital Commerce                     | Prometheus Computing                            |
+| Data Coalition                                  | R Street Institute                              |
+| Data.gov                                        | Science Applications International Corporation  |
+| Dcode42                                         | Small Business Administration                   |
+| Department of Justice                           | Senate Judiciary Committee                      |
+| Department of State                             | SensisChallenges                                |
+| Department of Homeland Security                 | Sunlight Foundation                             |
+| Elliptic                                        | OpenGov Foundation                              |
+| Federal Acquisition Service                     | The World Bank                                  |
+| Federal Energy Regulatory Commission            | U.S. Digital Service                            |
+| Fintech4good                                    | Unified Shared Services Management              |
+| General Services Administration                 | U.S. Data Cabinet                               |
+| IBM                                             | USDA Forest Service                             |
+| Millenium Challenge Corporation                 | White House                                     |
+| National Archives and Records Administration    | Zilla LLC                                       |
