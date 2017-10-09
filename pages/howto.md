@@ -9,9 +9,9 @@ description: ""
 
 <p>We encourage you to contribute your own ideas/concepts to our Emerging Technology Atlas. Here is how you can contribute:</p>
 
-<p> 1. Click on either of the "Contribute" links on the home page or you can click <a href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/issues/" style="color: blue;" class="button">here</a>.</p>
-<p> 2. Start a new issue.</p>
-<p> 3. Label the issue with the corresponding number and title of the federal use case you are referencing. If you are proposing a new use case, idea, or concept, please indicate it as "New" in the label.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Click on either of the "Contribute" links on the home page or you can click <a href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/issues/" style="color: blue;" class="button">here</a>.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Start a new issue.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Label the issue with the corresponding number and title of the federal use case you are referencing. If you are proposing a new use case, idea, or concept, please indicate it as "New" in the label.</p>
 
 <p>  
 
