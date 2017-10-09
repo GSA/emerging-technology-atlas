@@ -7,7 +7,7 @@ description: ""
 
 ## Artificial Intelligence for Citizen Services Resources
 
-<p>In this section find and contribute quick reference links to resources for the potential use of Blockchain in the government.</p>
+<p>In this section find and contribute quick reference links to resources for the potential use of Artificial Intelligence for Citizen Services in the government.</p>
 
 <p> This section is in early states of development and should not be considered comprehensive.</p>
 
