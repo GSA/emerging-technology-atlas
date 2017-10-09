@@ -5,7 +5,11 @@ permalink: /blockchain-forum/
 description: ""
 ---
 
-### Blockchain Forum
+### U.S. Federal Blockchain Forum
+
+<p><a href="https://www.digitalgov.gov/event/in-person-u-s-federal-blockchain-forum/">The U.S. Federal Blockchain Forum</a> was an inter-agency forum hosted at General Services Administration July 18, 2017, for executives across the federal government to learn about advances in Blockchain technology, discuss use cases and set an agenda for working together to evaluate and implement it among our diverse missions.</p>
+
+<p>These rough draft use cases represent initial ideas and moonshots as well as program in development, and should be considered only proposed use cases and concepts unless otherwise noted.</p>
 
 
 
