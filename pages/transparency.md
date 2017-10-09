@@ -11,7 +11,7 @@ description: ""
 
 <p> <br> </p>
 ## Potential Use Cases
-<p> <br> </p>
+
 
 <p>1. Transaction validation</p>
 
