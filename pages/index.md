@@ -6,7 +6,7 @@ description: ""
 ---
 
 
-<h2>Emerging Technology Atlas</h2>
+<h2>U.S. Emerging Technology Atlas</h2>
 
 <p dir="ltr">Welcome to the U.S. Emerging Technology Atlas, an open source one-stop shop anyone can use and update with the latest use cases, programs and resources for federal government emerging technology programs including Artificial Intelligence for Citizen Services, Blockchain, and soon Virtual and Augmented Reality and Social Technologies.</p> 
 
