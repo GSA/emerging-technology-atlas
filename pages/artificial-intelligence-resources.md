@@ -19,9 +19,6 @@ description: ""
 - [Build your first Action for Google Home](https://medium.com/google-cloud/building-your-first-action-for-google-home-in-30-minutes-ec6c65b7bd32) | [Part 2](https://medium.com/google-cloud/building-your-first-action-for-google-home-part-2-594888a8c09b)
 - [Google Assistant Analytics](https://developers.google.com/actions/tools/analytics): [dashbot.io](https://www.dashbot.io/googlehome) | [Voicelabs.co](https://insights.voicelabs.co/assistant)
 
-***
-
-
 ### Amazon Alexa
 - Amazon Alexa Skills Kit: https://developer.amazon.com/alexa-skills-kit
 - [Getting Started with the Alexa Skills Kit](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/getting-started-guide)
@@ -30,9 +27,6 @@ description: ""
 - [Alexa Skills Kit Voice Design Handbook](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/alexa-skills-kit-voice-design-handbook) | [Best Practices](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/alexa-skills-kit-voice-design-best-practices)
 - [Amazon Developer Forums](https://forums.developer.amazon.com/spaces/165/index.html)
 
-***
-
-
 ### Microsoft Cortana & Bot Framework
 - [Microsoft Bot Framework](https://dev.botframework.com)
 - [Create your first bot](https://azure.microsoft.com/services/bot-service)
@@ -40,16 +34,10 @@ description: ""
 - [Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services)
 - [Cortana Dev Center](https://developer.microsoft.com/en-us/cortana)
 
-
-***
-
 ### Facebook Messenger
 - Facebook Messenger for Developers: https://developers.facebook.com/docs/messenger-platform
 - [Getting Started with Facebook Messenger](https://developers.facebook.com/docs/messenger-platform/getting-started)
 - [Feature Guides](https://developers.facebook.com/docs/messenger-platform/guides)
 - [Page Messaging Insights API](https://developers.facebook.com/docs/messenger-platform/insights/page-messaging)
 - [Designing Resources](https://developers.facebook.com/docs/messenger-platform/design-resources)
-
-
-***
 
