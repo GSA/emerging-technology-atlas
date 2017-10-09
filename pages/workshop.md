@@ -7,12 +7,14 @@ description: ""
 
 ### Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop
 
+<p> <br> </p>
+
 <p>At our collaborative workshop held on September 8, 2017, Emerging Technology and Open Data for a More Open Government over 90 participants from government, industry, civil society, and academia came together and crafted potential goals to be integrated into the fourth U.S. National Action Plan for Open Government.</p>
 
 <p> <br> </p>
 
 |                                      Workshop Participants                                        |                                   
-| ------------------------------------------------|:-----------------------------------------------:|
+| -------------------------------------------------:-----------------------------------------------:|
 | Adarsa Services                                 | National Aeronautics and Science Administration |
 | Atlas Research                                  | National Capital Planning Commission            |
 | Global Blockchain Business Council              | National Defense University                     |
