@@ -7,10 +7,20 @@ description: ""
 
 ### Blockchain - Potential Use Cases
 
-<p>These draft use cases represent initial ideas and moonshots as well as program in development, and should be considered only proposed use cases and concepts unless otherwise noted.</p>
+<p>These draft use cases represent initial ideas and moonshots as well as program in development, and should be considered only proposed use cases and concepts unless otherwise noted. Anyone is encouraged to contribute their own use case at any state of development. 
+
+<p> Common trends in use cases evaluated by federal agencies include: 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Financial management
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Procurement
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. IT asset and supply chain management
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Smart contracts
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Patents, Trademarks Copyrights, Royalties
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Government-issued credentials like visas, passports, SSN and birth certificates
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Federal personnel workforce data
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Appropriated funds
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Federal assistance and foreign aid delivery</p>
 <p> <br> </p>
 
 <p>Source: <a href="/emerging-technology-atlas/blockchain-workshop/"><span>Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop, September 8, 2017</span></a></p>
-<p> <br> </p>
 <p>Source: <a href="/emerging-technology-atlas/blockchain-forum/"><span>U.S. Federal Blockchain Forum, July 18, 2017</span></a></p>
 
