@@ -9,7 +9,7 @@ description: ""
 
 <p>We encourage you to contribute use cases, reports from public service workshops and initiatives, analysis and resources to the U.S. Emerging Citizen Technology Atlas in order to ensure it evolves at the pace of the technologies themselves.</p> 
 
-Here is how you can contribute:</p>
+Here is how you can contribute:
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Click on either of the "Contribute" links on the home page or you can click <a href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/issues/" style="color: blue;" class="button">here</a>.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Start a new issue.</p>
