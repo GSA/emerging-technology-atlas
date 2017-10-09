@@ -46,7 +46,7 @@ navigation:
   url: /artificial-intelligence/
 
   sub_navigation:
-  - text: ######<span>Potential Use Cases</span>
+  - text: <span>Potential Use Cases</span>
     url: /artificial-intelligence-federal/
   - text: <span>Programs in Action</span>
     url: /artificial-intelligence-programs/
