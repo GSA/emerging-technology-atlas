@@ -16,5 +16,5 @@ description: ""
 
 <p>This U.S. Emerging Technology Atlas, a product of the General Services Administration’s Emerging Citizen Technology program and its inter-agency Communities and initiatives, serves as an open resource to help see the ideas and programs shaping federal emerging technology, and with your contributions, will evolve with the technologies and programs within it.</p> 
 
-<p>For more information on the U.S. Emerging Citizen Technology Atlas, contact Justin Herman, GSA Emerging Citizen Technology lead, at EmergingTech@gsa.gov</p>
+<p>For more information on the U.S. Emerging Citizen Technology Atlas, contact Justin Herman, GSA Emerging Citizen Technology lead, at EmergingTech@gsa.gov.</p>
 
