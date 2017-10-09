@@ -52,8 +52,6 @@ navigation:
     url: /artificial-intelligence-programs/
   - text: "Resources</span>"
     url: /artificial-intelligence-resources/
-  - text: "Events</span>"
-    url: /artificial-intelligence-events/
     
 - text: "Blockchain"
   url: /Blockchain/
@@ -65,8 +63,6 @@ navigation:
     url: /blockchain-programs/
   - text: "Resources</span>"
     url: /blockchain-resources/
-  - text: "Events</span>"
-    url: /blockchain-events/
 
 - text: "Virtual and Augmented Reality (Coming Soon)"
   url: /virtual-reality/
