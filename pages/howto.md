@@ -33,9 +33,10 @@ description: ""
 
 <p>To protect your privacy, please do not include information that identifies you (an email address or phone number) in the text of your contribution.</p>
 
-<p>If you are a reporter, please send questions to GSA Public Affairs at (202) 501-1231. It is our policy not to post reporters’ questions.</p>
+<p>If you are a reporter, please send questions to GSA Public Affairs at (202) 501-1231.</p>
 
 <p>For more information on GSA policies: <a href="/node/85923">GSA Privacy and Security Issues</a></p>
 
+<p> For for more information on how to contribute, contact Justin Herman, GSA Emerging Citizen Technology lead, at EmergingTech@gsa.gov</p>
 
 
