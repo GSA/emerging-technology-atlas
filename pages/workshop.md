@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Open Government Plan | Title of the page"
-permalink: /websites/
+title: "Emerging Technology Atlas | Title of the page"
+permalink: /workshop/
 description: ""
 ---
 
