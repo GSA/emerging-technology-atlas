@@ -48,7 +48,7 @@ description: ""
 | Transportation Security Administration                     | White House Office of the Federal Chief Information Officer |
 
 
-#### Potential Use Cases
+#### Potential Use Cases from U.S. Federal Blockchain Forum
 
 <p>1. Transaction validation</p>
 
@@ -132,14 +132,13 @@ description: ""
 
 <p>41. H-Visa information that is used by the Employment Training Administration.</p>
 
-
 <p>42. Blockchain based network that democratises access to siloed inventory (foreclosure, repossessed inventory) data by enabling sellers (local counties, sheriffs, municipalities, customs) to hold multi-merchant auctioning through a distributed network. Forming an open marketplace, where any online merchant store can join and re-market, auction the same inventory in sync with global network of such intermediary online stores.</p>
 
 <p>43. Reduce the high overhead cost of traditional trade finance solutions through commercial banks to help small businesses export American products overseas. Explore blockchain applications for trade finance insurance and government-backed working capital guarantee products. Coordinate with commercial banks to facilitate integration with their trade finance blockchain solutions as they develop theirs.</p>
 
 <p>Use of blockchain technologies to foster creation of prediction markets (ideas futures) in early pharmaceutical ideas and concepts to speed the development of pharmaceuticals, medical devices, and other therapies to the market. Management of clinical trial protocols, data, and patient databases using blockchain ledgers.</p>
 
-<p>44. etermine the feasibility of using blockchain in a permission-based DLT platform as the foundation for a government-wide software license entitlement exchange as mandated by Federal Information Technology Acquisition Reform Act (FITARA). This would expand on work started by DHS and NIST championing the adoption of ISO-19770 software identity (SWID) tags to enhance cyber security and IT Service Management operations.</p>
+<p>44. Determine the feasibility of using blockchain in a permission-based DLT platform as the foundation for a government-wide software license entitlement exchange as mandated by Federal Information Technology Acquisition Reform Act (FITARA). This would expand on work started by DHS and NIST championing the adoption of ISO-19770 software identity (SWID) tags to enhance cyber security and IT Service Management operations.</p>
 
 <p>45. Pilot program for fresh produce contracts/procurements by school districts with USDA approved vendors to utilize entitlement funds and enhance local procurement volume. Orders, receipts, bills of lading, invoices, approved vendors and products visibility for USDA agencies, state agencies, school districts and vendors to verify compliance with pilot rules, auditability and ensure prompt payment. Currently 2 federal agencies, 8 states, 400+ school districts and 90+ vendors participate in a manual validation and tracking process.</p>
 
@@ -149,7 +148,7 @@ description: ""
 
 <p>48. Human Capital Employee Digital Record - build out network of partners (gov and industry) and exchange incremental updates between members</p>
 
-<p>49. IRS potentially can use blockchain for refunds. Possible reduction of fraud. With tax submission as well.</p>
+<p>49. Tax refunds. Possible reduction of fraud. With tax submission as well.</p>
 
 <p>50. Blockchain technology in existing data acquisition, storage, and retrieval system for traumatic brain injury (TBI) allowing for improved accuracy of individualized patient data which will allow for better prognostic and diagnostic determinations for individual service members who experience TBI.</p>
 
@@ -157,9 +156,9 @@ description: ""
 
 <p>52. If an SEC registrant uses a blockchain to record data the SEC has access to pursuant to its regulatory authority, a proposed use is that the SEC be given access to a œregulatory node on that registrant’s blockchain with permission to read that data in real time.</p>
 
-<p>53. Data science at CFPB is interested in blockchain's potential for improving data access and security.</p>
+<p>53. Blockchain's potential for improving data access and security in consumer affairs.</p>
 
-<p>54. The Bureau is interested in learning how Block Chain might be used to handle a specific task -- non ID response. This challenge occurs when a respondent provide information to the Bureau that does not have a pre-provided unique ID. For example, if a individual responding to the decennial census on a generic form from their public library vs. using the one mailed to their house that contains their ID.</p>
+<p>54. Non-ID response. This challenge occurs when a respondent provide information does not have a pre-provided unique ID. For example, if a individual responding to the decennial census on a generic form from their public library vs. using the one mailed to their house that contains their ID.</p>
 
 <p>55. Legal entity identifier (LEI) management, financial research revolving around public/private blockchains in the US financial system.</p>
 
