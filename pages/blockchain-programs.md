@@ -25,5 +25,3 @@ description: ""
 <p> Event: Blockchain@State, 10/11/17</p>
 
 ### Department of Homeland Security 
-
-
