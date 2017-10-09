@@ -11,7 +11,7 @@ description: ""
 
 <p>GSA’s inter-agency Emerging Citizen Technology program collaborates with more than 1500 federal managers at agencies and programs across government, startups, small businesses, civic organizations to develop government-wide public service modernization initiatives through the evaluation, testing and development of emerging technologies including:</p>
 
-<p><a href="https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/artificial-intelligence-for-citizen-services" target="_blank"> 1. Artificial Intelligence for Citizen Services</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;text-indent: 50px;<a href="https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/artificial-intelligence-for-citizen-services" target="_blank"> 1. Artificial Intelligence for Citizen Services</a></p>
 <p><a href="https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain" target="_blank"> 2. Blockchain</a></p>
 <p><a href="https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/virtual-and-augmented-reality"> 3. Virtual and Augmented Reality</a></p>
 <p><a href="https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/social-technology-socialgov"> 4. Social Technology</a></p>
