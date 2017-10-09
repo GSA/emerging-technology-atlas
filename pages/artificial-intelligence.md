@@ -7,7 +7,9 @@ description: ""
 
 # Artificial Intelligence for Citizen Services
 
-<p>Public services are increasingly powered through the combination of greater access to data and pratical advances in Artificial Intelligence and Machine Learning that liberate solutions from research and development laboratories into the hands of programs anywhere. At this cross-section of technological advances and public-facing services is the Artificial Intelligence for Citizen Services program, designed to collaborate with agencies across government, U.S. businesses, researchers and the public to improve customer services, civic participation and access for the American people.</p>
+<p>Public services are increasingly powered through the combination of greater access to data and pratical advances in Artificial Intelligence and Machine Learning that liberate solutions from research and development laboratories into the hands of programs anywhere.</p>
+
+<p>At this cross-section of technological advances and public-facing services is the Artificial Intelligence for Citizen Services program, designed to collaborate with agencies across government, U.S. businesses, researchers and the public to improve customer services, civic participation and access for the American people.</p>
 
 <p>For example, the first project of the inter-agency Artificial Intelligence for Citizen Services Community was to launch an open-source pilot that helped dozens of federal programs evaluate and test opening their services to consumer intelligent personal assistants (IPAs) like Amazon Alexa, Microsoft Cortana, Google Assistant, and Facebook Messenger.</p>
 
