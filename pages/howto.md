@@ -7,7 +7,7 @@ description: ""
 
 ### How to Contribute
 
-<p>We encourage you to contribute your own ideas/concepts to our Emerging Technology Atlas. Here is how you can contribute:</p>
+<p>We encourage you to contribute use cases, analysis and resources to the U.S. Emerging Citizen Technology Atlas in order to ensure it evolves at the pace of the technologies themselves. Here is how you can contribute:</p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Click on either of the "Contribute" links on the home page or you can click <a href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/issues/" style="color: blue;" class="button">here</a>.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Start a new issue.</p>
@@ -25,12 +25,8 @@ description: ""
 
 <p>- Vulgar or abusive language;</p>
 <p>- Personal or obscene attacks of any kind;</p>
-<p>- Offensive terms targeting individuals or groups;</p>
-<p>- Threats or defamatory statements;</p>
-<p>- Links to any site;</p>
 <p>- Suggestions or encouragement of illegal activity;</p>
 <p>- Multiple successive off-topic posts by a single user or repetitive posts copied and pasted by multiple users, or spam;</p>
-<p>- Unsolicited proposals or other business ideas or inquiries; or</p>
 <p>- Promotion or endorsement of commercial services, products, or entities. (Note that non-commercial links that are relevant to the topic or another comment are acceptable.)</p>
 
 <p> <br> </p>
