@@ -18,6 +18,6 @@ description: ""
 
 <p>If you are a government employee with a .gov or .mil email address, join our <a href="mailto:Blockchain-subscribe-request@listserv.gsa.gov?subject=Blockchain%20listserv">Federal Blockchain Community</a></p>
 
-<p>To join our public listserv for Blockchain, contact <a href="mailto:listserv@listserv.gsa.gov?subject=Blockchain%20listserv">listserv@listserv.gsa.gov</a> with the message body“SUB BlockchainPublic.”</p>
+<p>To join our public listserv for Blockchain, contact <a href="mailto:listserv@listserv.gsa.gov?subject=Blockchain%20listserv">listserv@listserv.gsa.gov</a> with the message body “SUB BlockchainPublic.”</p>
 
 <p>For for more information on the Blockchain program, contact Justin Herman, GSA Emerging Citizen Technology lead, at EmergingTech@gsa.gov.</p>
