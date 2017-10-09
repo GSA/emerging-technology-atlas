@@ -17,13 +17,13 @@ description: ""
 Source: Federal AI Personal Assistant Pilot
 
 #### Google Assistant
-- Google Assistant Developer Kit: https://developers.google.com/actions/ 
+- [Google Assistant Developer Kit:](https://developers.google.com/actions/) 
 - [Actions on Google Developers Google+ Community](https://plus.google.com/communities/105684267327487893574)
 - [Build your first Action for Google Home](https://medium.com/google-cloud/building-your-first-action-for-google-home-in-30-minutes-ec6c65b7bd32) - [Part 2](https://medium.com/google-cloud/building-your-first-action-for-google-home-part-2-594888a8c09b)
 - [Google Assistant Analytics](https://developers.google.com/actions/tools/analytics): [dashbot.io](https://www.dashbot.io/googlehome) - [Voicelabs.co](https://insights.voicelabs.co/assistant)
 
 #### Amazon Alexa
-- Amazon Alexa Skills Kit: https://developer.amazon.com/alexa-skills-kit
+- [Amazon Alexa Skills Kit:](https://developer.amazon.com/alexa-skills-kit)
 - [Getting Started with the Alexa Skills Kit](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/getting-started-guide)
 - [Alexa Voice Service](https://developer.amazon.com/alexa-voice-service)
 - [Training for the Alexa Skills Kit](https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training#BEGINNER)
@@ -38,7 +38,7 @@ Source: Federal AI Personal Assistant Pilot
 - [Cortana Dev Center](https://developer.microsoft.com/en-us/cortana)
 
 #### Facebook Messenger
-- Facebook Messenger for Developers: https://developers.facebook.com/docs/messenger-platform
+- [Facebook Messenger for Developers:](https://developers.facebook.com/docs/messenger-platform)
 - [Getting Started with Facebook Messenger](https://developers.facebook.com/docs/messenger-platform/getting-started)
 - [Feature Guides](https://developers.facebook.com/docs/messenger-platform/guides)
 - [Page Messaging Insights API](https://developers.facebook.com/docs/messenger-platform/insights/page-messaging)
