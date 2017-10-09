@@ -46,22 +46,22 @@ navigation:
   url: /artificial-intelligence/
 
   sub_navigation:
-  - text: <span>"Federal Use Cases</span>"
+  - text: <span>Federal Use Cases</span>
     url: /artificial-intelligence-federal/
-  - text: <span>"Programs</span>"
+  - text: <span>Programs</span>
     url: /artificial-intelligence-programs/
-  - text: <span>"Resources</span>"
+  - text: <span>Resources</span>
     url: /artificial-intelligence-resources/
     
 - text: "Blockchain"
   url: /Blockchain/
   
   sub_navigation:
-  - text: <span>"Federal Use Cases</span>"
+  - text: <span>Federal Use Cases</span>
     url: /blockchain-federal/
-  - text: <span>"Programs</span>"
+  - text: <span>Programs</span>
     url: /blockchain-programs/
-  - text: <span>"Resources</span>"
+  - text: <span>Resources</span>
     url: /blockchain-resources/
 
 - text: "Virtual and Augmented Reality (Coming Soon)"
