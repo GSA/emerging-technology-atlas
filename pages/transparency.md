@@ -11,8 +11,7 @@ description: ""
 
 <p> <br> </p>
 Potential Use Cases
-
-
+<p> <br> </p>
 <p>1. Transaction validation</p>
 
 <p>2. Software license management</p>
