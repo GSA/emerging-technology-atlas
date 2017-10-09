@@ -5,7 +5,7 @@ permalink: /blockchain-federal/
 description: ""
 ---
 
-### Blockchain - Potential Use Cases
+### Blockchain Potential Use Cases
 
 <p>These draft use cases represent initial ideas and moonshots as well as programs in development, and should be considered only proposed use cases and concepts unless otherwise noted. Anyone is encouraged to contribute their own use case at any state of development. 
 
