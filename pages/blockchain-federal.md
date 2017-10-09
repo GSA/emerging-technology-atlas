@@ -7,7 +7,7 @@ description: ""
 
 ### Blockchain - Potential Use Cases
 
-<p>These draft use cases represent initial ideas and moonshots as well as program in development, and should be considered only proposed use cases and concepts unless otherwise noted. Anyone is encouraged to contribute their own use case at any state of development. 
+<p>These draft use cases represent initial ideas and moonshots as well as programs in development, and should be considered only proposed use cases and concepts unless otherwise noted. Anyone is encouraged to contribute their own use case at any state of development. 
 
 <p> Common trends in use cases evaluated by federal agencies include: 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Financial management
