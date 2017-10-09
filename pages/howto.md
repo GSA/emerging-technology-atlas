@@ -25,6 +25,7 @@ description: ""
 
 <p>- Vulgar or abusive language;</p>
 <p>- Personal or obscene attacks of any kind;</p>
+<p>- Dad jokes;</p>
 <p>- Suggestions or encouragement of illegal activity;</p>
 <p>- Multiple successive off-topic posts by a single user or repetitive posts copied and pasted by multiple users, or spam;</p>
 <p>- Promotion or endorsement of commercial services, products, or entities. (Note that non-commercial links that are relevant to the topic or another comment are acceptable.)</p>
@@ -37,6 +38,6 @@ description: ""
 
 <p>For more information on GSA policies: <a href="/node/85923">GSA Privacy and Security Issues</a></p>
 
-<p> For for more information on how to contribute, contact Justin Herman, GSA Emerging Citizen Technology lead, at EmergingTech@gsa.gov</p>
+<p> For for more information on how to contribute, contact Justin Herman, GSA Emerging Citizen Technology lead, at EmergingTech@gsa.gov.</p>
 
 
