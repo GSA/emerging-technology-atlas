@@ -7,4 +7,4 @@ description: ""
 
 ### Artificial Intelligence for Citizen Services - Potential Use Cases
 
-<p>Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop</p>
+<p><a href="/emerging-technology-atlas/workshop/"><span>Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop</span></a></p>
