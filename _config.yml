@@ -52,8 +52,6 @@ navigation:
     url: /artificial-intelligence-programs/
   - text: <span>Resources</span>
     url: /artificial-intelligence-resources/
- # - text: <span> Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop</span> 
-    url: /workshop/
     
 - text: "Blockchain"
   url: /Blockchain/
