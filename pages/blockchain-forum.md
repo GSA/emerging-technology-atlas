@@ -43,8 +43,9 @@ description: ""
 | The Export-Import Bank of the United States                | White House Office of Management and Budget                 |
 | Transportation Security Administration                     | White House Office of the Federal Chief Information Officer |
 
-<p> <br> </p>
+
 ## Potential Use Cases
+
 <p> <br> </p>
 <p>1. Transaction validation</p>
 
