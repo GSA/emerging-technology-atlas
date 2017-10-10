@@ -22,6 +22,6 @@ description: ""
 
 ### Department of State 
 
-<p> Event: Blockchain@State, 10/11/17</p>
+<a href="https://www.eventbrite.com/e/blockchainstate-distributed-ledger-technologies-for-diplomacy-and-development-tickets-37669091266">Blockchain@State, 10/11/17</a></p> 
 
 ### Department of Homeland Security 
