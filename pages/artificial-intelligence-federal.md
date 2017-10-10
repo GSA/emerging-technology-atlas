@@ -11,6 +11,6 @@ description: ""
 
 <p> <br> </p>
 
-<p>Source: <a href="/emerging-technology-atlas/workshop/"><span>Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop</span></a></p>
+<p>Potential use case repository: <a href="/emerging-technology-atlas/workshop/"><span>Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop</span></a></p>
 
-<p>Source: <a href="https://github.com/GSA/AI-Assistant-Pilot/wiki/Participating-Concepts"><span>Federal Inter-Agency Artificial Intelligence Personal Assistant Pilot</span></a></p>
+<p>Potential use case repository: <a href="https://github.com/GSA/AI-Assistant-Pilot/wiki/Participating-Concepts"><span>Federal Inter-Agency Artificial Intelligence Personal Assistant Pilot</span></a></p>
