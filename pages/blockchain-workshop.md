@@ -9,7 +9,7 @@ description: ""
 
 <p> <br> </p>
 
-<p>At our collaborative workshop held on September 8, 2017, <a href="https://gsablogs.gsa.gov/gsablog/2017/08/24/emerging-tech-and-open-data-for-a-more-open-and-accountable-government/">Emerging Technology and Open Data for a More Open Government</a> over 90 participants from government, industry, civil society, and academia came together and crafted potential goals to be integrated into the fourth U.S. National Action Plan for Open Government.</p>
+<p>At our collaborative workshop held on September 8, 2017, <a href="https://gsablogs.gsa.gov/gsablog/2017/08/24/emerging-tech-and-open-data-for-a-more-open-and-accountable-government/">Emerging Technology and Open Data for a More Open Government</a>, over 90 participants from government, industry, civil society, and academia came together and crafted potential goals to be integrated into the fourth U.S. National Action Plan for Open Government.</p>
 
 <p>These rough draft use cases represent initial ideas and moonshots as well as program in development submitted by participants, and should be considered only proposed use cases and concepts unless otherwise noted.</p>
 
