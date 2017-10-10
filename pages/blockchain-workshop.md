@@ -5,7 +5,7 @@ permalink: /blockchain-workshop/
 description: ""
 ---
 
-### Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop -- Blockchain
+## Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop -- Blockchain
 
 <p>At our collaborative workshop held on September 8, 2017, <a href="https://gsablogs.gsa.gov/gsablog/2017/08/24/emerging-tech-and-open-data-for-a-more-open-and-accountable-government/">Emerging Technology and Open Data for a More Open Government</a>, over 90 participants from government, industry, civil society, and academia came together and crafted potential goals to be integrated into the fourth U.S. National Action Plan for Open Government.</p>
 
@@ -39,7 +39,7 @@ description: ""
 | Millenium Challenge Corporation                 | White House                                     |
 | National Archives and Records Administration    | Zilla LLC                                       |
 
-## Source: Initial concepts submitted during registration process
+### Source: Initial concepts submitted during registration process
 
 <p>1. Develop Blockchain enabled ledger/register of citizen and farmer transactions across the 35 USDA agencies and offices.
 <p>2. Launch challenges, prizes and competitions that focus on Blockchain. By attending this workshop I will have an opportunity to further grasp this evolving relationship between the government and the Blockchain and AI communities. Additionally, I will gain an invaluable firsthand understanding of the government's goals, challenges, initiatives, and attitudes regarding Blockchain and AI adoption.
@@ -72,7 +72,7 @@ description: ""
 <p>29. Public, internal and stakeholder engagement around the development of the policies, procedures and ground-rules of all this good stuff moving forward. You know how we do.
 <p>30. Develop strategies and processes for applying blockchain to types of federal data that include PII (eg health and finance). Determine how blockchain can help address privacy and security issues, and how this data can be appropriately "opened" (e.g. shared selectively with researchers, other federal agencies, or other selected users rather than the public at large.)</p>
 
-## Source: Concepts developed by teams during the workshop
+### Source: Concepts developed by teams during the workshop
 
 <p> Open Data On-Ramp to Blockchain: Accelerate current and future Open Data initiatives through building open APIs that de-silo data and leverage key blockchain capabilities. Objectives include: Allowing for data to be more actionable and drive accountability (single source of truth) - know where it came from, who provided, provenance, etc; Get to near real-time data delivery via Open APIs; Adds ability to control security and privacy of "selectively sharing" data based on defined rules - who accesses what when and why - more data can be shared with more granularity; Allows for future two-way interaction by allowing business network members to add to/enhance existing government provided information - additional information available. Description: Both current Open Government initiatives and future initiatives can leverage the standards-based, real-time access of open APIs while taking advantage of trust, accountability, and transparency the blockchain provides. Some Use Case Examples: Public Health - Opiod Tracking, Public Health Surveillance, Population Health, Medical/Certification information; Land Management - Public Lands, Shared infrastructure; IoT Integration; Unreachable populations (people and entities); Marketplace establishment (Healthcare, Human Resources, etc.) Metrics: Increase SLA compliance through Smart Contracts and Incentives; Increase data access; Improve selective and auditable sharing of data; Improve Data quality metric (auditable, trusted, reduce secondary/manual validation)</p>
 
