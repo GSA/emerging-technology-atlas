@@ -20,8 +20,8 @@ exclude:
 - LICENSE.md
 
 # Site metadata
-name: "Emerging Technology Atlas"
-description: "Some information about GSA in general."
+name: "U.S. Emerging Citizen Technology Atlas"
+description: "All of the federal emerging citizen technology."
 baseurl: /emerging-technology-atlas
 
 # Uncomment the following line for localhost development at http://127.0.0.1:4000/software/
