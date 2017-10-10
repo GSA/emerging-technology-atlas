@@ -24,3 +24,4 @@ description: ""
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.eventbrite.com/e/blockchainstate-distributed-ledger-technologies-for-diplomacy-and-development-tickets-37669091266">Event: Blockchain@State, 10/11/17</a></p> 
 
 ### Department of Homeland Security 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.dhs.gov/science-and-technology/news/2017/01/10/snapshot-blockchain-technology-explored-homeland-security">Post: Snapshot: Blockchain Technology Explored for Homeland Security, 1/10/17</a></p> 
