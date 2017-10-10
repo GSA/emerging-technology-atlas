@@ -23,5 +23,5 @@ description: ""
 
 <p>For more information on the U.S. Emerging Citizen Technology Atlas, contact Justin Herman, GSA Emerging Citizen Technology lead, at EmergingTech@gsa.gov.</p>
 
-<p>Notably, we forked the design for this resource originally from the <a href="https://usnationalarchives.github.io/opengovplan/">U.S. National Archives and Record Administration's Open Government Plan.</a></p>
+<p>Hat tip: we forked the design for this resource originally from the <a href="https://usnationalarchives.github.io/opengovplan/">U.S. National Archives and Record Administration's Open Government Plan.</a></p>
 
