@@ -19,9 +19,9 @@ description: ""
 
 <p>In order for public services to best evaluate, test and where appropriate adopt new technologies to improve services for citizens and make them more cost effective for taxpayers, federal agencies must collaborate more openly with the U.S. businesses, policymakers and innovators who are critical to building transformational technology programs. By their nature, however, emerging technologies evolve at a pace faster than traditional programs develop, which requires us to find new ways of working together.</p> 
 
-<p>This U.S. Emerging Citizen Technology Atlas, a product of the General Services Administration’s Emerging Citizen Technology program and its inter-agency Communities and initiatives, launched Oct. 11, 2017, and will continuously evolve with the technologies and programs within it through contributions from federal agencies and anyone.</p> 
+<p>This U.S. Emerging Citizen Technology Atlas, a product of hundreds of contribution from across government to <a href="https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology">General Services Admninistration's Emerging Citizen Technology program</a></p> and its inter-agency Communities and initiatives, launched Oct. 11, 2017, and will continuously evolve with the technologies and programs within it through contributions from federal agencies and anyone.</p> 
 
 <p>For more information on the U.S. Emerging Citizen Technology Atlas, contact Justin Herman, GSA Emerging Citizen Technology lead, at EmergingTech@gsa.gov.</p>
 
-<p>Notably, we forked the design for this resource originally from the U.S. National Archives and Record Administration's Open Government Plan.</p>
+<p>Notably, we forked the design for this resource originally from the <a href="https://usnationalarchives.github.io/opengovplan/">U.S. National Archives and Record Administration's Open Government Plan.</a></p>
 
