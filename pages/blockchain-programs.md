@@ -21,7 +21,6 @@ description: ""
 <p> Event: Use of Blockchain in Healthcare and Research Workshop</p>
 
 ### Department of State 
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.eventbrite.com/e/blockchainstate-distributed-ledger-technologies-for-diplomacy-and-development-tickets-37669091266">Blockchain@State, 10/11/17</a></p> 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.eventbrite.com/e/blockchainstate-distributed-ledger-technologies-for-diplomacy-and-development-tickets-37669091266">Event: Blockchain@State, 10/11/17</a></p> 
 
 ### Department of Homeland Security 
