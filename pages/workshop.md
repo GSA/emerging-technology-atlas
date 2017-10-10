@@ -5,7 +5,7 @@ permalink: /workshop/
 description: ""
 ---
 
-### Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop
+### Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop -- AI for Citizen Services 
 
 <p> <br> </p>
 
