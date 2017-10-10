@@ -27,7 +27,7 @@ Here is how you can contribute:
 
 <p>- Vulgar or abusive language;</p>
 <p>- Personal or obscene attacks of any kind;</p>
-<p>- Dad jokes;</p>
+<p>- References to the show Big Bang Theory, with or without the laugh track;</p>
 <p>- Suggestions or encouragement of illegal activity;</p>
 <p>- Multiple successive off-topic posts by a single user or repetitive posts copied and pasted by multiple users, or spam;</p>
 <p>- Promotion or endorsement of commercial services, products, or entities. (Note that non-commercial links that are relevant to the topic or another comment are acceptable.)</p>
