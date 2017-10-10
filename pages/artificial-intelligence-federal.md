@@ -7,6 +7,8 @@ description: ""
 
 ### Artificial Intelligence for Citizen Services Potential Use Cases
 
+<p>These draft use cases represent initial ideas and moonshots as well as programs in development, and should be considered only proposed use cases and concepts unless otherwise noted. Anyone is encouraged to contribute their own use case or expand analysis of ideas at any state of development. </p>
+
 <p> <br> </p>
 
 <p>Source: <a href="/emerging-technology-atlas/workshop/"><span>Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop</span></a></p>
