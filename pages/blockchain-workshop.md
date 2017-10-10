@@ -11,7 +11,6 @@ description: ""
 
 <p>These rough draft use cases represent initial ideas and moonshots as well as program in development submitted by participants, and should be considered only proposed use cases and concepts unless otherwise noted.</p>
 
-<p> <br> </p>
 
 |                                      Workshop Participants                                       ||                                   
 | ------------------------------------------------|:-----------------------------------------------:|
