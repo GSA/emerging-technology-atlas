@@ -15,7 +15,7 @@ description: ""
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Paths to current programs in action right now;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Resources anyone can use for evaluation, testing and potential adoption.</p>
 
-<p>These pages include information provided directly from federal agencies evaluating and testing these new technologies, and like them should be considered a continual work-in-progress designed to de-mystify what approaches are considered and opportunities to contribute analysis. We want to you know what we know, understand how stakeholders are approaching emerging technologies, and help us all be better informed to take advantage of new opportunities and avoid pitfalls.</p> 
+<p>These pages include information provided directly from federal agencies evaluating and testing these new technologies, and like them should be considered a continual work-in-progress designed to empower you to know we know, understand how stakeholders are approaching emerging technologies, and help us all be better informed to take advantage of new opportunities and avoid pitfalls.</p> 
 
 <p>In order for public services to best evaluate, test and where appropriate adopt new technologies to improve services for citizens and make them more cost effective for taxpayers, federal agencies must collaborate more openly with the U.S. businesses, policymakers and innovators who are critical to building transformational technology programs. By their nature, however, emerging technologies evolve at a pace faster than traditional programs develop, which requires us to find new ways of working together.</p> 
 
