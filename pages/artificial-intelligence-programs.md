@@ -35,6 +35,7 @@ State and local government agencies are a core partner in our federal emerging t
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.ms.gov/msi/myms/Home/AskAlexa">State of Mississippi: Ask Mississippi.</a> "...Mississippi’s integration with Alexa Voice Services provides citizens with renewal reminders, popular ms.gov data, state facts, and more – instantly."
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.utah.gov/digital/assistants-echo.html">State of Utah: Ask Utah.gov.</a> "...In a tradition of embracing new technology Utah.Gov has started exploring new possibilities with voice testing for a Utah driver license. However the possibilities are endless when the skills of a digital assistant and voice interaction are employed."
 
 
 
