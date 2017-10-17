@@ -46,5 +46,8 @@ State and local government agencies are a core partner in our federal emerging t
 
 
 ### General Services Administration
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AI Augmentation of Call and Contact Centers: Teams at Federal Acquisition Services and Technology Transformation Services are currently working on solutions for Call and Contact Centers that use AI augmentation to reduce the volume of repetitious customer service requests and free up resources to better complete requests that require deeper subject matter expertise. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.fbo.gov/index?s=opportunity&mode=form&tab=core&id=178e6faba980ab956fa595d968f0088a">AI Augmentation of the FASTlane Acquisition Process:</a> "...an initiative to develop a proof of concept for DLT (Distributed Ledger Technology), automated machine learning technology, and/or artificial intelligence based exchange implementation into GSA's Multiple Award Schedule (MAS) FAStlane new offer proposal review processes."
 
 
