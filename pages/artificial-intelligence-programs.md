@@ -14,6 +14,12 @@ description: ""
 ### Department of Labor
 
 ### Department of State
+Through the Virtual Student Foreign Service (VSFS) program, students can work on projects that advance the work of government on multiple fronts. Projects include helping counter violent extremism, strengthening human rights monitoring, developing virtual programs, engaging in digital communications, mapping, economic and political reporting, data analysis, graphic design, and app building.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://vsfs.state.gov/projects/view/128">Artificial Intelligence and Foreign Affairs.</a> Create an AI chatbot trained on a dataset of press releases and spokesperson statements which can answer questions about US foreign policy. Size of Program: 2. Office: EAP/RSP.
+
+
+
 
 ### General Services Administration
 
