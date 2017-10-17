@@ -13,8 +13,10 @@ This section is in early states of development and should not be considered comp
 
 ***
 
-### The Economist
+### ACT-IAC
+<a href="https://www.actiac.org/groups/blockchain-0">What Is Blockchain And Why Should I Be Interested?</a> "...ACT-IAC is stepping up to be a resource and central point of information for government and industry by providing forums, working groups and white papers, a knowledge bank of articles and data, and an environment to share and grow Blockchain where and when needed.  Working with the Emerging Technology Community of Interest (COI), the Institute for Innovation, and the strategy planning group of government and industry, ACT-IAC is looking to be the “go-to” association on Blockchain...."
 
+### The Economist
 <a href="https://www.economist.com/news/business/21722869-anti-establishment-technology-faces-ironic-turn-fortune-governments-may-be-big-backers">Governments may be big backers of the blockchain</a> "...While the blockchain originally sought a foothold in financial services, and digital currencies attracted early attention from investors, now interest in using the technology in the public sector is growing. Brian Forde, a blockchain expert at the Massachusetts Institute of Technology, argues that governments will drive its adoption—an ironic twist for something that began as a libertarian counter model to centralised authority. Backers say it can be used for land registries, identity-management systems, health-care records and even elections..."
 
 ### NASCIO
