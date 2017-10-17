@@ -31,7 +31,7 @@ for the 21st Century: Embracing Modern Technologies to Engage with Constituents<
 from improved productivity to fraud detection, to better understanding customer sentiment and more. ..."
 
 ### Intelligence Personal Assistant Development Resources:
-Source: Federal AI Personal Assistant Pilot
+<a href="https://github.com/GSA/AI-Assistant-Pilot/wiki/Resources">Source: Federal AI Personal Assistant Pilot</a>
 
 #### Google Assistant
 - [Google Assistant Developer Kit:](https://developers.google.com/actions/) 
