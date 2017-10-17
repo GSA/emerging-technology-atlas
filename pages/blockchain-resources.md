@@ -19,6 +19,9 @@ This section is in early states of development and should not be considered comp
 ### The Economist
 <a href="https://www.economist.com/news/business/21722869-anti-establishment-technology-faces-ironic-turn-fortune-governments-may-be-big-backers">Governments may be big backers of the blockchain</a> "...While the blockchain originally sought a foothold in financial services, and digital currencies attracted early attention from investors, now interest in using the technology in the public sector is growing. Brian Forde, a blockchain expert at the Massachusetts Institute of Technology, argues that governments will drive its adoption—an ironic twist for something that began as a libertarian counter model to centralised authority. Backers say it can be used for land registries, identity-management systems, health-care records and even elections..."
 
+### Government Blockchain Association
+<a href="https://governmentblockchain.org/</a> "...We are committed to helping government and public sector people & organizations understand, implement and benefit from blockchain related technologies and capabilities.  We do this by making blockchain related resources available to government and public sector consumers..."
+
 ### NASCIO
 <a href="https://www.nascio.org/Portals/0/Publications/Documents/2017/NASCIO%20Blockchains%20in%20State%20Government.pdf?ver=2017-05-16-090507-033">Blockchains: Moving Digital Government Forward in the States</a> "...We won’t delve into the mechanics of blockchains, nor the potential for proliferation of new “e-currencies. NASCIO will open the door to the world of blockchains through a variety of conversations with leaders in state government and industry in order to begin discussions regarding where blockchain technology can serve the mission of state government...."
 
