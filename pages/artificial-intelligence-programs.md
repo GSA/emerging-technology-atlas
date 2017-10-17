@@ -14,6 +14,11 @@ description: ""
 ### U.S. Army
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.goarmy.com/ask-sgt-star.html">Ask SGT STAR</a> "...SGT STAR is your virtual guide to goarmy.com.  He's here to help answer any questions you have about the Army.  Just type in what you're looking for and he'll find the information you need - fast.."
 
+### General Services Administration
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AI Augmentation of Call and Contact Centers: Teams at Federal Acquisition Services and Technology Transformation Services are currently working on solutions for Call and Contact Centers that use AI augmentation to reduce the volume of repetitious customer service requests and free up resources to better complete requests that require deeper subject matter expertise. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.fbo.gov/index?s=opportunity&mode=form&tab=core&id=178e6faba980ab956fa595d968f0088a">AI Augmentation of the FASTlane Acquisition Process:</a> "...an initiative to develop a proof of concept for DLT (Distributed Ledger Technology), automated machine learning technology, and/or artificial intelligence based exchange implementation into GSA's Multiple Award Schedule (MAS) FAStlane new offer proposal review processes."
+
 ### Department of Homeland Security -- U.S. Citizenship and Immigration Services 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.uscis.gov/emma">Ask EMMA.</a> "...Meet “Emma,” a computer-generated virtual assistant who can answer your questions and even take you to the right spot on our website. Emma is named for Emma Lazarus, who wrote the poem inscribed at the base of the Statue of Liberty about helping immigrants. Inspired by her namesake, our Emma can help you find the immigration information you need."
 
@@ -41,13 +46,5 @@ State and local government agencies are a core partner in our federal emerging t
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.utah.gov/digital/assistants-echo.html">State of Utah: Ask Utah.gov.</a> "...In a tradition of embracing new technology Utah.Gov has started exploring new possibilities with voice testing for a Utah driver license. However the possibilities are endless when the skills of a digital assistant and voice interaction are employed."
 
-
-
-
-
-### General Services Administration
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AI Augmentation of Call and Contact Centers: Teams at Federal Acquisition Services and Technology Transformation Services are currently working on solutions for Call and Contact Centers that use AI augmentation to reduce the volume of repetitious customer service requests and free up resources to better complete requests that require deeper subject matter expertise. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.fbo.gov/index?s=opportunity&mode=form&tab=core&id=178e6faba980ab956fa595d968f0088a">AI Augmentation of the FASTlane Acquisition Process:</a> "...an initiative to develop a proof of concept for DLT (Distributed Ledger Technology), automated machine learning technology, and/or artificial intelligence based exchange implementation into GSA's Multiple Award Schedule (MAS) FAStlane new offer proposal review processes."
 
 
