@@ -18,6 +18,11 @@ Through the Virtual Student Foreign Service (VSFS) program, students can work on
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://vsfs.state.gov/projects/view/128">Artificial Intelligence and Foreign Affairs.</a> Create an AI chatbot trained on a dataset of press releases and spokesperson statements which can answer questions about US foreign policy. Size of Program: 2. Office: EAP/RSP.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://vsfs.state.gov/projects/view/668">Artificial intelligence policy.</a> 
+Program Description: We're going to explore the international implications of artificial intelligence. Size of Program: 2.
+Office: E/STAS.
+
+
 
 
 
