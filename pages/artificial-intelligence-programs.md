@@ -11,7 +11,8 @@ description: ""
 
 <p> This section is in early states of development and should not be considered comprehensive.</p>
 
-### Department of Labor
+### Department of Homeland Security -- U.S. Citizenship and Immigration Services 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.uscis.gov/emma">Ask EMMA.</a> "...Meet “Emma,” a computer-generated virtual assistant who can answer your questions and even take you to the right spot on our website. Emma is named for Emma Lazarus, who wrote the poem inscribed at the base of the Statue of Liberty about helping immigrants. Inspired by her namesake, our Emma can help you find the immigration information you need.."
 
 ### Department of State
 Through the Virtual Student Foreign Service (VSFS) program, any federal agency can task students to work on projects that advance the work of government on multiple fronts, including Artificial Intelligence and Blockchain. Projects include helping counter violent extremism, strengthening human rights monitoring, developing virtual programs, engaging in digital communications, mapping, economic and political reporting, data analysis, graphic design, and app building.
