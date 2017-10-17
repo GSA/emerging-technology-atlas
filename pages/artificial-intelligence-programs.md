@@ -28,6 +28,10 @@ Office: E/STAS.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Watson AI ability to assist human mechanics: Army officials are using IBM’s Watson AI system in combination with onboard sensor data, repair manuals and 15 years of maintenance data to predict mechanical problems before they happen.. Size of Program: 4.
 
+### U.S. State and Local Government
+State and local government agencies are a core partner in our federal emerging technology initiatives, and often are positioned to take a leading role in providing new services at the forefront of the citizen to public service relationship. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://digitalservices.georgia.gov/blog/2017-10-11/state-georgia-launches-its-first-alexa-skill-ask-georgiagov?utm_content=bufferab562&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer">State of Georgia: Ask GeorgiaGov.</a> "...over the last few months we have been working hard with our development partners at Acquia Labs to publish Ask GeorgiaGov, an Alexa skill. Anyone with an Amazon Echo, Echo Dot, or Alexa on their tablet can now ask several Georgia state service related questions like how to renew your driver’s license or get a fishing permit."
 
 
 
