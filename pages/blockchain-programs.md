@@ -25,3 +25,6 @@ description: ""
 
 ### Department of Homeland Security 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.dhs.gov/science-and-technology/news/2017/01/10/snapshot-blockchain-technology-explored-homeland-security">Post: Snapshot: Blockchain Technology Explored for Homeland Security, 1/10/17</a></p> 
+<p> The Department of Homeland Security Science and Technology Directorate (S&T) is taking the lead with research and development projects in this area to determine viable uses for the technology. Cutting through the sensationalism associated with such a product, S&T sees the reality of blockchain’s promise. With such potential, proving the security and privacy aspects is precisely where S&T currently is focusing its resources. It is doing so via Small Business Innovation Research projects to investigate the various capabilities of blockchain. This includes security and privacy characteristics as well as exploring its immutability, data integrity and anti-spoofing aspects via a Silicon Valley Innovation Program project. If these research projects bear fruit, S&T will begin developing ways to implement blockchain technology to better safeguard the American people, our homeland and our values. </p>
+
+
