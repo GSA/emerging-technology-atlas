@@ -14,6 +14,7 @@ description: ""
 ### Centers for Disease Control
 
 ### General Services Administration
+Federal Acquisition Services: The General Services Administration is using distributed ledger technology to automate the FASt Lane process for IT Schedule 70 contracts. The FAStlane program ensures government customer agencies have quicker access to emerging technologies and innovative suppliers. Currently the requirements are less than 48 hours for contract modifications, and 45 days (or less) for new offers. At the September 20 ACT-IAC (American Council for Technology and Industry Advisory Council) Forum Mr. Jose Arrieta unveiled the working prototype created by two companies, United Solutions (prime contractor) and Sapient Consulting (subcontractor). The prototype will shorten the time required to perform the contract review process into single digit days. This technology will allow the agency to track vendor data across disparate systems. For more information, <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://fcw.com/blogs/lectern/2017/10/comment-kelman-gsa-blockchain.aspx">read a recent report.</a></p> 
 
 ### Department of Health and Human Services Office of the National Coordinator for Health Information Technology
 
