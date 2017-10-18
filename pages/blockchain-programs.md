@@ -36,6 +36,9 @@ Emerging Citizen Technology: GSA's Emerging Citizen Technology program launched 
 ### U.S. National Archives and Records Administration
 (placeholder)
 
+### U.S. Navy
+This summer the Naval Innovation Advisory Council is conducting a series of experiments (including a proof of concept) using blockchain technology to both securely share data between Additive Manufacturing sites, as well as help secure the digital thread of design and production. A report will be issued, showing the practical application of this technology in a controlled environment, and then illustrating the ability to open the aperture and dramatically revolutionize other aspects of Naval operations. For more information, <a href="http://www.secnav.navy.mil/innovation/Pages/2017/06/BlockChain.aspx">visit the briefing.</a>  
+
 ### Office of Personnel Management
 
 (placeholder)
