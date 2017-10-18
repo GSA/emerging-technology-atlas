@@ -42,6 +42,8 @@ Emerging Citizen Technology: GSA's Emerging Citizen Technology program launched 
 
 <p> On October 10, the State Department welcomed over 250 participants at <a href="https://www.eventbrite.com/e/blockchainstate-distributed-ledger-technologies-for-diplomacy-and-development-tickets-37669091266">the Blockchain@State forum</a> —a one-day, discovery workshop for the State Department, interagency partners, and private sector stakeholders to explore how blockchain technology could strengthen our capacity and improve our efficiency in meeting the United States’ diplomacy and development goals.  Participants represented over 150 different entities across the public-private spectrum.  Following <a href="https://www.youtube.com/watch?v=iMLhtdAiGq8">Deputy Secretary of State John Sullivan’s opening remarks</a> underscoring the importance of innovation in diplomacy and development, participants engaged in dialogue with private sector partners currently using blockchain technology in the field with a focus on current use cases.  Speakers also examined potential approaches to embarking on a pilot project in partnership with other sectors.  Following the successful launch of its exploratory efforts, the State Department is currently considering possible next steps in this space.  The two recorded sessions from the forum can be <a href="https://www.facebook.com/pg/GPAtState/videos/?ref=page_internal">found here</a>; YouTube versions will be available soon.</p>
 
+### Department of Treasury
 
+(placeholder)
 
 
