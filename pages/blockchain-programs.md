@@ -24,9 +24,11 @@ Office of Information Technology Category: GSA hosted a Blockchain Training Day 
 Emerging Citizen Technology: GSA's Emerging Citizen Technology program launched the government-wide Blockchain initiative, including both an internal federal community of more than 200 managers and a public-facing listserv of more than 100 U.S. businesses, researchers, subject matter experts and more. It also launched <a href="https://gsa.github.io/emerging-technology-atlas/blockchain-forum/">the U.S. Federal Blockchain Forum</a> and <a href="https://gsa.github.io/emerging-technology-atlas/blockchain-workshop/">"Emerging Tech and Open Data for a More Open Government,"</a> a workshop to draft the first potential national goals for Bockchain through Open Government, as well as this U.S. Emerging Citizen Technology Atlas. 
 
 ### Department of Health and Human Services Office of the National Coordinator for Health Information Technology
-(Placeholder)
-<p> Competition:</p> 
-<p> Event: Use of Blockchain in Healthcare and Research Workshop</p>
+The The Office of the National Coordinator for Health Information Technology organized The "Use of Blockchain in Health IT and Health-Related Research" Ideation Challenge to solicit white papers on the topic of Blockchain technology and the potential use in health IT to address privacy, security, and scalability challenges of managing electronic health records and resources. For more information on the challenge, <a href="https://www.healthit.gov/newsroom/blockchain-challenge">visit the website.</a>   
+
+
+
+https://oncprojectracking.healthit.gov/wiki/display/TechLabI/Use+of+Blockchain+in+Healthcare+and+Research+Workshop
 
 ### Department of Homeland Security 
 
