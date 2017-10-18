@@ -16,9 +16,6 @@ description: ""
 ### Centers for Disease Control
 For the past several months, the CDC’s Center for Surveillance, Epidemiology, and Laboratory Services has worked on several proofs of concept based on blockchain technology, with an eye toward building real applications next year. Most are geared toward better public health surveillance, which could include using a blockchain to more efficiently manage data during a crisis or to better track opioid abuse. For more information, <a href="https://www.technologyreview.com/s/608959/why-the-cdc-wants-in-on-blockchain/">read a recent report.</a>
 
-### Department of Defense, with Department of Veterans Affairs and the National Institutes of Health
-The <a href="https://fitbir.nih.gov/">Federal Interagency Traumatic Brain Injury Research (FITBIR)</a> informatics system was developed to share data across the entire TBI research field and to facilitate collaboration between laboratories, as well as interconnectivity with other informatics platforms. Blockchain and related smart contract technologies could be used to automate processing and increased controlled access for researchers. This would reduce cost of operation, increase the return on investment of government research dollars, and advance evidence-based care for those suffering the effects of TBI. This use case was presented at the Military Health System Research Symposium 2017 as part of, "Blockchain Technology Framework for Operational Precision Medicine," by Sean Manion, Lauren Long, John Reusing, and Bruce Doll.
-
 ### General Services Administration
 Schedule 70: The General Services Administration (GSA) is using distributed ledger technology to automate the FASt Lane process for IT Schedule 70 contracts. The FAStlane program ensures government customer agencies have quicker access to emerging technologies and innovative suppliers. Currently the requirements are less than 48 hours for contract modifications, and 45 days (or less) for new offers. At the September 20 ACT-IAC (American Council for Technology and Industry Advisory Council) Forum Mr. Jose Arrieta unveiled the working prototype created by two companies, United Solutions (prime contractor) and Sapient Consulting (subcontractor). The prototype will shorten the time required to perform the contract review process into single digit days. This technology will allow the agency to track vendor data across disparate systems. For more information, <a href="https://fcw.com/blogs/lectern/2017/10/comment-kelman-gsa-blockchain.aspx">read a recent report.</a>
 
@@ -35,9 +32,6 @@ Emerging Citizen Technology: GSA's Emerging Citizen Technology program launched 
 
 <p> <a href="https://www.dhs.gov/science-and-technology/news/2017/01/10/snapshot-blockchain-technology-explored-homeland-security">The Department of Homeland Security Science and Technology Directorate (S&T)</a> is taking the lead with research and development projects in this area to determine viable uses for the technology. Cutting through the sensationalism associated with such a product, S&T sees the reality of blockchain’s promise. With such potential, proving the security and privacy aspects is precisely where S&T currently is focusing its resources. It is doing so via Small Business Innovation Research projects to investigate the various capabilities of blockchain. This includes security and privacy characteristics as well as exploring its immutability, data integrity and anti-spoofing aspects via a Silicon Valley Innovation Program project. If these research projects bear fruit, S&T will begin developing ways to implement blockchain technology to better safeguard the American people, our homeland and our values. </p>
 
-### U.S. National Archives and Records Administration
-(placeholder)
-
 ### U.S. Navy
 This summer the Naval Innovation Advisory Council is conducting a series of experiments (including a proof of concept) using blockchain technology to both securely share data between Additive Manufacturing sites, as well as help secure the digital thread of design and production. A report will be issued, showing the practical application of this technology in a controlled environment, and then illustrating the ability to open the aperture and dramatically revolutionize other aspects of Naval operations. For more information, <a href="http://www.secnav.navy.mil/innovation/Pages/2017/06/BlockChain.aspx">visit the briefing.</a>  
 
@@ -45,6 +39,8 @@ This summer the Naval Innovation Advisory Council is conducting a series of expe
 
 (placeholder)
 
+### U.S. Postal Service
+The U.S. Postal Service Office of Inspector General (OIG) contracted with Swiss Economics, a consulting firm with interest and expertise in blockchain technology, to better understand the technology and its features, as well as identify areas of potential interest for the Postal Service. In the long-term, the Postal Service’s experimentation with blockchain technology in financial applications could naturally expand into other applications enabled by the technology. In their paper, the OIG outlines three other areas of potential interest to the Postal Service: identity services, device management, and supply chain management. For more information, <a href="https://www.uspsoig.gov/sites/default/files/document-library-files/2016/RARC-WP-16-001.pdf">visit their website.</a>  
 
 ### Department of State 
 
