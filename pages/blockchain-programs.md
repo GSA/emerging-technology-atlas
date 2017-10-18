@@ -18,7 +18,7 @@ Schedule 70: The General Services Administration (GSA) is using distributed ledg
 
 Office of Information Technology Category: GSA hosted a Blockchain Training Day (5.5 CLP) was delivered by subject matter experts to meet the objectives outlined in the Blockchain training curriculum. GSA is positioned to advise and assist the development of Blockchain proof-of-concepts and to assist agencies to prepare the procurement plans for proof-of-concepts. 
 
-Emerging Citizen Technology: GSA's Emerging Citizen Technology program launched the government-wide Blockchain initiative, including both an internal federal community of more than 200 managers and a public-facing listserv of more than 100 U.S. businesses, researchers, subject matter experts and more. It also launched this U.S. Emerging Citizen Technology Atlas. For more information visit the website.  
+Emerging Citizen Technology: GSA's Emerging Citizen Technology program launched the government-wide Blockchain initiative, including both an internal federal community of more than 200 managers and a public-facing listserv of more than 100 U.S. businesses, researchers, subject matter experts and more. It also launched <a href="https://gsa.github.io/emerging-technology-atlas/blockchain-forum/">the U.S. Federal Blockchain Forum.</a> and <a href="https://gsa.github.io/emerging-technology-atlas/blockchain-workshop/">"Emerging Tech and Open Data for a More Open Government,"</a> a workshop to draft the first potential national goals for Bockchain through Open Government, as well as this U.S. Emerging Citizen Technology Atlas. 
 
 ### Department of Health and Human Services Office of the National Coordinator for Health Information Technology
 
