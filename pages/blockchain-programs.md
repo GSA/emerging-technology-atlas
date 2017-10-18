@@ -26,7 +26,7 @@ Emerging Citizen Technology: GSA's Emerging Citizen Technology program launched 
 ### Department of Health and Human Services Office of the National Coordinator for Health Information Technology
 The Office of the National Coordinator for Health Information Technology (ONC) organized The "Use of Blockchain in Health IT and Health-Related Research" Ideation Challenge to solicit white papers on the topic of Blockchain technology and the potential use in health IT to address privacy, security, and scalability challenges of managing electronic health records and resources. For more information on the challenge, <a href="https://www.healthit.gov/newsroom/blockchain-challenge">visit the website.</a> </p>  
 
-<p> ONC also hosted a workshop, the Use of Blockchain in Healthcare an Research, with NIST to discuss the outcomes of the challenge and provide deeper materials into uses of Blockchain. For more an information and workshop materials, <a href="https://oncprojectracking.healthit.gov/wiki/display/TechLabI/Use+of+Blockchain+in+Healthcare+and+Research+Workshop">visit the website.</a>   
+<p> ONC also hosted a workshop, the Use of Blockchain in Healthcare an Research, with NIST to discuss the outcomes of the challenge and provide deeper materials into uses of Blockchain. For more an information and workshop materials, <a href="https://oncprojectracking.healthit.gov/wiki/display/TechLabI/Use+of+Blockchain+in+Healthcare+and+Research+Workshop">visit the website.</a> </p>
 
 ### Department of Homeland Security 
 
