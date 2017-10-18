@@ -33,6 +33,9 @@ Emerging Citizen Technology: GSA's Emerging Citizen Technology program launched 
 
 <p> <a href="https://www.dhs.gov/science-and-technology/news/2017/01/10/snapshot-blockchain-technology-explored-homeland-security">The Department of Homeland Security Science and Technology Directorate (S&T)</a> is taking the lead with research and development projects in this area to determine viable uses for the technology. Cutting through the sensationalism associated with such a product, S&T sees the reality of blockchain’s promise. With such potential, proving the security and privacy aspects is precisely where S&T currently is focusing its resources. It is doing so via Small Business Innovation Research projects to investigate the various capabilities of blockchain. This includes security and privacy characteristics as well as exploring its immutability, data integrity and anti-spoofing aspects via a Silicon Valley Innovation Program project. If these research projects bear fruit, S&T will begin developing ways to implement blockchain technology to better safeguard the American people, our homeland and our values. </p>
 
+### U.S. National Archives and Records Administration
+(placeholder)
+
 ### Office of Personnel Management
 
 (placeholder)
@@ -48,9 +51,5 @@ The State of Delaware announced an initiative to embrace the emerging blockchain
 ### State of Illinois 
 
 <p> Illinois recently announced a consortium of Illinois state and county agencies, known as the Illinois Blockchain Initiative, who will collaborate to explore innovations presented by Blockchain and distributed ledger technology. DoIT is actively engaged in this effort. The goal of the initiative is to determine if this groundbreaking technology can be leveraged to create more efficient, integrated and trusted state services, while providing a welcoming environment for the Blockchain community. Blockchain and distributed ledger technology has the potential to transform the delivery of public and private services, redefine the relationship between government and the citizen in terms of data sharing, transparency and trust, and make a leading contribution to the State’s digital transformation. For more information on the initiative, <a href="https://www2.illinois.gov/sites/doit/Pages/BlockChainInitiative.aspx">visit the website.</a>
-
-### Department of Treasury
-
-(placeholder) </p>
 
 
