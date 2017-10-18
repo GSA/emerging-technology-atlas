@@ -11,6 +11,8 @@ description: ""
 
 <p> This section is in the early stages of development and should not be considered comprehensive.</p>
 
+***
+
 ### U.S. Army
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.goarmy.com/ask-sgt-star.html">Ask SGT STAR</a> "...SGT STAR is your virtual guide to goarmy.com.  He's here to help answer any questions you have about the Army.  Just type in what you're looking for and he'll find the information you need - fast.."
 
