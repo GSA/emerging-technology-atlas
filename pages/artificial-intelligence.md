@@ -7,7 +7,7 @@ description: ""
 
 # Artificial Intelligence for Citizen Services
 
-<p>Public services are increasingly powered through the combination of greater access to data and practical advances in Artificial Intelligence and Machine Learning that liberate solutions from research and development laboratories into the hands of programs anywhere.</p>
+<p>Public services are increasingly powered through the combination of greater access to data and practical advances in Artificial Intelligence and Machine Learning that deliver solutions from research and development laboratories into the hands of programs everywhere.</p>
 
 <p>The Artificial Intelligence for Citizen Services program is designed to collaborate with agencies across government, U.S. businesses, researchers, and the public to improve customer services, civic participation, and access for the American people.</p>
 
