@@ -57,7 +57,7 @@ The U.S. Postal Service Office of Inspector General (OIG) contracted with Swiss 
 ***
 
 ### State of Delaware 
-The State of Delaware announced an initiative to embrace the emerging blockchain and smart contract technology industry, which can help the public and enterprises lower their transactional costs, speed up and automate manual processes, and reduce fraud. It was unveiled the plan during a keynote address at Consensus 2016, a technology conference in New York focused on blockchain innovation. The Delaware Blockchain Initiative is a comprehensive program to provide an enabling regulatory and legal environment for the development of blockchain technology and to welcome blockchain companies to locate in the state. For more information <a href="https://www.prnewswire.com/news-releases/governor-markell-launches-delaware-blockchain-initiative-300260672.html">view the press release.</a> 
+<p> The State of Delaware announced an initiative to embrace the emerging blockchain and smart contract technology industry, which can help the public and enterprises lower their transactional costs, speed up and automate manual processes, and reduce fraud. It was unveiled the plan during a keynote address at Consensus 2016, a technology conference in New York focused on blockchain innovation. The Delaware Blockchain Initiative is a comprehensive program to provide an enabling regulatory and legal environment for the development of blockchain technology and to welcome blockchain companies to locate in the state. For more information <a href="https://www.prnewswire.com/news-releases/governor-markell-launches-delaware-blockchain-initiative-300260672.html">view the press release.</a> 
 
 ### State of Illinois 
 
