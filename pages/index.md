@@ -11,7 +11,7 @@ description: ""
 <p dir="ltr">The U.S. Emerging Citizen Technology Atlas is an open source one-stop shop for U.S. federal government Artificial Intelligence for Citizen Services, Blockchain, and soon Virtual and Augmented Reality and Social Technologies. Anyone from federal managers and policy-makers to U.S. businesses, researchers, and the public can analyze and update with:</p> 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Use cases for the practical application of emerging technologies;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Reports from public service workshops, pilots, and initiaties;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Reports from public service workshops, pilots, and initiatives;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Paths to current programs in action right now;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Resources anyone can use for evaluation, testing, and potential adoption.</p>
 
