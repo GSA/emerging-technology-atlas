@@ -40,10 +40,6 @@ The Office of the National Coordinator for Health Information Technology (ONC) o
 ### U.S. Navy
 This summer the Naval Innovation Advisory Council is conducting a series of experiments (including a proof of concept) using blockchain technology to both securely share data between Additive Manufacturing sites, as well as help secure the digital thread of design and production. A report will be issued, showing the practical application of this technology in a controlled environment, and then illustrating the ability to open the aperture and dramatically revolutionize other aspects of Naval operations. For more information, <a href="http://www.secnav.navy.mil/innovation/Pages/2017/06/BlockChain.aspx">visit the briefing.</a>  
 
-### Office of Personnel Management
-
-(placeholder)
-
 ### U.S. Postal Service
 The U.S. Postal Service Office of Inspector General (OIG) contracted with Swiss Economics, a consulting firm with interest and expertise in blockchain technology, to better understand the technology and its features, as well as identify areas of potential interest for the Postal Service. In the long-term, the Postal Service’s experimentation with blockchain technology in financial applications could naturally expand into other applications enabled by the technology. In their paper, the OIG outlines three other areas of potential interest to the Postal Service: identity services, device management, and supply chain management. For more information, <a href="https://www.uspsoig.gov/sites/default/files/document-library-files/2016/RARC-WP-16-001.pdf">visit their website.</a>  
 
