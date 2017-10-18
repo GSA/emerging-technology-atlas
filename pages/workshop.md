@@ -61,7 +61,7 @@ description: ""
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. Improve Contact Center smart automation.</p> 
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9. Agency reform plans are expected to be responsive to the call for "shared services" in the M-17-22 and the Cyber EO.  We'd like to make sure we understand and help shape how these current and future services can leverage this type of emerging technology so that all agencies can benefit.</p> 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9. Agency reform plans are expected to be responsive to the call for "shared services" in the M-17-22 and the Cyber EO. We'd like to make sure we understand and help shape how these current and future services can leverage this type of emerging technology so that all agencies can benefit.</p> 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10. Apply AI analysis to verification of tax returns.</p> 
 
@@ -71,7 +71,7 @@ description: ""
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13. Developing smart automated business tools, mentorship, and open data resources.</p> 
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14. Enable Artificial Intelligence and Smart Automation to help government workers to improve, streamline and deconflict laws, requirements, and regulations.</p> 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14. Enable Artificial Intelligence and Smart Automation to help government workers improve, streamline and deconflict laws, requirements, and regulations.</p> 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 15. Learn how to best procure these technologies so we can teach acquisition professionals.</p> 
 
@@ -87,16 +87,16 @@ description: ""
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21. Create a single, trusted bot architecture for the federal government which creates a personal assistant for citizens to interact with, no mater the question, action, agency domain, or complexity of request.</p>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 22. Develop shareable, reuseable AI pilot programs for each maturity model and share results & impacts (cost savings, alignment with strategic priorities, etc) to develop body of knowledge.</p> 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 22. Develop shareable, reuseable AI pilot programs for each maturity model, then share results and impacts (cost savings, alignment with strategic priorities, etc.) to develop body of knowledge.</p> 
 
 ##### Source: Concepts developed by teams during the workshop 
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Apprenticeship For American Innovation: Use growth in AI, IOT & Smart Cities as an apparatus to make transparent solutions for two administration goals: apprenticeships that create job ready skills, and infrastructure development for job creation & security. Key Objectives include: use of analytics to develop smart city workforce requirements; use of existing datasets & machine learning to baseline smart city infrastructure.</p> 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Apprenticeship For American Innovation: Use growth in AI, IOT, and Smart Cities as an apparatus to make transparent solutions for two administration goals: apprenticeships that create job ready skills, and infrastructure development for job creation & security. Key objectives include: use of analytics to develop smart city workforce requirements and use of existing datasets & machine learning to baseline smart city infrastructure.</p> 
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. OpenAI.Gov: an Open AI framework / repository / standards to support architecture for chatbots & citizen services. Key Objectives include: AI collaboration / asset sharing; central entry point federated AI services to assist citizens; contextually relevant answers to citizens. Measureable metrics include: citizens interacting with openai.gov; responses marked “useful” appropriate; federal services connected; AI projects shared and used by others; productivity & savings due to tech / info sharing (e.g. costs, time, etc.)</p> 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. OpenAI.Gov: An Open AI framework / repository / standards to support architecture for chatbots and citizen services. Key objectives include: AI collaboration / asset sharing; central entry point for federated AI services to assist citizens with contextually relevant answers. Measureable metrics include: Citizens interacting with openai.gov; responses marked “useful” appropriate; federal services connected; AI projects shared and used by others; productivity and savings due to tech / information sharing (e.g. costs, time, etc.)</p> 
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Making AI in the Justice System open and accountable: promoting the use and development of open data and open source software for risk-assessment and case management in the criminal justice system. Key Objectives include: mandating that any risk-assessment software used on the federal level has open source code, training data, and machine learning technique; creating taskforce to study, report, and encourage nation-wide adoption of open source risk-assessment and case management tools. Measureable Metrics include: taskforce creation; decrease in federal jail population; increase state uptake of open source tools, reduction in state jail and prison populations, decrease recidivism rate, taxpayers savings and lower crime rate.</p> 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Making AI in the Justice System Open and Accountable: promoting the use and development of open data and open source software for risk-assessment and case management in the criminal justice system. Key objectives include: mandating that any risk-assessment software used on the federal level has open source code, training data, and machine learning technique; creating taskforce to study, report, and encourage nation-wide adoption of open source risk-assessment and case management tools. Measureable metrics include: Taskforce creation; decrease in federal jail population; increase state uptake of open source tools, reduction in state jail and prison populations, decrease recidivism rate, taxpayers savings, and lower crime rate.</p> 
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Federal Skill Finder Service (FSFS): transparently matching biggest needs with best skills. Key Objectives include: more quickly and more effectively match federal workforce and applicants to opportunities and needs; provide transparency to those seeking opportunities. Measureable metrics include: reduced time-to-hire; improved EVS scores; improved ability to mobilize resources & respond to crisis.</p> 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Federal Skill Finder Service (FSFS): Transparently matching biggest needs with best skills. Key objectives include: Quicker and more effective matching of the federal workforce and applicants to opportunities and needs; provide transparency to those seeking opportunities. Measureable metrics include: Reduced time-to-hire; improved EVS scores; improved ability to mobilize resources and respond to a crisis.</p> 
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. Smarter Marketplace: an easier way to do business with government. Key Objectives include: market concierge to identify the right acquisition vehicle for you; match you with similar buyers / sellers and make the whole process far easier. Measureable Metrics include: decreases in procurement cycle for less money & overhead to buy and sell; standardizes risk from C.O. perspective; increases Transparency in procurement process.</p> 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. Smarter Marketplace: An easier way to do business with government. Key objectives include: Market concierge to identify the right acquisition vehicle for you; match you with similar buyers / sellers and make the whole process easier. Measureable metrics include: Decreases in procurement cycle for less money and overhead to buy and sell; standardizes risk from contracting officer (CO) perspective; increases transparency in procurement process.</p> 
