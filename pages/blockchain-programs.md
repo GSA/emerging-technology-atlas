@@ -11,6 +11,8 @@ description: ""
 
 <p> This section is in early states of development and should not be considered comprehensive.</p>
 
+***
+
 ### Centers for Disease Control
 For the past several months, the CDC’s Center for Surveillance, Epidemiology, and Laboratory Services has worked on several proofs of concept based on blockchain technology, with an eye toward building real applications next year. Most are geared toward better public health surveillance, which could include using a blockchain to more efficiently manage data during a crisis or to better track opioid abuse. For more information, <a href="https://www.technologyreview.com/s/608959/why-the-cdc-wants-in-on-blockchain/">read a recent report.</a>
 
