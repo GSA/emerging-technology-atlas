@@ -7,7 +7,7 @@ description: ""
 
 ### How to Contribute
 
-<p>We encourage you to contribute use cases, reports from public service workshops and initiatives, analysis and resources to the U.S. Emerging Citizen Technology Atlas in order to ensure it evolves at the pace of the technologies themselves.</p> 
+<p>We encourage you to contribute use cases, reports from public service workshops and initiatives, analysis, and resources to the U.S. Emerging Citizen Technology Atlas in order to ensure it evolves at the pace of the technologies themselves.</p> 
 
 Here is how you can contribute:
 
@@ -27,7 +27,7 @@ Here is how you can contribute:
 
 <p>- Vulgar or abusive language;</p>
 <p>- Personal or obscene attacks of any kind;</p>
-<p>- References to the shows Big Bang Theory or this Young Sheldon, with or without the laugh track;</p>
+<p>- References to the shows Big Bang Theory or Young Sheldon, with or without the laugh track;</p>
 <p>- Suggestions or encouragement of illegal activity;</p>
 <p>- Multiple successive off-topic posts by a single user or repetitive posts copied and pasted by multiple users, or spam;</p>
 <p>- Promotion or endorsement of commercial services, products, or entities. (Note that non-commercial links that are relevant to the topic or another comment are acceptable.)</p>
