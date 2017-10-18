@@ -52,7 +52,7 @@ The U.S. Postal Service Office of Inspector General (OIG) contracted with Swiss 
 
 ### U.S. Department of Treasury
 
-<p> The Bureau of the Fiscal Service's Office of Financial Innovation and Transformation (FIT) has launched two pilot projects exploring innovative technologies - Robotic Process Automation and Distributed Ledger Technology - that can boost efficiency, strengthen accountability, and cut paperwork for the Federal government. Distributed Ledger Technology have both been shown to accelerate processing times, create efficiencies, and strengthen financial controls in the commercial sector. FIT believes Blockchain should be explored and applied to government challenges just as they have in the commercial sector. For more information on the initiative, <a href="https://www.fiscal.treasury.gov/fsservices/gov/fit/fit_launches_innovative_pilot.htm">visit the website.</a>
+<p> The Bureau of the Fiscal Service's Office of Financial Innovation and Transformation (FIT) has launched two pilot projects exploring innovative technologies - Robotic Process Automation and Distributed Ledger Technology - that can boost efficiency, strengthen accountability, and cut paperwork for the Federal government. Distributed Ledger Technology have both been shown to accelerate processing times, create efficiencies, and strengthen financial controls in the commercial sector. FIT believes Blockchain should be explored and applied to government challenges just as they have in the commercial sector. For more information on the initiative, <a href="https://www.fiscal.treasury.gov/fsservices/gov/fit/fit_launches_innovative_pilot.htm">visit the website.</a> </p>
 
 ***
 
