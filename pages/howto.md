@@ -20,7 +20,17 @@ Here is how you can contribute:
  <br>
 
    </p>
+   
+<p> This Atlas may include hypertext links or pointers to information created and maintained by other public and private organizations. GSA provides these links and pointers solely for our visitors' information and convenience. When visitors select a link to an outside website, they are leaving this Atlas and are subject to the privacy and security policies of the owners/sponsors of the outside website.
 
+When GSA provides such links, it adheres to the following <a href="https://www.gsa.gov/website-information/linking-policy">policy</a></p>
+
+<p>  
+
+ <br>
+
+   </p>
+   
 <p> We review contributions in accordance with <a href="https://app_gsagov_prod_rdcgwaajp7wr.s3.amazonaws.com/socialmediapolicy.pdf">GSA's Social Media Policy</a></p>
 
 <p> We reserve the discretion to delete or not allow contributions that contain:</p>
