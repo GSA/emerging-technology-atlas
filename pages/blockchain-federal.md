@@ -20,7 +20,7 @@ description: ""
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Appropriated funds
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Federal assistance and foreign aid delivery</p>
 
-It is important to remember, however, <a href="https://www.gartner.com/smarterwithgartner/top-10-mistakes-in-enterprise-blockchain-projects/"><span> as noted by Gartner in Top 10 Mistakes in Enterprise Blockchain Projects, </span></a>, "part of the problem is that the majority of enterprise blockchain projects don’t actually require blockchain technology. In fact, these projects would probably be more successful if they did not utilize blockchain." </p>
+It is important to remember, however, that not all proposed use cases are equal in promise, and for this reason open analyis, test and evaluation is critical. <a href="https://www.gartner.com/smarterwithgartner/top-10-mistakes-in-enterprise-blockchain-projects/"><span> As noted by Gartner in Top 10 Mistakes in Enterprise Blockchain Projects, </span></a> "part of the problem is that the majority of enterprise blockchain projects don’t actually require blockchain technology. In fact, these projects would probably be more successful if they did not utilize blockchain." </p>
 
 <p>Draft use case repository: <a href="/emerging-technology-atlas/blockchain-workshop/"><span>Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop, September 8, 2017</span></a></p>
    
