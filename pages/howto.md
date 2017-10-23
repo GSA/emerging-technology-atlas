@@ -16,12 +16,6 @@ Here is how you can contribute:
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Label the issue with the area (e.g. Artificial Intelligence, Blockchain) followed by the corresponding number and title of the federal use case you are referencing. If you are proposing a new use case, idea, or concept, please indicate it as "New" in the label.</p>
 
 ***
-
-<p>  
-
- <br>
-
-   </p>
    
 <p> This Atlas may include hypertext links or pointers to information created and maintained by other public and private organizations. GSA provides these links and pointers solely for our visitors' information and convenience. When visitors select a link to an outside website, they are leaving this Atlas and are subject to the privacy and security policies of the owners/sponsors of the outside website.
 
