@@ -34,9 +34,10 @@ description: ""
 | Federal Energy Regulatory Commission            | U.S. Digital Service                            |
 | Fintech4good                                    | Unified Shared Services Management              |
 | General Services Administration                 | U.S. Data Cabinet                               |
-| IBM                                             | USDA Forest Service                             |
-| Millenium Challenge Corporation                 | White House                                     |
-| National Archives and Records Administration    | Zilla LLC                                       |
+| Government Blockchain Association (GSA)         | USDA Forest Service                             |
+| IBM                                             | White House                                     |
+| Millenium Challenge Corporation                 | Zilla LLC                                       |
+| National Archives and Records Administration    |                                                 |
 
 ### Source: Initial concepts submitted during registration process
 
