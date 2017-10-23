@@ -15,6 +15,7 @@ description: ""
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Accessibility for persons with disabilities
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Multi-lingual services </p>
 
+<p>As noted in a recent tongue-in-cheek post <a href="https://qz.com/1067123/stop-pretending-you-really-know-what-ai-is-and-read-this-instead/"><span>"Stop pretending you really know what AI is and read this instead,"</span></a> there is a recognized challenge in defining what exactly is AI and is not AI, and what uses are the most practical for improving citizen services. This Atlas serves to help open that process to ensure federal efforts develop based on shared experience and deter duplication. </p>
 
 <p> Draft use case sources: 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://gsa.github.io/emerging-technology-atlas/workshop/"><span>1. Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop, September 8, 2017</span></a>. The U.S. Federal Blockchain Forum was an inter-agency forum with 62 participating government offices hosted at General Services Administration July 18, 2017, for executives across the federal government to learn about advances in Blockchain technology, discuss use cases and set an agenda for working together to evaluate and implement it among our diverse missions. 27 of those concepts are shared here. 
