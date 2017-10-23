@@ -22,6 +22,8 @@ description: ""
 
 It is important to remember, however, that not all proposed use cases are equal in promise, and for this reason open analyis, test and evaluation is critical. <a href="https://www.gartner.com/smarterwithgartner/top-10-mistakes-in-enterprise-blockchain-projects/"><span> As noted by Gartner in Top 10 Mistakes in Enterprise Blockchain Projects, </span></a> "part of the problem is that the majority of enterprise blockchain projects don’t actually require blockchain technology. In fact, these projects would probably be more successful if they did not utilize blockchain." </p>
 
+This Atlas serves to help open that process to ensure federal efforts develop based on shared experience and deter duplication. 
+
 <p>Draft use case repository: <a href="/emerging-technology-atlas/blockchain-workshop/"><span>Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop, September 8, 2017</span></a></p>
    
 <p>Draft use case repository: <a href="/emerging-technology-atlas/blockchain-forum/"><span>U.S. Federal Blockchain Forum, July 18, 2017</span></a></p>
