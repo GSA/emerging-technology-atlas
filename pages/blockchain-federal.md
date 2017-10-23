@@ -24,7 +24,7 @@ It is important to remember, however, that not all proposed use cases are equal 
 
 This Atlas serves to help open that process to ensure federal efforts develop based on shared experience and deter duplication. </p>
 
-<p>Draft use case repository: <a href="/emerging-technology-atlas/blockchain-workshop/"><span>Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop, September 8, 2017</span></a></p>
-   
-<p>Draft use case repository: <a href="/emerging-technology-atlas/blockchain-forum/"><span>U.S. Federal Blockchain Forum, July 18, 2017</span></a></p>
+<p> Draft use case sources: 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/emerging-technology-atlas/blockchain-workshop/"><span>Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop, September 8, 2017</span></a>. The U.S. Federal Blockchain Forum was an inter-agency forum with 62 participating government offices hosted at General Services Administration July 18, 2017, for executives across the federal government to learn about advances in Blockchain technology, discuss use cases and set an agenda for working together to evaluate and implement it among our diverse missions. 79 of those concepts are shared here. 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/emerging-technology-atlas/blockchain-forum/"><span>U.S. Federal Blockchain Forum, July 18, 2017</span></a></p>
 
