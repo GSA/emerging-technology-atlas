@@ -22,9 +22,9 @@ This section is in early states of development and should not be considered comp
 ### Government Blockchain Association
 <a href="https://governmentblockchain.org">Welcome to the Government Blockchain Association</a> "...We are committed to helping government and public sector people & organizations understand, implement and benefit from blockchain related technologies and capabilities.  We do this by making blockchain related resources available to government and public sector consumers..."
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. <a href="https://governmentblockchain.org/membership">Membership in the GBA is free to civil servants</a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. <a href="https://governmentblockchain.org/blockchain-resources/working-groups-location-chapters>GBA has locations around the country for civil servants to receive free training</a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. <a href="https://governmentblockchain.org/working-groups">Civil Servants can join blockchain working groups for free</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. <a href="https://governmentblockchain.org/membership>Membership in the GBA is free to civil servants"</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. <a href="https://governmentblockchain.org/blockchain-resources/working-groups-location-chapters>GBA has locations around the country for civil servants to receive free training"</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. <a href="https://governmentblockchain.org/working-groups>Civil Servants can join blockchain working groups for free"</a></p>
 
 ### NASCIO
 <a href="https://www.nascio.org/Portals/0/Publications/Documents/2017/NASCIO%20Blockchains%20in%20State%20Government.pdf?ver=2017-05-16-090507-033">Blockchains: Moving Digital Government Forward in the States</a> "...We won’t delve into the mechanics of blockchains, nor the potential for proliferation of new “e-currencies. NASCIO will open the door to the world of blockchains through a variety of conversations with leaders in state government and industry in order to begin discussions regarding where blockchain technology can serve the mission of state government...."
