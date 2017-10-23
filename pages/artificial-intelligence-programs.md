@@ -21,6 +21,9 @@ description: ""
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.fbo.gov/index?s=opportunity&mode=form&tab=core&id=178e6faba980ab956fa595d968f0088a">AI Augmentation of the FASTlane Acquisition Process:</a> "...an initiative to develop a proof of concept for DLT (Distributed Ledger Technology), automated machine learning technology, and/or artificial intelligence based exchange implementation into GSA's Multiple Award Schedule (MAS) FAStlane new offer proposal review processes."
 
+### Department of Health and Human Services
+National Cancer Institute’s Smokefree.gov is working on a pilot to create a quit-smoking support chatbot that could address the needs of individual smokers via an adaptive artificial intelligence platform. The goal is to create a minimum viable product that can help launch Smokefree.gov into the AI space. Ultimately, they want to create a robust platform that’s engaging for the consumer, as well as being a viable clinical tool to support smoking cessation. This project was selected to participate on the 7th round of the HHS Ignite Accelerator.
+
 ### Department of Homeland Security -- U.S. Citizenship and Immigration Services 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.uscis.gov/emma">Ask EMMA.</a> "...Meet “Emma,” a computer-generated virtual assistant who can answer your questions and even take you to the right spot on our website. Emma is named for Emma Lazarus, who wrote the poem inscribed at the base of the Statue of Liberty about helping immigrants. Inspired by her namesake, our Emma can help you find the immigration information you need."
 
