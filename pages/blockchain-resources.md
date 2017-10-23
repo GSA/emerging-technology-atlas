@@ -14,6 +14,8 @@ This section is in early states of development and should not be considered comp
 ***
 
 ### ACT-IAC
+<a href="https://www.actiac.org/act-iac-white-paper-enabling-blockchain-innovation-us-federal-government">Enabling Blockchain Technology in the U.S. Federal Government</a> "...This Primer is intended to be a foundational tool in the understanding of blockchain and its use cases within the United States federal government.  To that end, it should help allay the concerns that some may have about this new technology by providing an introduction to blockchain and its related technologies, and how blockchain can be safely and securely applied to the right government use cases..."
+
 <a href="https://www.actiac.org/groups/blockchain-0">What Is Blockchain And Why Should I Be Interested?</a> "...ACT-IAC is stepping up to be a resource and central point of information for government and industry by providing forums, working groups and white papers, a knowledge bank of articles and data, and an environment to share and grow Blockchain where and when needed.  Working with the Emerging Technology Community of Interest (COI), the Institute for Innovation, and the strategy planning group of government and industry, ACT-IAC is looking to be the “go-to” association on Blockchain...."
 
 ### The Economist
