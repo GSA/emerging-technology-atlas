@@ -38,7 +38,7 @@ navigation:
 - text: "Home"
   url: /
 - text: "Latest Updates"
-  url: /updates
+  url: /updates/
 - text: "How to Contribute"
   url: /howto/
 - text: "About Emerging Citizen Technology Program"
