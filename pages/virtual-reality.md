@@ -15,7 +15,7 @@ description: ""
 
 <p>GSA’s Emerging Citizen Technology program launched the <a href="https://www.digitalgov.gov/2016/10/26/gsa-launches-new-ai-virtual-reality-and-authentication-programs/">Federal Virtual/Augmented Reality program</a> in October, 2017 to serve as a collaborative hub for the research and refinement of VR and AR business cases and pilot programs across government.</p>
 
-<p>Federal agencies are eager to share their ideas on how this new medium might expand and improve their services--using virtual therapy to treat PTSD, educating farmers on the installation of solar panels, or disaster management preparedness and response. To help explore and share these great ideas, we host workshops where agencies and industry specialists can brainstorm and demonstrate the new technologies.</p>
+<p>Federal agencies are eager to share their ideas on how this new medium might expand and improve their services--using virtual therapy to treat PTSD or disaster management preparedness and response. To help explore and share these great ideas, we host workshops where agencies and industry specialists can brainstorm and demonstrate the new technologies.</p>
 
 <p>Get Involved</p>
 
