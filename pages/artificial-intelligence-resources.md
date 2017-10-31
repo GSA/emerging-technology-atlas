@@ -9,9 +9,7 @@ description: ""
 
 <p>In this section find and contribute quick reference links to resources for the potential use of Artificial Intelligence for Citizen Services in the government.</p>
 
-<p> This section is in early states of development and should not be considered comprehensive. All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
-
-.</p>
+<p> This section is in early states of development and should not be considered comprehensive. All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency. </p>
 
 ***
 
