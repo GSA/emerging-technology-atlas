@@ -15,15 +15,12 @@ description: ""
 
 <a href="https://dupress.deloitte.com/dup-us-en/focus/cognitive-technologies/artificial-intelligence-government-summary.html">Artificial Intelligence in Government</a> "...Can “smart” technology make government, well, smarter? It’s already happening: Through AI-based applications, developers are looking to transform the public sector by automating tasks and much more. But for optimal gain, agencies must make tough choices about where and how to introduce new technologies..."
 
-<a href="https://ash.harvard.edu/files/ash/files/artificial_intelligence_for_citizen_services.pdf">Artificial Intelligence for Citizen Services
-and Government. Hila Mehr, Harvard Ash Center Technology & Democracy Fellow, August 2017</a>
-"...While the potential future use cases of AI in government remain bounded by government resources and the limits of both human creativity and trust in government, the most obvious and immediately beneficial opportunities are those where AI can reduce administrative burdens, help resolve resource allocation problems, and take on significantly complex tasks. Many AI case studies in citizen services today fall into five categories: answering questions, filling out and searching documents, routing requests, translation, and drafting documents. These applications could make government work more efficient while freeing up time for employees to build better relationships with citizens. With citizen satisfaction with digital government offerings leaving much to be desired, AI may be one way to bridge the gap while improving citizen engagement and service delivery..."
+<a href="https://ash.harvard.edu/files/ash/files/artificial_intelligence_for_citizen_services.pdf">"Artificial Intelligence for Citizen Services and Government. Hila Mehr, Harvard Ash Center Technology & Democracy Fellow, August 2017"</a> - A Harvard Kennedy School Ash Center resource on potential future cases of AI in government, including improving citizen feedback and services. (non-government link, not endorsed)
 
-<a href="https://www.nvidia.com/en-us/deep-learning-ai/industries/public-good/">"Deep Learning and AI for Public Good"</a> - A resource from NVIDIA on all things AI for the public sector.
+<a href="https://www.nvidia.com/en-us/deep-learning-ai/industries/public-good/">"Deep Learning and AI for Public Good"</a> - A resource from NVIDIA on all things AI for the public sector. (non-government link, not endorsed)
 
 <a href="http://www.oracle.com/us/industries/public-sector/build-gov-21-century-br-2389343.pdf">"Building Government
-for the 21st Century: Embracing Modern Technologies to Engage with Constituents"</a>
-- An article from Oracle on how to embrace modern technologies, including Self-driving cars and smartphone assistant. Examples include improved productivity, fraud detection and understanding customer sentiment.
+for the 21st Century: Embracing Modern Technologies to Engage with Constituents"</a> - An article from Oracle on how to embrace modern technologies, including Self-driving cars and smartphone assistant. Examples include improved productivity, fraud detection and understanding customer sentiment. (non-government link, not endorsed)
 
 ### Intelligence Personal Assistant Development Resources:
 <a href="https://github.com/GSA/AI-Assistant-Pilot/wiki/Resources">Source: Federal AI Personal Assistant Pilot</a>
