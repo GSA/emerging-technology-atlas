@@ -23,7 +23,7 @@ description: ""
 for the 21st Century: Embracing Modern Technologies to Engage with Constituents"</a> - An article from Oracle on how to embrace modern technologies, including Self-driving cars and smartphone assistant. Examples include improved productivity, fraud detection and understanding customer sentiment. (non-government link, not endorsed)
 
 ### Intelligence Personal Assistant Development Resources:
-<a href="https://github.com/GSA/AI-Assistant-Pilot/wiki/Resources">Source: Federal AI Personal Assistant Pilot</a>
+<a href="https://github.com/GSA/AI-Assistant-Pilot/wiki/Resources">Source: Federal AI Personal Assistant Pilot</a> - Development resources for common AI Personal Assistants. These are all non-government links directly to the development resources, and do not imply endorsement. 
 
 #### Google Assistant
 - [Google Assistant Developer Kit:](https://developers.google.com/actions/) 
