@@ -19,7 +19,7 @@ description: ""
 and Government. Hila Mehr, Harvard Ash Center Technology & Democracy Fellow, August 2017</a>
 "...While the potential future use cases of AI in government remain bounded by government resources and the limits of both human creativity and trust in government, the most obvious and immediately beneficial opportunities are those where AI can reduce administrative burdens, help resolve resource allocation problems, and take on significantly complex tasks. Many AI case studies in citizen services today fall into five categories: answering questions, filling out and searching documents, routing requests, translation, and drafting documents. These applications could make government work more efficient while freeing up time for employees to build better relationships with citizens. With citizen satisfaction with digital government offerings leaving much to be desired, AI may be one way to bridge the gap while improving citizen engagement and service delivery..."
 
-<a href="https://www.nvidia.com/en-us/deep-learning-ai/industries/public-good/">"Deep Learning and AI for Public Good"</a> A resource from NVIDIA on all things AI for the public sector.
+<a href="https://www.nvidia.com/en-us/deep-learning-ai/industries/public-good/">"Deep Learning and AI for Public Good"</a> - A resource from NVIDIA on all things AI for the public sector.
 
 <a href="http://www.oracle.com/us/industries/public-sector/build-gov-21-century-br-2389343.pdf">"Building Government
 for the 21st Century: Embracing Modern Technologies to Engage with Constituents"</a>
