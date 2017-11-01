@@ -24,7 +24,7 @@ This section is in early states of development and should not be considered comp
 
 <a href="https://www.gartner.com/smarterwithgartner/top-10-mistakes-in-enterprise-blockchain-projects/">"Top 10 Mistakes in Enterprise Blockchain Projects"</a> - A report from Gartner on common mistakes when evaluating Blockchain technology. (non-government link, not endorsed)
 
-<a href="https://governmentblockchain.org">Welcome to the Government Blockchain Association</a> Resources from the Government Blockchain Association available to federal managers. (non-government link, not endorsed)
+<a href="https://governmentblockchain.org">The Government Blockchain Association</a> - Resources from the Government Blockchain Association available to federal managers. (non-government link, not endorsed)
 
 <a href="https://www.nascio.org/Portals/0/Publications/Documents/2017/NASCIO%20Blockchains%20in%20State%20Government.pdf?ver=2017-05-16-090507-033">"Blockchains: Moving Digital Government Forward in the States"</a> - A resource from the National Association of State Chief Information Officers on advancing Blockchain technology in state governments. (non-government link, not endorsed)
 
