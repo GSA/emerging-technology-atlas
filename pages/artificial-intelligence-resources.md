@@ -13,7 +13,7 @@ description: ""
 
 ***
 
-<a href="https://dupress.deloitte.com/dup-us-en/focus/cognitive-technologies/artificial-intelligence-government-summary.html">Artificial Intelligence in Government</a> "...Can “smart” technology make government, well, smarter? It’s already happening: Through AI-based applications, developers are looking to transform the public sector by automating tasks and much more. But for optimal gain, agencies must make tough choices about where and how to introduce new technologies..."
+<a href="https://dupress.deloitte.com/dup-us-en/focus/cognitive-technologies/artificial-intelligence-government-summary.html">Artificial Intelligence in Government</a> - A Deloitte Insights resource on AI-based applications and automation. (non-government link, not endorsed)
 
 <a href="https://ash.harvard.edu/files/ash/files/artificial_intelligence_for_citizen_services.pdf">"Artificial Intelligence for Citizen Services and Government. Hila Mehr, Harvard Ash Center Technology & Democracy Fellow, August 2017"</a> - A Harvard Kennedy School Ash Center resource on potential future cases of AI in government, including improving citizen feedback and services. (non-government link, not endorsed)
 
