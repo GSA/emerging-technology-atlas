@@ -17,7 +17,9 @@ This section is in early states of development and should not be considered comp
 
 <a href="https://www.actiac.org/act-iac-white-paper-enabling-blockchain-innovation-us-federal-government">"Enabling Blockchain Technology in the U.S. Federal Government"</a> - A white paper from ACT-IAC on Blockchain in the federal government. (non-government link, not endorsed)
 
-<a href="https://www.actiac.org/groups/blockchain-0">What Is Blockchain And Why Should I Be Interested?</a> - An ACT-IAC working group and resources for Blockchain in the federal government. (non-government link, not endorsed)
+<a href="https://www.actiac.org/groups/blockchain-0">"What Is Blockchain And Why Should I Be Interested?"</a> - An ACT-IAC working group and resources for Blockchain in the federal government. (non-government link, not endorsed)
+
+<a href="https://blockchan.ge">"Blockchange"</a> - A New York University GovLab initiative to examine the potential of Blockchain for social change. (non-government link, not endorsed)
 
 <a href="https://www.economist.com/news/business/21722869-anti-establishment-technology-faces-ironic-turn-fortune-governments-may-be-big-backers">"Governments may be big backers of the blockchain"</a> - An article from The Economist on the role of the public sector in Blockchain development. (non-government link, not endorsed)
 
