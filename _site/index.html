@@ -34,7 +34,10 @@
     <meta name="description" content="">
     <meta property="og:description" content="" />
   
-
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+  
 </head>
 <body>
 
