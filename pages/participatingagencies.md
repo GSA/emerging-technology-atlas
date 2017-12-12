@@ -7,7 +7,7 @@ description: ""
 
 ### Participating Agencies in the Emerging Citizen Technology Office 
 
-<p>We work across government to maximize the impact of emerging technologies in IT modernization with participation from more than 300 federal, state, and local government entities -- including all cabinet-level departments, all branches of the armed services, and more than a dozen states.</P
+<p>We work across government to maximize the impact of emerging technologies in IT modernization with participation from more than 300 federal, state, and local government entities -- including all cabinet-level departments, all branches of the armed services, and more than a dozen states.</p>
 
 <p> <br> </p>
 
