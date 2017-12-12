@@ -11,8 +11,8 @@ description: ""
 
 <p> <br> </p>
 
-|                                                                         Organizations                                          ||
-| ------------------------------------------------------------------------------|:-----------------------------------------------:|
+|                                                                             Organizations                                                                                                   ||
+| ------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------:|
 | Administrative Conference of the United States                                | Department of the Interior |
 | Administrative Office of the U.S. Courts                                      | Department of the Interior Bureau of Land Management |
 | Advisory Council on Historic Preservation                                     | Department of the Interior National Park Service |
