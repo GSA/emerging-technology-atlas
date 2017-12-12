@@ -47,6 +47,10 @@ navigation:
 - text: "About Emerging Citizen Technology Program"
   url: /emergingcitizentech/
   
+  sub_navigation:
+  - text: <span>Participating Agencies in ECTO</span>
+    url: /participatingagencies/
+  
 - text: "Artificial Intelligence for Citizen Services"
   url: /artificial-intelligence/
 
