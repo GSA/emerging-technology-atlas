@@ -3,6 +3,9 @@ layout: default
 title: Emerging Technology Atlas
 permalink: /
 description: ""
+
+# Google Analytics
+google_analytics: UA—110413123-1
 ---
 
 
