@@ -5,6 +5,6 @@ permalink: /Meeting-Notes/
 description: ""
 ---
 # Emerging Citizen Technology Meeting Notes
-## Inter-agency Forums
+## Inter-agency Meetings
 ### 2017
-[December 2017 Inter-agency Federal Emerging Citizen Technologies Forum](https://gsa.github.io/emerging-technology-atlas/2017-12-forum) 
+[December 2017 Inter-agency Federal Emerging Citizen Technologies Meeting](https://gsa.github.io/emerging-technology-atlas/2017-12-meeting) 
