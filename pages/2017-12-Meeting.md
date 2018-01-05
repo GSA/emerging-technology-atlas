@@ -14,10 +14,10 @@ Participants: 72 government managers
 
 ## Meeting Agenda
 
-### 1. Welcome & Introductions
+### Welcome & Introductions
 * Justin Herman, GSA Emerging Citizen Technology Office (ECTO)
 
-### 2. U.S. Emerging Citizen Technology Atlas Update
+### U.S. Emerging Citizen Technology Atlas Update
 
 * New “Paths to Acquisition” resource for the Business of Federal AI and Emerging Technologies (Kelly Pippin, GSA Federal Acquisition Services)
   * GSA’s mission is to deliver the best value in acquisition and tech services to the American government and to make it easier for government and industry to understand acquisition. This resource (a new section of the ECTO Atlas) will be published soon, but ECTO will share it with agencies before official publish date.
@@ -28,7 +28,7 @@ Participants: 72 government managers
     * Other Contracting Vehicles
 * **Action Item:** ECTO will share the Pathways to Acquisition resource with agencies and user groups for feedback before official launch on Atlas.
 
-### 3. New ECTO Venture Capital Advisory Group
+### New ECTO Venture Capital Advisory Group
 
 * Molly Cain and Jennifer Hoover, DHS Venture, Innovation and Engagement (VICE) #InnovateDHS)
   * ECTO Inter-agency Communities are launching a Venture Capital/Market Intelligence Advisory Group, spearheaded by DHS VICE.
@@ -38,7 +38,7 @@ Participants: 72 government managers
   * This effort will unfold in 90 day chunks/phases as we think about what we want to accomplish during that span and put the right people in the room. 
   * Packaging and messaging this is a collaborative activity - want to show the broad range of value.
 
-### 4. Communities and Pilots Update and Discussion
+### Communities and Pilots Update and Discussion
 
 * Artificial Intelligence for Citizen Services
   * Intelligent Personal Assistant terms of service
@@ -68,7 +68,7 @@ Participants: 72 government managers
   * Telework and remote presence continues to be a strong use case for further testing and development. 
   * **Action Item:** Connect National Capital Planning Commission with GSA Public Building Service to collaborate on VR/AR pilots for public buildings. 
 
-### 5. New Business
+### New Business
 
 * Training, Education and Awareness Needs
   * **Action Item:** The group will begin to develop a draft a pilot training and education program around emerging technologies including Artificial Intelligence, Robotic Process Automation and Blockchain, initially targeting high-need communities including:
@@ -82,6 +82,6 @@ Participants: 72 government managers
   * **Action Item:** GSA will make a calendar with upcoming events and will put it in the Atlas for collaborative working.
   * **Action Item:** Figure out how to categorize and promote the multitude of activities, pilots, research projects that agencies are engaged in across government.
 
-### 6. Next Meeting & Adjourn
+### Next Meeting & Adjourn
 
 * January 10, 1030-1200, U.S. National Archives and Records Administration
