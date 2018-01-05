@@ -12,7 +12,7 @@ U.S. General Services Administration <br>
 
 Participants: 72 government managers
 
-## Meeting Agenda
+## Meeting Notes
 
 ### Welcome & Introductions
 * Justin Herman, GSA Emerging Citizen Technology Office (ECTO)
