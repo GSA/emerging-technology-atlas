@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Emerging Technology Atlas | December 2017 Meeting"
-permalink: /2017-12-Forum/
+permalink: /2017-12-Meeting/
 description: ""
 ---
 
