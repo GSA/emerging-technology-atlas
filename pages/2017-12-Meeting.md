@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Emerging Technology Atlas | December 2017 Forum"
+title: "Emerging Technology Atlas | December 2017 Meeting"
 permalink: /2017-12-Forum/
 description: ""
 ---
 
-# Inter-agency Federal Emerging Citizen Technologies Forum
+# Inter-agency Federal Emerging Citizen Technologies Meeting
 December 13, 2017, 10:30-12:00 <br>
 U.S. General Services Administration <br>
 1800 F Street NW, Washington, D.C.
