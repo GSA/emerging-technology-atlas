@@ -49,7 +49,7 @@ Innovation Hub <br>
 ### U.S. Emerging Citizen Technology Atlas Update 
 * Update on new “Paths to Acquisition” resource (Kelly Pippin, GSA Federal Acquisition Services) for the Business of Federal Emerging Technologies that will help businesses demystify working with the federal government, and help agencies evaluate options across government to pilot and acquire emerging tech.
   * Main pathways include:
-    * GSA Schedules, IDVs, OTAs, Challenge.gov, JVPs (through national technical information service program).
+    * GSA Schedules, IDVs, OTAs, Challenge.gov, JVPs (through a National Technical Information Service program).
     * If you have other pathways to suggest please email Kelly.Pippin@gsa.gov. 
 * We now share the action items/notes from these meetings on the Atlas.
 * **Action Item:** The URL of the Atlas will soon change to a more permanent home on the Digital.gov domain, timed with the release of the “Paths to Acquisition,” resource and our new government-wide emerging technology calendar, in roughly two weeks. 
