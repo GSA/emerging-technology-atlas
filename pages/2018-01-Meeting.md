@@ -58,7 +58,7 @@ Innovation Hub <br>
 ### Inter-agency ECTO Initiatives Update 
 * **Action Item:** GSA ECTO is launching monthly data calls across all participating programs in order to analyze and report trends in emerging technology needs and opportunities in the federal government. Reports each month will be distributed through the Emerging Citizen Technology Communities. If you have an insight you need integrated into the data call, please reach out to emergingtech@gsa.gov. 
 * Venture Capital Advisory Group initiative:
-  * Molly Cain and Jennifer Hoover, DHS Venture, Innovation and Engagement (VICE) #InnovateDHS)
+  * Molly Cain and Jennifer Hoover, DHS Venture, Innovation and Engagement (VICE) #InnovateDHS
   * The VC Advisory Group is a group that will help us use the VC community to help us keep tabs on what will be coming up in the future. We are looking at 7 VCs for the inaugural group that would help us streamline the proof-of-concept process, the procurement process, pour fuel on existing programs that are under-served but deserve more attention. Also want the group to help amplify best business practices. We are formalizing these processes and are looking to have open, frank discussions.
   * Federal Bureau of Investigation Innovation team is on-board to be our co-chair. 
   * **Action Item:** If you are interested in joining this initiative please email molly.cain@hq.dhs.gov, jennifer.hoover@hq.dhs.gov and emergingtech@gsa.gov. 
