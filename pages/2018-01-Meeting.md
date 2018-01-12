@@ -52,7 +52,7 @@ Innovation Hub <br>
     * GSA Schedules, IDVs, OTAs, Challenge.gov, JVPs (through national technical information service program).
     * If you have other pathways to suggest please email Kelly.Pippin@gsa.gov. 
 * We now share the action items/notes from these meetings on the Atlas.
-* **Action Item:** the URL of the Atlas will soon change to a more permanent home on the Digital.gov domain, timed with the release of the “Paths to Acquisition,” resource and our new government-wide emerging technology calendar, in roughly two weeks. 
+* **Action Item:** The URL of the Atlas will soon change to a more permanent home on the Digital.gov domain, timed with the release of the “Paths to Acquisition,” resource and our new government-wide emerging technology calendar, in roughly two weeks. 
 * **Action Item:** We now have a Trello management dashboard and Slack channel for inter-agency coordination of Emerging Citizen Technology initiatives. Invitations will be provided where possible and appropriate this month. 
 
 ### Inter-agency ECTO Initiatives Update 
