@@ -4,8 +4,8 @@ title: "Emerging Technology Atlas | Meeting Notes"
 permalink: /Meeting-Notes/
 description: ""
 ---
-# Emerging Citizen Technology Meeting Notes
-## Inter-agency Meetings
+# Emerging Citizen Technology Action Meeting Notes
+## Inter-agency Action Meetings
 ### 2018
 [January 2018 Inter-agency Emerging Citizen Technologies Meeting](https://gsa.github.io/emerging-technology-atlas/2018-01-Meeting/)
 
