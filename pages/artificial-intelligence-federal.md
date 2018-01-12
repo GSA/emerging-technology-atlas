@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Emerging Technology Atlas | Title of the page"
+title: "Emerging Technology Atlas | Artificial Intelligence Use Cases"
 permalink: /artificial-intelligence-federal/
 description: ""
 ---
