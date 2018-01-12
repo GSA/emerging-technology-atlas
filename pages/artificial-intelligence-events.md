@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Emerging Technology Atlas | Title of the page"
+title: "Emerging Technology Atlas | Artificial Intelligence Events"
 permalink: /artificial-intelligence-events/
 description: ""
 ---
