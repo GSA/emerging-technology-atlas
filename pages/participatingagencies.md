@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Emerging Technology Atlas | Title of the page"
+title: "Emerging Technology Atlas | Participating Agencies"
 permalink: /participatingagencies/
 description: ""
 ---
