@@ -5,6 +5,11 @@ permalink: /calendar/
 type: info
 calendar: true
 ---
+
+<p>In this section you will find a list of upcoming events relating to Emerging Citizen Technology. If you would like to share events that are open to public servants, please send an email to EmergingTech@gsa.gov.</p>
+
+<p> This calendar is in early states of development and should not be considered comprehensive. All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency. </p>
+
 <div class="span3">
 	
 <div id="upcoming"></div><!--/span-->
