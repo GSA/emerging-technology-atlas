@@ -3,7 +3,6 @@ layout: page
 title: Emerging Citizen Technology Office Calendar of Events
 permalink: /calendar/
 type: info
-header_text: List of 2018 Events
 calendar: true
 ---
 <div class="span3">
