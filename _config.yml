@@ -53,6 +53,9 @@ navigation:
 
 - text: "Meeting Notes"
   url: /Meeting-Notes/
+  
+- text: "Events Calendar"
+  url: /calendar/
 
 - text: "Artificial Intelligence for Citizen Services"
   url: /artificial-intelligence/
