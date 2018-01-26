@@ -20,7 +20,7 @@ calendar: true
 <p> - Blockchain and Distributed Ledger Technologies
 <p> - The Internet of Things and Drones
 <p> - Virtual and Augmented Reality
-<p> - Social and Collaborative Technologies
+<p> - Social and Collaborative Technologies </p>
 
 If you would like to share events that are open to public servants, please send an email to EmergingTech@gsa.gov.</p>
 
