@@ -5,6 +5,15 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
+
+  <script type="text/javascript">
+    var myurl = https://gsa.github.io/emerging-technology-atlas/;
+    var currenturl = window.location;
+    if(myurl == currenturl) {
+      window.location.href = "https://emerging.digital.gov";
+    }
+  </script>
+
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/normalize.css">
   <link href="{{ site.baseurl }}/assets/css/google-fonts.css" rel="stylesheet" type="text/css">
@@ -41,7 +50,7 @@
     <meta property="og:description" content="{{ site.description | xml_escape }}" />
   {% endif %}
 
-  
+
 </head>
 <body>
 
