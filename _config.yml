@@ -22,7 +22,7 @@ exclude:
 # Site metadata
 name: "U.S. Emerging Citizen Technology Atlas"
 description: "All of the federal emerging citizen technology."
-baseurl: /emerging-technology-atlas
+baseurl: ""
 
 # Google Analytics
 google_analytics: UA—110413123-1
@@ -46,14 +46,14 @@ navigation:
   url: /howto/
 - text: "About Emerging Citizen Technology Office"
   url: /emergingcitizentech/
-  
+
   sub_navigation:
   - text: <span>Participating Agencies in ECTO</span>
     url: /participatingagencies/
 
 - text: "Meeting Notes"
   url: /Meeting-Notes/
-  
+
 - text: "Events Calendar"
   url: /calendar/
 
@@ -67,14 +67,14 @@ navigation:
     url: /artificial-intelligence-programs/
   - text: <span>Resources</span>
     url: /artificial-intelligence-resources/
-    
+
 - text: "Blockchain"
   url: /Blockchain/
-  
+
   sub_navigation:
   - text: <span>Potential Use Cases</span>
     url: /blockchain-federal/
   - text: <span>Programs in Action</span>
     url: /blockchain-programs/
   - text: <span>Resources</span>
-    url: /blockchain-resources/  
+    url: /blockchain-resources/
