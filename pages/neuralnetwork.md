@@ -8,4 +8,4 @@ description: ""
 ### Pathways to Acquisition Neural Network
 
 
-![Pathways Neural Network](../assets/images/PathwaysNeuralNetwork.png)
+![Pathways Neural Network](../assets/images/PathwaysNeuralNetwork.png){:height="75%" width="75%"}
