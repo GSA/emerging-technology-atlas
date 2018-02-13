@@ -60,21 +60,5 @@ navigation:
 - text: "Artificial Intelligence for Citizen Services"
   url: /artificial-intelligence/
 
-  sub_navigation:
-  - text: <span>Potential Use Cases</span>
-    url: /artificial-intelligence-federal/
-  - text: <span>Programs in Action</span>
-    url: /artificial-intelligence-programs/
-  - text: <span>Resources</span>
-    url: /artificial-intelligence-resources/
-
 - text: "Blockchain"
   url: /Blockchain/
-
-  sub_navigation:
-  - text: <span>Potential Use Cases</span>
-    url: /blockchain-federal/
-  - text: <span>Programs in Action</span>
-    url: /blockchain-programs/
-  - text: <span>Resources</span>
-    url: /blockchain-resources/
