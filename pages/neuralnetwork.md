@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Pathways to Acqusition Neural Network | Title of the page"
+title: "Pathways to Acquisition Neural Network | Title of the page"
 permalink: /neuralnetwork/
 description: ""
 ---
