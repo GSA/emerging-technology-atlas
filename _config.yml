@@ -57,7 +57,7 @@ navigation:
 - text: "Events Calendar"
   url: /calendar/
 
-- text: "Artificial Intelligence for Citizen Services"
+- text: "Artificial Intelligence"
   url: /artificial-intelligence/
 
 - text: "Blockchain"
