@@ -7,6 +7,13 @@ description: ""
 
 ### Blockchain
 
+<p><a href="https://emerging.digital.gov/blockchain-federal/"><span>Potential Use Cases</span></a></p>
+
+<p><a href="https://emerging.digital.gov/blockchain-programs/"><span>Programs in Action</span></a></p>
+
+<p><a href="https://emerging.digital.gov/blockchain-resources/"><span>Resources</span></a></p>
+
+
 
 <p>Federal agencies are eager to better evaluate, test and potentially adopt distributed ledger technologies like Blockchain that use encryption and coding to improve transparency, efficiency and trust in information sharing.
 
