@@ -8,4 +8,4 @@ description: ""
 ### Pathways to Acquisition Neural Network
 
 
-<p>![alt text](https://github.com/GSA/emerging-technology-atlas/blob/master/assets/images/PathwaysNeuralNetwork.png "Pathways to Acquisition")</p>
+![Pathways Neural Network](../assets/images/PathwaysNeuralNetwork.png)
