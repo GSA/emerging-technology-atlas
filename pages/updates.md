@@ -9,7 +9,8 @@ description: ""
 
 ***
 
-1/30/19: Migrated to Emerging.Digital.gov URL and The Federalist. 
+2/13/18: Reorganized Atlas architecture.
+1/30/18: Migrated to Emerging.Digital.gov URL and The Federalist. 
 <p>1/26/18: Test launched Events Calendar. 
 <p> 11/06/17: Added to the Blockchain Resources page. 
 <p> 11/01/17: The link to the U.S. Federal Blockchain Forum on the Blockchain Use Cases page now goes to the appropriate page. Thanks users for pointing out. 
