@@ -5,7 +5,7 @@ permalink: /artificial-intelligence/
 description: ""
 ---
 
-# Artificial Intelligence for Citizen Services
+# Artificial Intelligence
 
 <p><a href="https://emerging.digital.gov/artificial-intelligence-federal/"><span>Potential Use Cases</span></a></p>
 
