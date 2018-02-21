@@ -9,7 +9,8 @@ description: ""
 
 ***
 
-2/13/18: Reorganized Atlas architecture.
+2/20/18: Added February Action Meeting Notes
+<p> 2/13/18: Reorganized Atlas architecture.
 <p>1/30/18: Migrated to Emerging.Digital.gov URL and The Federalist. 
 <p>1/26/18: Test launched Events Calendar. 
 <p> 11/06/17: Added to the Blockchain Resources page. 
