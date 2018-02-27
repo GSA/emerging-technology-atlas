@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Emerging Technology Atlas | About ECT"
+title: "About ECT"
 permalink: /emergingcitizentech/
 description: ""
 ---
