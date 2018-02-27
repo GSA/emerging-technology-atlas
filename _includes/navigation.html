@@ -1,14 +1,13 @@
 <aside class="usa-width-one-fourth usa-layout-docs-sidenav">
-  <a class="skip-link visuallyhidden focusable" href="#main">Skip to Main Content</a>
   <ul class="usa-sidenav-list">
     {% for item in site.navigation %}
       {% assign current = '' %}
       {% if page.url == item.url %}
         {% assign current = 'usa-current' %}
       {% endif %}
-      <li class="{{ current }}">
+      <li>
         {% if item.url %}
-        <a href="{{ site.baseurl }}{{ item.url }}">{{ item.text }}</a>
+        <a class="{{ current }}" href="{{ site.baseurl }}{{ item.url }}">{{ item.text }}</a>
         {%else%}
         {{ item.text }}
         {% endif %}
@@ -22,7 +21,7 @@
             {% assign subcurrent = 'usa-current' %}
           {% endif %}
 
-          <li  class="{{ subcurrent }}"> <a href="{{ site.baseurl }}{{ sub_item.url }}">{{ sub_item.text }}</a></li>
+          <li> <a class="{{ subcurrent }}" href="{{ site.baseurl }}{{ sub_item.url }}">{{ sub_item.text }}</a></li>
 
         {% endfor %}
         {% if item.sub_nav[0] %}
