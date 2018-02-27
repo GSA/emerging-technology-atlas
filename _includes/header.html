@@ -1,18 +1,48 @@
-<header role="banner">
-  <div class="hbadge">
-    <img src="{{ site.baseurl }}/assets/images/badge.png" alt="OpenGov National Archives"/>
+{% include gov-banner.html %}
+
+<header class="usa-header usa-header-extended" role="banner">
+  <div class="usa-navbar">
+    <div class="usa-logo" id="extended-logo">
+      <em class="usa-logo-text">
+        <a href="/"
+          title="{{ site.name }} Home"
+          aria-label="Home">
+          {{ site.name }}
+        </a>
+      </em>
+    </div>
+    <button class="usa-menu-btn">Menu</button>
   </div>
 
-  <div class="pheader">
-    <div class="pheader_body">
-      <div class="pg_header">
-        <h1>U.S. Emerging Citizen Technology Atlas</h1>
-        <h2>One-Stop Shop for Emerging Technologies in Government </h2>
-      </div>
-       <div class="header_menu">
-         <a href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/issues/" style="color: white;" class="button">Contribute</a>
-       </div>
+  <nav role="navigation" class="usa-nav">
+    <div class="usa-nav-inner">
+      <button class="usa-nav-close">
+        <img src="/assets/img/close.svg" alt="close">
+      </button>
+
+
+      <div class="usa-nav-secondary">
+        <form class="usa-search usa-search-small  js-search-form">
+          <div role="search">
+            <label class="usa-sr-only" for="extended-search-field-small">Search small</label>
+            <input id="extended-search-field-small" type="search" name="search">
+            <button type="submit">
+              <span class="usa-sr-only">Search</span>
+            </button>
+          </div>
+        </form>
+
+        <ul class="usa-unstyled-list usa-nav-secondary-links">
+          <li class="js-search-button-container">
+            <button class="usa-header-search-button js-search-button">Search</button>
+          </li>
+          <li>
+            <a href="">
+              Getting Started
+            </a>
+          </li>
+        </ul>
       </div>
     </div>
-    <div style="clear:both;">
+  </nav>
 </header>

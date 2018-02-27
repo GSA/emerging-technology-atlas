@@ -34,10 +34,15 @@ p{
   max-width: 960px;
 }
 
+
 header {
   .container{
     margin-bottom: 80px;
     border-bottom: 3px $text-color solid;
   }
 
+}
+
+.hidden{
+  display: none;
 }
