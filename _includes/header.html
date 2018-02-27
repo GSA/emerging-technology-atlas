@@ -36,11 +36,15 @@
           <li class="js-search-button-container">
             <button class="usa-header-search-button js-search-button">Search</button>
           </li>
-          <li>
-            <a href="">
-              Getting Started
-            </a>
-          </li>
+          {% for item in site.main_navigation %}
+            <li>
+            {% if item.url %}
+            <a class="{{ current }}" href="{{ site.baseurl }}{{ item.url }}">{{ item.text }}</a>
+            {%else%}
+            {{ item.text }}
+            {% endif %}
+            </li>
+          {% endfor %}
         </ul>
       </div>
     </div>
