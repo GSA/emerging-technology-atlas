@@ -1,37 +1,36 @@
-<aside>
+<aside class="usa-width-one-fourth usa-layout-docs-sidenav">
   <a class="skip-link visuallyhidden focusable" href="#main">Skip to Main Content</a>
-  <nav class="sidebar-nav" role="navigation">
-    <ul>
-      {% for link in site.navigation %}
-        {% assign current = '' %}
-        {% if page.url == link.url %}
-          {% assign current = 'sidebar-nav-active' %}
+  <ul class="usa-sidenav-list">
+    {% for item in site.navigation %}
+      {% assign current = '' %}
+      {% if page.url == item.url %}
+        {% assign current = 'usa-current' %}
+      {% endif %}
+      <li class="{{ current }}">
+        {% if item.url %}
+        <a href="{{ site.baseurl }}{{ item.url }}">{{ item.text }}</a>
+        {%else%}
+        {{ item.text }}
         {% endif %}
-        <li class="{{ current }}">
-          {% if link.url %}
-          <a href="{{ site.baseurl }}{{ link.url }}">{{ link.text }}</a>
-          {%else%}
-          {{ link.text }}
-          {% endif %}
-          {% if link.sub_navigation != false %}
-          <ul>
-          {% endif %}
-          {% for sublink in link.sub_navigation %}
-            {% assign subcurrent = '' %}
-            {% if page.url == sublink.url %}
-              {% assign subcurrent = 'sidebar-nav-active' %}
-            {% endif %}
 
-            <li  class="{{ subcurrent }}"> <a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.text }}</a></li>
-
-          {% endfor %}
-          {% if link.sub_navigation != false %}
-            </ul>
+        {% if item.sub_nav[0] %}
+        <ul class="usa-sidenav-sub_list">
+        {% endif %}
+        {% for sub_item in item.sub_nav %}
+          {% assign subcurrent = '' %}
+          {% if page.url == sub_item.url %}
+            {% assign subcurrent = 'usa-current' %}
           {% endif %}
-        </li>
-      {% endfor %}
-    </ul>
-  </nav>
+
+          <li  class="{{ subcurrent }}"> <a href="{{ site.baseurl }}{{ sub_item.url }}">{{ sub_item.text }}</a></li>
+
+        {% endfor %}
+        {% if item.sub_nav[0] %}
+          </ul>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
   <p>
     <a href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/issues/">Contribute</a>
   </p>

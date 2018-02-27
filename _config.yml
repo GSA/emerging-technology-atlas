@@ -46,19 +46,14 @@ navigation:
   url: /howto/
 - text: "About Emerging Citizen Technology Office"
   url: /emergingcitizentech/
-
-  sub_navigation:
+  sub_nav:
   - text: <span>Participating Agencies in ECTO</span>
     url: /participatingagencies/
-
 - text: "Meeting Notes"
   url: /Meeting-Notes/
-
 - text: "Events Calendar"
   url: /calendar/
-
 - text: "Artificial Intelligence"
   url: /artificial-intelligence/
-
 - text: "Blockchain"
   url: /Blockchain/
