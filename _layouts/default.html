@@ -2,21 +2,22 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   {% include head.html %}
 <body>
-
-
+  <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+  
   {% include header.html %}
 
-  <div class="wrap content">
+  <main class="usa-grid usa-section usa-content usa-layout-docs" id="main-content">
+
     {% include navigation.html %}
 
-    <article id="main" class="main-content" role="main">
+    <div class="usa-width-three-fourths usa-layout-docs-main_content">
+
       {{ content }}
-    </article>
 
-  </div>
-</div>
+    </div>
+  </main>
 
-{% include footer.html %}
+  {% include footer.html %}
 
 </body>
 </html>
