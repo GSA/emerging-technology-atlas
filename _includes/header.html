@@ -26,7 +26,7 @@
           <li class="js-search-button-container">
             <button class="usa-header-search-button js-search-button">Search</button>
           </li>
-          {% for item in site.navigation %}
+          {% for item in site.main_navigation %}
             <li>
             {% if item.url %}
             <a class="{{ current }}" href="{{ site.baseurl }}{{ item.url }}">{{ item.text }}</a>
