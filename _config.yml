@@ -52,6 +52,14 @@ navigation:
   sub_nav:
   - text: "Participating Agencies"
     url: /participatingagencies/
+- text: "Inter-Agency Initiatives"
+  sub_nav:
+  - text: "Academic Research Outreach"
+    url: /AcademicOutreach/
+  - text: "Venture Capital Advisory Group"
+    url: /VentureCapital/
+  - text: "Training and Education"
+    url: /Training/
 - text: "Action Items"
   url: /meeting-notes/
 - text: "Calendar"
