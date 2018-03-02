@@ -5,9 +5,9 @@ permalink: /blockchain/
 description: ""
 ---
 
-- [Potential Use Cases](https://emerging.digital.gov/blockchain-federal/)
-- [Programs in Action](https://emerging.digital.gov/blockchain-programs/)
-- [Resources](https://emerging.digital.gov/blockchain-resources/)
+- [Potential Use Cases]({{ site.baseurl }}{% link pages/blockchain-federal.md %})
+- [Programs in Action]({{ site.baseurl }}{% link pages/blockchain-programs.md %})
+- [Resources]({{ site.baseurl }}{% link pages/blockchain-resources.md %})
 
 ---
 
