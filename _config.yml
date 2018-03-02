@@ -4,6 +4,9 @@ kramdown:
   extensions: ["superscript","tables","with_toc_data","strikethrough","smart"]
 highlighter: rouge
 
+plugins:
+  - jemoji
+  
 exclude:
 - ".ruby-version"
 - ".jekyll-metadata"
