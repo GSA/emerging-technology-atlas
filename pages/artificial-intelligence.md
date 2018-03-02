@@ -5,11 +5,11 @@ permalink: /artificial-intelligence/
 description: ""
 ---
 
-### [Potential Use Cases](https://emerging.digital.gov/artificial-intelligence-federal/)
+- [Potential Use Cases](https://emerging.digital.gov/artificial-intelligence-federal/)
+- [Programs in Action](https://emerging.digital.gov/artificial-intelligence-programs/)
+- [Resources](https://emerging.digital.gov/artificial-intelligence-resources/)
 
-### [Programs in Action](https://emerging.digital.gov/artificial-intelligence-programs/)
-
-### [Resources](https://emerging.digital.gov/artificial-intelligence-resources/)
+---
 
 Public services are increasingly powered through the combination of greater access to data and practical advances in Artificial Intelligence and Machine Learning that deliver solutions from research and development laboratories into the hands of programs everywhere.
 

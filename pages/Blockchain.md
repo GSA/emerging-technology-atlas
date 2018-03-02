@@ -5,13 +5,11 @@ permalink: /blockchain/
 description: ""
 ---
 
-# Blockchain
-
 - [Potential Use Cases](https://emerging.digital.gov/blockchain-federal/)
 - [Programs in Action](https://emerging.digital.gov/blockchain-programs/)
 - [Resources](https://emerging.digital.gov/blockchain-resources/)
 
-
+---
 
 Federal agencies are eager to better evaluate, test and potentially adopt distributed ledger technologies like Blockchain that use encryption and coding to improve transparency, efficiency and trust in information sharing.
 
