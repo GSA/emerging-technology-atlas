@@ -1,38 +1,54 @@
 body{
   color: #212346;
 }
-
 .hidden{
   display: none;
 }
 
+// expanding the text column
 .usa-content .usa-layout-docs-main_content p{
   max-width: none;
 }
 
-.usa-navbar{
-  height: 9rem;
-  .contribute{
-    margin: 0;
-    float: right;
-    top: 40px;
-    position: relative;
-    display: none;
-  }
-}
-@media screen and (min-width: 600px) {
-  .usa-navbar{
-    height: 4rem;
-    .contribute{
-      display: block;
-    }
-  }
-}
-
-
+// Controls the height and color of the navbar
 .usa-header{
   background: #212346;
   border: none;
+  .usa-navbar{
+    height: 9rem;
+    .contribute{
+      margin: 0;
+      float: right;
+      top: 40px;
+      position: relative;
+      display: none;
+    }
+  }
+}
+@media screen and (min-width: 600px) {
+  .usa-header{
+    .usa-navbar{
+      height: 8rem;
+    }
+  }
+}
+@media screen and (min-width: 951px) {
+  .usa-header{
+    .usa-navbar{
+      height: 10rem;
+    }
+  }
+}
+@media screen and (min-width: 1201px) {
+  .usa-header{
+    .usa-navbar{
+      height: 10rem;
+      .contribute{
+        top: 30px;
+        display: block;
+      }
+    }
+  }
 }
 
 .usa-logo {
@@ -57,6 +73,22 @@ body{
 @media screen and (min-width: 600px) {
   .usa-logo {
     h1{
+      margin-top: 2.5rem;
+      font-size: 2.2rem;
+      img{
+        width: 40px;
+        top:-6px;
+      }
+    }
+  }
+}
+@media screen and (min-width: 951px) {
+  .usa-header-extended .usa-logo {
+    margin: 0;
+    margin-top: 2.8rem;
+
+    h1{
+      margin-top: 0;
       font-size: 3rem;
       img{
         width: 50px;
@@ -65,20 +97,31 @@ body{
     }
   }
 }
+@media screen and (min-width: 1201px) {
+  .usa-logo {
+    h1{
+      margin-top: 0;
+      img{
+        top:-8px;
+      }
+    }
+  }
+}
 
 .usa-content .usa-layout-docs-sidenav{
   margin-top: 4rem;
-  // background: #efefef;
   width: 100%;
   border-top:3px solid #212346;
   ul.usa-sidenav-list{
     max-width: none;
   }
-
 }
+
+
 
 @media screen and (min-width: 1201px) {
   .usa-content .usa-layout-docs-sidenav{
+    margin-top: 0;
     border:none;
     width: 23.23176%;
     ul.usa-sidenav-list{
