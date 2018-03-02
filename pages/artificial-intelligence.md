@@ -5,9 +5,9 @@ permalink: /artificial-intelligence/
 description: ""
 ---
 
-- [Potential Use Cases](https://emerging.digital.gov/artificial-intelligence-federal/)
-- [Programs in Action](https://emerging.digital.gov/artificial-intelligence-programs/)
-- [Resources](https://emerging.digital.gov/artificial-intelligence-resources/)
+- [Potential Use Cases]({{ site.baseurl }}{% link pages/artificial-intelligence-federal.md %})
+- [Programs in Action]({{ site.baseurl }}{% link pages/artificial-intelligence-programs.md %})
+- [Resources]({{ site.baseurl }}{% link pages/artificial-intelligence-resources.md %})
 
 ---
 
