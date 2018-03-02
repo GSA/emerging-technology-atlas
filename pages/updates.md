@@ -9,6 +9,8 @@ description: ""
 
 ***
 
+3/2/18: Introduced U.S. Web Design System to the Atlas -- big design improvement. 
+
 2/20/18: Added February Action Meeting Notes
 
 2/13/18: Reorganized Atlas architecture.
