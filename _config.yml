@@ -52,6 +52,16 @@ navigation:
   sub_nav:
   - text: "Participating Agencies"
     url: /participatingagencies/
+- text: "Emerging Technologies"
+  sub_nav:
+  - text: "Artificial Intelligence"
+    url: /artificial-intelligence/
+  - text: "Blockchain"
+    url: //blockchain/
+  - text: "Virtual/Augmented Reality"
+    url: /VRAR/
+  - text: "Social Technology"
+    url: /Socialgov/
 - text: "Inter-Agency Initiatives"
   sub_nav:
   - text: "Academic Research Outreach"
@@ -64,7 +74,5 @@ navigation:
   url: /meeting-notes/
 - text: "Calendar"
   url: /calendar/
-- text: "Artificial Intelligence"
-  url: /artificial-intelligence/
 - text: "Blockchain"
   url: /blockchain/
