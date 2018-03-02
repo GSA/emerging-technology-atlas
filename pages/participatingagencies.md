@@ -1,15 +1,14 @@
 ---
 layout: page
-title: "Emerging Technology Atlas | Participating Agencies"
+title: "Participating Agencies"
 permalink: /participatingagencies/
 description: ""
 ---
 
-### Participating Agencies in the Emerging Citizen Technology Office 
+### Participating Agencies in the Emerging Citizen Technology Office
 
-<p>We work across government to maximize the impact of emerging technologies in IT modernization with participation from more than 320 federal, state, and local government entities -- including all cabinet-level departments, all branches of the armed services, and more than a dozen states.</p>
+We work across government to maximize the impact of emerging technologies in IT modernization with participation from more than 320 federal, state, and local government entities -- including all cabinet-level departments, all branches of the armed services, and more than a dozen states.
 
-<p> <br> </p>
 
 |                                                                                                                Organizations                                                                                 ||
 | -----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------:|
@@ -45,7 +44,7 @@ description: ""
 | City of New York, New York                                                                     | Export-Import Bank of the United States                                                                      |
 | City of Salt Lake City, Utah United States Department of Agriculture                           | Federal Aviation Administration                                                                              |
 | City of San Mateo, California                                                                  | Federal Bureau of Investigation                                                                              |
-| City of San Ramon, California                                                                  | Federal Bureau of Investigation Intelligence Community                                                       | 
+| City of San Ramon, California                                                                  | Federal Bureau of Investigation Intelligence Community                                                       |
 | City of Wyoming, Michigan                                                                      | Federal Bureau of Prisons                                                                                    |
 | Consumer Financial Protection Bureau                                                           | Federal Communications Commission                                                                            |
 | Corporation for National & Community Service                                                   | Federal Deposit Insurance Corporation                                                                        |
@@ -147,7 +146,7 @@ description: ""
 | Department of Health and Human Services NIH Institute of Allergy & Infectious Diseases         | U.S. Coast Guard                                                                                             |
 | Department of Health and Human Services NIH Institute of Diabetes,Digestive, & Kidney Diseases | U.S. Commodity Futures Trading Commission                                                                    |
 | Department of Health and Human Services NIH Institute of Environmental Health Sciences         | U.S. Commission on Civil Rights                                                                              |
-| Department of Health and Human Services NIH Institute of Neurological Disorders and Stroke     | U.S. Consumer Product Safety Commission                                                                      | 
+| Department of Health and Human Services NIH Institute of Neurological Disorders and Stroke     | U.S. Consumer Product Safety Commission                                                                      |
 | Department of Health and Human Services NIH Institute on Drug Abuse                            | U.S. Department of Defense Military Health System TRICARE Management Activity                                |
 | Department of Health and Human Services NIH Library of Medicine                                | U.S. Digital Service                                                                                         |
 | Department of Health and Human Services NIH Office of Research Services                        | U.S. Global Change Research Program                                                                          |
@@ -176,6 +175,3 @@ description: ""
 | Department of State ShareAmerica                                                               | White House Office of Management and Budget                                                                  |
 | Department of the Air Force                                                                    | White House Office of National Drug Control Policy                                                           |
 | Department of the Army                                                                         | White House Office of Science and Technology Policy                                                          |
-
-
-

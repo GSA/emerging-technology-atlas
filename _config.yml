@@ -4,6 +4,9 @@ kramdown:
   extensions: ["superscript","tables","with_toc_data","strikethrough","smart"]
 highlighter: rouge
 
+plugins:
+  - jemoji
+  
 exclude:
 - ".ruby-version"
 - ".jekyll-metadata"
@@ -46,19 +49,14 @@ navigation:
   url: /howto/
 - text: "About Emerging Citizen Technology Office"
   url: /emergingcitizentech/
-
-  sub_navigation:
-  - text: <span>Participating Agencies</span>
+  sub_nav:
+  - text: "Participating Agencies"
     url: /participatingagencies/
-
 - text: "Action Items"
-  url: /Meeting-Notes/
-
+  url: /meeting-notes/
 - text: "Calendar"
   url: /calendar/
-
 - text: "Artificial Intelligence"
   url: /artificial-intelligence/
-
 - text: "Blockchain"
-  url: /Blockchain/
+  url: /blockchain/

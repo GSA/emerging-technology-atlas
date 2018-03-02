@@ -1,95 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-
-  <script type="text/javascript">
-    var g_url = 'https://gsa.github.io/emerging-technology-atlas/';
-    var current_url = window.location;
-    if ( current_url.href.indexOf(g_url) >= 0 ) {
-      var path = current_url.href.replace(g_url, "");
-      window.location.href = 'https://emerging.digital.gov/' + path;
-    }
-  </script>
-
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/normalize.css">
-  <link href="{{ site.baseurl }}/assets/css/google-fonts.css" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/fonts.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css?{{ site.time | date: "%Y%m%j%H%M%S" }}">
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/syntax.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/nara.css">
-  <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-  <script src="{{ site.baseurl }}/assets/js/nara.js"></script>
-
-  <!--[if lt IE 9]>
-    <script src="{{ site.baseurl }}/assets/js/html5.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/respond.min.js"></script>
-  <![endif]-->
-
-  <link rel="shortcut icon" type="image/ico" href="{{ site.baseurl }}/assets/favicon.ico" />
-
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-
-  {% if page.title %}
-    <title>{{ page.title }}</title>
-    <meta property="og:title" content="{{ page.title | xml_escape }}" />
-  {% else %}
-    <title>{{ site.title }}</title>
-    <meta property="og:title" content="{{ site.title | xml_escape }}" />
-  {% endif %}
-
-  {% if page.description %}
-    <meta name="description" content="{{ page.description | xml_escape }}">
-    <meta property="og:description" content="{{ page.description | xml_escape }}" />
-  {% else %}
-    <meta name="description" content="{{ site.description | xml_escape }}">
-    <meta property="og:description" content="{{ site.description | xml_escape }}" />
-  {% endif %}
-
-
-</head>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {% include head.html %}
 <body>
+  <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+  
+  {% include header.html %}
 
-<div class="mycontainer">
-  <div>
+  <main class="usa-grid usa-section usa-content usa-layout-docs" id="main-content">
 
-    <header role="banner">
-      <div class="hbadge">
-        <img src="{{ site.baseurl }}/assets/images/badge.png" alt="OpenGov National Archives"/>
-      </div>
+    {% include navigation.html %}
 
-      <div class="pheader">
-        <div class="pheader_body">
-          <div class="pg_header">
-            <h1>U.S. Emerging Citizen Technology Atlas</h1>
-            <h2>One-Stop Shop for Emerging Technologies in Government </h2>
-    			</div>
-           <div class="header_menu">
-             <a href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/issues/" style="color: white;" class="button">Contribute</a>
-           </div>
-          </div>
-        </div>
-        <div style="clear:both;">
-    </header>
-  </div>
+    <div class="usa-width-three-fourths usa-layout-docs-main_content">
 
-  <div class="wrap content">
-    {% include sidebar.html %}
-
-
-    <article id="main" class="main-content" role="main">
       {{ content }}
-    </article>
 
-  </div>
-</div>
+    </div>
+  </main>
 
-{% include analytics.html %}
+  {% include footer.html %}
 
 </body>
 </html>
