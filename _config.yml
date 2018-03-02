@@ -57,7 +57,3 @@ navigation:
   url: /artificial-intelligence/
 - text: "Blockchain"
   url: /Blockchain/
-
-main_navigation:
-- text: "How to Contribute"
-  url: /howto/
