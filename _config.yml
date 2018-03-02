@@ -50,7 +50,7 @@ navigation:
   - text: "Participating Agencies"
     url: /participatingagencies/
 - text: "Action Items"
-  url: /Meeting-Notes/
+  url: /meeting-notes/
 - text: "Calendar"
   url: /calendar/
 - text: "Artificial Intelligence"
