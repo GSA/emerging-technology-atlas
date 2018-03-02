@@ -7,8 +7,8 @@ description: ""
 
 ## Emerging Citizen Technology Action Meeting Notes
 
-[February 2018 Inter-agency Emerging Citizen Technologies Action Meeting](https://emerging.digital.gov/2018-02-Meeting/)
+[February 2018 Inter-agency Emerging Citizen Technologies Action Meeting](/2018-02-Meeting/)
 
-[January 2018 Inter-agency Emerging Citizen Technologies Action Meeting](https://gsa.github.io/emerging-technology-atlas/2018-01-Meeting/)
+[January 2018 Inter-agency Emerging Citizen Technologies Action Meeting](/2018-01-Meeting/)
 
-[December 2017 Inter-agency Emerging Citizen Technologies Action Meeting](https://gsa.github.io/emerging-technology-atlas/2017-12-Meeting/)
+[December 2017 Inter-agency Emerging Citizen Technologies Action Meeting](/2017-12-Meeting/)
