@@ -8,11 +8,11 @@ description: ""
 ### Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop -- AI for Citizen Services
 
 
-<p>At our collaborative workshop held on September 8, 2017, Emerging Technology and Open Data for a More Open Government over 90 participants from government, industry, civil society, and academia came together and crafted potential goals to be integrated into the fourth U.S. National Action Plan for Open Government.
+At our collaborative workshop held on September 8, 2017, Emerging Technology and Open Data for a More Open Government over 90 participants from government, industry, civil society, and academia came together and crafted potential goals to be integrated into the fourth U.S. National Action Plan for Open Government.
 
-<p>These draft use cases represent initial ideas and moonshots as well as programs in development, and should be considered only proposed use cases and concepts unless otherwise noted. Anyone is encouraged to contribute their own use case at any state of development.
+These draft use cases represent initial ideas and moonshots as well as programs in development, and should be considered only proposed use cases and concepts unless otherwise noted. Anyone is encouraged to contribute their own use case at any state of development.
 
-<p> <br>
+
 
 |                                      Workshop Participants                                       ||
 | ------------------------------------------------|:-----------------------------------------------:|
