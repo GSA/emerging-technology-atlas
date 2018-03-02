@@ -40,18 +40,18 @@ branch: master
 navigation:
 - text: "Home"
   url: /
-- text: "Latest Updates"
+- text: "Updates"
   url: /updates/
-- text: "How to Contribute"
+- text: "Contribute"
   url: /howto/
 - text: "About Emerging Citizen Technology Office"
   url: /emergingcitizentech/
   sub_nav:
-  - text: <span>Participating Agencies in ECTO</span>
+  - text: "Participating Agencies"
     url: /participatingagencies/
-- text: "Meeting Notes"
+- text: "Action Items"
   url: /Meeting-Notes/
-- text: "Events Calendar"
+- text: "Calendar"
   url: /calendar/
 - text: "Artificial Intelligence"
   url: /artificial-intelligence/
