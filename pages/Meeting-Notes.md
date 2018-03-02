@@ -7,7 +7,7 @@ description: ""
 
 ## Emerging Citizen Technology Action Meeting Notes
 
-[February 2018 Inter-agency Emerging Citizen Technologies Action Meeting](/2018-02-Meeting/)
+[February 2018 Inter-agency Emerging Citizen Technologies Action Meeting]({{ site.baseurl }}{% post_url 2018-02-Meeting %})
 
 [January 2018 Inter-agency Emerging Citizen Technologies Action Meeting](/2018-01-Meeting/)
 
