@@ -10,7 +10,7 @@
         {% if item.url %}
         <a class="{{ current }}" href="{{ site.baseurl }}{{ item.url }}">{{ item.text }}</a>
         {%else%}
-        {{ item.text }}
+        <strong>{{ item.text }}</strong>
         {% endif %}
 
         {% if item.sub_nav[0] %}
