@@ -4,8 +4,10 @@ https://emerging.digital.gov/
 
 
 ### Markdown
+Needing a little help with Markdown? [Check out this handy cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-### Linking
+
+### How to Link
 
 Here is how to add a link in Markdown:
 
