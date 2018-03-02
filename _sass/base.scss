@@ -2,6 +2,24 @@
   display: none;
 }
 
+body{
+  color: #212346;
+}
 .usa-content .usa-layout-docs-main_content p{
   max-width: none;
+}
+
+.usa-navbar .usa-button{
+  margin: 0;
+  float: right;
+  top: 25px;
+  position: relative;
+}
+
+.usa-header{
+  background: #212346;
+  border: none;
+}
+.usa-logo a{
+  color:#fff;
 }
