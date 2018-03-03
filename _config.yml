@@ -48,8 +48,9 @@ navigation:
 - text: "Contribute"
   url: /howto/
 - text: "About Emerging Citizen Technology Office"
-  url: /emergingcitizentech/
   sub_nav:
+  - text: "What We Do"
+    url: //emergingcitizentech/
   - text: "Participating Agencies"
     url: /participatingagencies/
 - text: "Emerging Technologies"
