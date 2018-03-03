@@ -45,10 +45,12 @@ navigation:
   url: /
 - text: "Take Action"
   sub_nav:
-  - text: "Recent Updates"
-    url: /updates/
+  - text: "Connect"
+    url: /connect/
   - text: "Contribute"
     url: /howto/
+  - text: "Recent Updates"
+    url: /updates/
 - text: "About GSA Emerging Citizen Technology Office"
   sub_nav:
   - text: "What We Do"
