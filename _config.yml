@@ -71,7 +71,9 @@ navigation:
     url: /VentureCapital/
   - text: "Training and Education"
     url: /Training/
-- text: "Action Items"
-  url: /meeting-notes/
-- text: "Calendar"
-  url: /calendar/
+- text: "Resources"
+  sub_nav:
+  - text: "Meeting Notes & Action Items"
+    url: /meeting-notes/
+  - text: "Calendar"
+    url: /calendar/
