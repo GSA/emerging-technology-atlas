@@ -69,6 +69,8 @@ navigation:
     url: /Socialgov/
 - text: "Our Inter-Agency Initiatives"
   sub_nav:
+  - text: "2018 100 Emerging Tech Leaders Initiative"
+    url: /100Leaders/
   - text: "Academic Research Outreach"
     url: /AcademicOutreach/
   - text: "Venture Capital Advisory Group"
