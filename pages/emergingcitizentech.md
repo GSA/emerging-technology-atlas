@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "What is the GSA inter-agency Emerging Citizen Technology Program?"
+title: "What is the GSA inter-agency Emerging Citizen Technology Office?"
 permalink: /emergingcitizentech/
 description: ""
 ---
 
-GSA’s inter-agency Emerging Citizen Technology program collaborates with more than 1500 federal managers at agencies and programs across government, startups, small businesses, and civic organizations to develop government-wide public service modernization initiatives through the evaluation, testing, and development of emerging technologies including:
+GSA’s inter-agency Emerging Citizen Technology Office collaborates with more than 1500 federal managers at agencies and programs across government, startups, small businesses, and civic organizations to develop government-wide public service modernization initiatives through the evaluation, testing, and development of emerging technologies including:
 
 1. [Artificial Intelligence for Citizen Services](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/artificial-intelligence-for-citizen-services)
 2. [Blockchain](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology/blockchain)
