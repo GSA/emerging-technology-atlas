@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "What is the GSA inter-agency Emerging Citizen Technology Office?"
+title: "What is GSA's Emerging Citizen Technology Office?"
 permalink: /emergingcitizentech/
 description: ""
 ---
