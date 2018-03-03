@@ -49,13 +49,13 @@ navigation:
     url: /updates/
   - text: "Contribute"
     url: /howto/
-- text: "About Emerging Citizen Technology Office"
+- text: "About the Emerging Citizen Technology Office"
   sub_nav:
   - text: "What We Do"
     url: /emergingcitizentech/
   - text: "Participating Agencies"
     url: /participatingagencies/
-- text: "Emerging Technologies"
+- text: "Our Emerging Technologies"
   sub_nav:
   - text: "Artificial Intelligence"
     url: /artificial-intelligence/
@@ -65,7 +65,7 @@ navigation:
     url: /VRAR/
   - text: "Social Technology"
     url: /Socialgov/
-- text: "Inter-Agency Initiatives"
+- text: "Our Inter-Agency Initiatives"
   sub_nav:
   - text: "Academic Research Outreach"
     url: /AcademicOutreach/
@@ -73,7 +73,7 @@ navigation:
     url: /VentureCapital/
   - text: "Training and Education"
     url: /Training/
-- text: "Resources"
+- text: "Our Resources"
   sub_nav:
   - text: "Meeting Notes & Action Items"
     url: /meeting-notes/
