@@ -43,10 +43,12 @@ branch: master
 navigation:
 - text: "Home"
   url: /
-- text: "Updates"
-  url: /updates/
-- text: "Contribute"
-  url: /howto/
+- text: "Take Action"
+  sub_nav:
+  - text: "Recent Updates"
+    url: /updates/
+  - text: "Contribute"
+    url: /howto/
 - text: "About Emerging Citizen Technology Office"
   sub_nav:
   - text: "What We Do"
