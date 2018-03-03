@@ -50,7 +50,7 @@ navigation:
 - text: "About Emerging Citizen Technology Office"
   sub_nav:
   - text: "What We Do"
-    url: //emergingcitizentech/
+    url: /emergingcitizentech/
   - text: "Participating Agencies"
     url: /participatingagencies/
 - text: "Emerging Technologies"
