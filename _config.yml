@@ -49,7 +49,7 @@ navigation:
     url: /updates/
   - text: "Contribute"
     url: /howto/
-- text: "About the Emerging Citizen Technology Office"
+- text: "About GSA's Emerging Citizen Technology Office"
   sub_nav:
   - text: "What We Do"
     url: /emergingcitizentech/
