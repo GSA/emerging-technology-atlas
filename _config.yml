@@ -6,7 +6,7 @@ highlighter: rouge
 
 plugins:
   - jemoji
-  
+
 exclude:
 - ".ruby-version"
 - ".jekyll-metadata"
@@ -64,7 +64,7 @@ navigation:
   - text: "Blockchain"
     url: /blockchain/
   - text: "Virtual/Augmented Reality"
-    url: /VRAR/
+    url: /virtual-reality/
   - text: "Social Technology"
     url: /Socialgov/
 - text: "Our Inter-Agency Initiatives"
