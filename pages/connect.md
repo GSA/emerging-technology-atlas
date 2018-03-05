@@ -5,7 +5,7 @@ permalink: /connect/
 description: ""
 ---
 
-The Emerging Citizen Technology Office relies on a robust community of policy-makers, government, industry, and academia to share knowledge, partner on new initiatives, and participate in workshops and pilots. Our community grows by six federal managers per day and we encourage you to connect with us.
+The Emerging Citizen Technology Office relies on a robust community of policy-makers, government, industry, and academia to share knowledge, partner on new initiatives, and participate in workshops and pilots. Our community grows by six federal managers per day and we encourage you to connect with us to stay informed and contribute to our latest initiatives, project wikis, and repositories.
 
 ***
 
@@ -28,6 +28,7 @@ Anyone from industry, academia, or government may join our public listservs:
 - Virtual/Augmented Reality: Contact <a href="mailto:listserv@listserv.gsa.gov?subject=AI%20listserv">listserv@listserv.gsa.gov</a> with the message body "SUB VRARPublic."
 
 
+For more information contact Justin Herman, GSA Emerging Citizen Technology lead, at EmergingTech@gsa.gov.
 
 
 
