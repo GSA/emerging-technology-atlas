@@ -4,8 +4,30 @@ title: "Connect"
 permalink: /connect/
 description: ""
 ---
-## Under Construction
 
-This page is currently under construction as part of a content sprint update to the Emerging Technology Atlas. Updated pages will be live on Tuesday, March 6.
+The Emerging Citizen Technology Office relies on a robust community of policy-makers, government, industry, and academia to share knowledge, partner on new initiatives, and participate in workshops and pilots. Our community grows by six federal managers per day and we encourage you to connect with us.
 
-Want to help create the content? See our guide on [how to contribute](https://emerging.digital.gov/howto/).
+***
+
+If you are a government employee with a .gov or .mil address, we encourage you to join our interagency programs:
+
+- <a href="mailto:AI-subscribe-request@listserv.gsa.gov?subject=AI%20listserv">Federal Artificial Intelligence for Citizen Services Community</a>
+
+- <a href="mailto:Blockchain-subscribe-request@listserv.gsa.gov?subject=Blockchain%20listserv">Federal Blockchain Community</a>
+
+- <a href="mailto:SM-COP-subscribe-request@listserv.gsa.gov?subject=SocialGov%20listserv">SocialGov Community</a>
+
+- <a href="mailto:VR-subscribe-request@listserv.gsa.gov?subject=VR%20listserv">Virtual and Augmented Reality Community</a>
+
+Anyone from industry, academia, or government may join our public listservs:
+
+- Artificial Intelligence for Citizen Services: Contact <a href="mailto:listserv@listserv.gsa.gov?subject=AI%20listserv">listserv@listserv.gsa.gov</a> with the message body "SUB AIPublic."
+
+- Blockchain: Contact <a href="mailto:listserv@listserv.gsa.gov?subject=AI%20listserv">listserv@listserv.gsa.gov</a> with the message body "SUB BlockchainPublic."
+
+- Virtual/Augmented Reality: Contact <a href="mailto:listserv@listserv.gsa.gov?subject=AI%20listserv">listserv@listserv.gsa.gov</a> with the message body "SUB VRARPublic."
+
+
+
+
+
