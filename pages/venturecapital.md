@@ -8,4 +8,4 @@ Executives do not immediately need to invest in innovative solutions of tomorrow
 
 Based on these experiences, a new inter-agency Venture Capital Advisory Group is established that will familiarize agencies with the venture capital community, increase opportunities to collaborate and help spread the awareness of these programs across the government. 
 
-If you would like to participate in our Venture Capital Advisory Group, co-chaired by Department of Homeland Security's Office of Venture, Innovation and Engagement team, please email EmergingTech@gsa.gov with "#Venture" in the subject field. 
+If you would like to participate in our Venture Capital Advisory Group, co-chaired by Department of Homeland Security's Office of Venture, Innovation and Engagement team, please email Innovatedhs@hq.dhs.gov and EmergingTech@gsa.gov with "#Venture" in the subject field. 
