@@ -6,6 +6,7 @@ highlighter: rouge
 
 plugins:
   - jemoji
+  - jekyll-redirect-from
 
 exclude:
 - ".ruby-version"

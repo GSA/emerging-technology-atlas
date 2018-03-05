@@ -3,6 +3,8 @@ layout: page
 title: "Emerging Technology Atlas | Virtual and Augmented Reality"
 permalink: /virtual-reality/
 description: ""
+redirect_from:
+  - /vrar/
 ---
 
 ### Virtual and Augmented Reality
