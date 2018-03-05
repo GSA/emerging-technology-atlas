@@ -5,7 +5,7 @@ permalink: /connect/
 description: ""
 ---
 
-The Emerging Citizen Technology Office relies on a robust community of policy-makers, government, industry, and academia to share knowledge, partner on new initiatives, and participate in workshops and pilots. Our community grows by six federal managers per day and we encourage you to connect with us to stay informed and contribute to our latest initiatives, project wikis, and repositories.
+The Emerging Citizen Technology Office relies on a robust community of policy-makers, government, industry, and academia to share knowledge, partner on new initiatives, and participate in workshops and pilots. Our community grows by six federal managers per day and we encourage you to connect with us to stay informed and contribute to our latest initiatives.
 
 ***
 
@@ -15,9 +15,9 @@ If you are a government employee with a .gov or .mil address, we encourage you t
 
 - <a href="mailto:Blockchain-subscribe-request@listserv.gsa.gov?subject=Blockchain%20listserv">Federal Blockchain Community</a>
 
-- <a href="mailto:SM-COP-subscribe-request@listserv.gsa.gov?subject=SocialGov%20listserv">SocialGov Community</a>
+- <a href="mailto:SM-COP-subscribe-request@listserv.gsa.gov?subject=SocialGov%20listserv">Federal SocialGov Community</a>
 
-- <a href="mailto:VR-subscribe-request@listserv.gsa.gov?subject=VR%20listserv">Virtual and Augmented Reality Community</a>
+- <a href="mailto:VR-subscribe-request@listserv.gsa.gov?subject=VR%20listserv">Federal Virtual and Augmented Reality Community</a>
 
 Anyone from industry, academia, or government may join our public listservs:
 
