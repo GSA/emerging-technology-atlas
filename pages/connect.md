@@ -4,7 +4,7 @@ title: "Connect"
 permalink: /connect/
 description: ""
 ---
-# Connect with Us
+## Under Construction
 
 This page is currently under construction as part of a content sprint update to the Emerging Technology Atlas. Updated pages will be live on Tuesday, March 6.
 
