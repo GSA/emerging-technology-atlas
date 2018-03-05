@@ -71,7 +71,7 @@ navigation:
 - text: "Our Inter-Agency Initiatives"
   sub_nav:
   - text: "Open Data for AI"
-    url: /opendataforai/
+    url: /OpenDataforAI/
   - text: "100 Federal Emerging Tech Leaders Initiative"
     url: /100Leaders/
   - text: "Academic Research Outreach"
