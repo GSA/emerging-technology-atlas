@@ -5,8 +5,6 @@ permalink: /meeting-notes/
 description: ""
 ---
 
-## Emerging Citizen Technology Action Meeting Notes
-
 [February 2018 Inter-agency Emerging Citizen Technologies Action Meeting]({{ site.baseurl }}{% link pages/2018-2-14-Meeting.md %})
 
 [January 2018 Inter-agency Emerging Citizen Technologies Action Meeting]({{ site.baseurl }}{% link pages/2018-01-Meeting.md %})
