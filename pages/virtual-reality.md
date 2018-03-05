@@ -7,12 +7,6 @@ redirect_from:
   - /vrar/
 ---
 
-### Virtual and Augmented Reality
-
-
-COMING SOON IN PHASE 2
-
-
 Immersive enhanced audio and visual experiences through virtual and augmented reality are now available to many U.S. citizens through smartphones and other mobile devices, opening the door to an incredible diversity of new programs and services.
 
 GSA’s Emerging Citizen Technology program launched the <a href="https://www.digitalgov.gov/2016/10/26/gsa-launches-new-ai-virtual-reality-and-authentication-programs/">Federal Virtual/Augmented Reality program</a> in October, 2017 to serve as a collaborative hub for the research and refinement of VR and AR business cases and pilot programs across government.
