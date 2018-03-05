@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Emerging Technology Atlas| Blockchain Resources"
+title: "Blockchain Resources"
 permalink: /blockchain-resources/
 description: ""
 ---
