@@ -70,6 +70,8 @@ navigation:
     url: /Socialgov/
 - text: "Our Inter-Agency Initiatives"
   sub_nav:
+  - text: "Open Data for AI"
+    url: /opendataforai/
   - text: "100 Federal Emerging Tech Leaders Initiative"
     url: /100Leaders/
   - text: "Academic Research Outreach"
