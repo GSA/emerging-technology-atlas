@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Emerging Technology Atlas | Artificial Intelligence Resources"
+title: "Artificial Intelligence Resources"
 permalink: /artificial-intelligence-resources/
 description: ""
 ---
