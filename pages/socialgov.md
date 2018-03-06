@@ -7,7 +7,6 @@ description: ""
 
 <p>The Federal SocialGov Community was launched in June 2012 to research, evaluate and implement emerging social technologies and strategies for public services. We help develop the shared resources and tools needed to get the job done, including:</p>
 
-<p><a href="https://participation.usa.gov/">U.S. Public Participation Playbook</a></p>
 <p><a href="https://www.digitalgov.gov/resources/readiness-recovery-response-social-media-cyber-vandalism-toolkit/">Readiness, Recovery, Response: Social Media Cyber-Vandalism Toolkit</a></p>
 <p><a href="https://www.digitalgov.gov/resources/improving-the-accessibility-of-social-media-in-government/">Improving the Accessibility of Social Media in Government for Persons with Disabilities</a></p>
 
