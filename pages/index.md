@@ -19,7 +19,7 @@ This U.S. Emerging Citizen Technology Atlas is an open source resource organized
 2. Reports from public service workshops, pilots, and programs;
 3. Opportunities to participate and collaborate. 
 
-This Atlas is just one public-facing resource in a collaborative three tiered support and coordination effort to improve outcomes and reduce duplication of effort. 
+This Atlas is just one public-facing resource in a collaborative support and coordination effort to improve outcomes and reduce duplication of effort. 
 
 ![ECTO Impact](../assets/img/ecto-impact-atlas.jpg)
 
