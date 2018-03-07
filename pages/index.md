@@ -11,7 +11,9 @@ google_analytics: UA—110413123-1
 
 # Welcome to the U.S. Emerging Citizen Technology Atlas
 
-Emerging technologies can hold the key to unlocking the vast potential of public services and open data for the American people, but they evolve at a speed that can be challenging for federal IT modernization efforts. This U.S. Emerging Citizen Technology Atlas is an open source resource organized by GSA's Emerging Citizen Technology Office (ECTO) to help tear down the barriers around these initiatives that anyone from federal managers and policy-makers to U.S. businesses, researchers, and the public can analyze and update with:
+Emerging technologies can hold the key to unlocking the vast potential of public services and open data for the American people, but they evolve at a speed that can be challenging for federal IT modernization efforts. 
+
+This U.S. Emerging Citizen Technology Atlas is an open source resource organized by GSA's Emerging Citizen Technology Office (ECTO) to help tear down the barriers around these initiatives that anyone from federal managers and policy-makers to U.S. businesses, researchers, and the public can analyze and update with:
 
 1. Uses and resources for the practical application of emerging technologies;
 2. Reports from public service workshops, pilots, and programs;
