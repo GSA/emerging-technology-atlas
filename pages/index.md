@@ -13,7 +13,7 @@ google_analytics: UA—110413123-1
 
 Emerging technologies like Artificial Intelligence and Robotic Process Automation can hold the key to unlocking the vast potential of public services and open data for the American people, but they evolve at a speed that can be challenging for federal IT modernization efforts. 
 
-This U.S. Emerging Citizen Technology Atlas is an open source resource organized by GSA's Emerging Citizen Technology Office (ECTO) in partnership with innovative programs and people across government to help tear down the barriers around these initiatives so anyone from federal managers and policy-makers to U.S. businesses, researchers, and the public can analyze and update with:
+This U.S. Emerging Citizen Technology Atlas is an open source resource organized by GSA's Emerging Citizen Technology Office (ECTO), launched in October 2017, in partnership with innovative programs and people across government to help tear down the barriers so anyone from public servants and policy-makers to U.S. businesses, researchers, and the public can analyze and update with:
 
 1. Uses and resources for the practical application of emerging technologies;
 2. Reports from public service workshops, pilots, and programs;
