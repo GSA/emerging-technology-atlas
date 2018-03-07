@@ -8,6 +8,7 @@ description: ""
 ### Latest
 
 ***
+3/6/18: v2 hits the digital street including opening up our inter-agency initiatives. 
 
 3/2/18: Introduced U.S. Web Design System to the Atlas -- big design improvement. 
 
