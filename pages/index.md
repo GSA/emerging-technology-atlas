@@ -11,12 +11,12 @@ google_analytics: UA—110413123-1
 
 # Welcome to the U.S. Emerging Citizen Technology Atlas
 
-The Atlas is an open source resource organized by GSA's Emerging Citizen Technology Office (ECTO) for U.S. federal government emerging technologies, including Artificial Intelligence, Blockchain, Virtual and Augmented Reality and Social Technologies. Anyone from federal managers and policy-makers to U.S. businesses, researchers, and the public can analyze and update with:
+Emerging technologies can hold the key to unlocking the vast potential of public services and open data for the American people, but speed by which they evolve poses a challenge for evaluation for federal IT modernization. This U.S. Emerging Citizen Technology Atlas is an open source resource organized by GSA's Emerging Citizen Technology Office (ECTO) that anyone from federal managers and policy-makers to U.S. businesses, researchers, and the public can analyze and update with:
 
 1. Use cases for the practical application of emerging technologies;
 2. Reports from public service workshops, pilots, and initiatives;
-3. Paths to current programs in action right now;
-4. Resources anyone can use for evaluation, testing, and potential adoption.
+3. Paths to programs in action right now;
+4. Resources anyone can use
 
 ![ECTO Impact](../assets/img/ecto-impact-atlas.jpg)
 
