@@ -21,4 +21,6 @@ The Atlas is the public-facing arm of ECTO's three pillars of support for federa
 
 ![ECTO Impact](../assets/img/ecto-impact-atlas.jpg)
 
-These pages include information provided directly from federal agencies evaluating and testing these new technologies, and like them should be considered a continual work-in-progress designed to empower you to know what we know and help us all be better informed to take advantage of new opportunities and avoid pitfalls. These are just some of the expansive emering technology programs and services within the U.S. federal government, and we look forward to working together with you. 
+These are just some of the expansive emerging technology programs and services within the U.S. federal government, a continual work-in-progress designed to empower you to know what we know and help us all be better informed to take advantage of new opportunities and avoid pitfalls. 
+
+We look forward to working with you to build the future now.  
