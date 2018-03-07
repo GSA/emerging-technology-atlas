@@ -17,10 +17,10 @@ Emerging technologies can hold the key to unlocking the vast potential of public
 2. Reports from public service workshops, pilots, and programs;
 3. Opportunities to participate and collaborate. 
 
-The Atlas is the public-facing arm of ECTO's three pillars of support for federal emerging technologies in partnership with innovative programs across government:
+The Atlas is the public-facing arm of ECTO's three pillars of support for federal emerging technologies in partnership with innovative programs and people across government:
 
 ![ECTO Impact](../assets/img/ecto-impact-atlas.jpg)
 
-These are just some of the expansive emerging technology programs and services within the U.S. federal government, a continual work-in-progress designed to empower you to know what we know and help us all be better informed to take advantage of new opportunities and avoid pitfalls. 
+These are just a fraction of the expansive emerging technology programs and services within the U.S. federal government, a continual work-in-progress designed to empower you to know what we know and help us all be better informed to take advantage of new opportunities and avoid pitfalls. 
 
 We look forward to working with you to build the future now.  
