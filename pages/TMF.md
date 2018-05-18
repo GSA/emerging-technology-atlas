@@ -9,7 +9,7 @@ description: ""
 
 A combination of bold and innovative emerging technology solutions including Artificial Intelligence and Robotic Process Automation piloted and tested by agencies across government with the operational rigor and funding of the Technology Modernization Fund holds the potential to drive to incredible performance advancements in public services. 
 
-GSA’s Technology Modernization Fund Program Management Office (TMF PMO) and Emerging Citizen Technology Office (ECTO) and the are partnering this summer to help agencies apply these advances in emerging technologies and processes to IT modernization efforts that can improve our services and reduce costs for the American people today and in the coming years. 
+GSA’s Technology Modernization Fund Program Management Office (TMF PMO) and Emerging Citizen Technology Office (ECTO) are partnering this summer to help agencies apply these advances in emerging technologies and processes to IT modernization efforts that can improve our services and reduce costs for the American people today and in the coming years. 
 
 The main mechanism of this collaboration is to work side-by-side with agencies across government to create a submission pipeline for emerging technology proposals that may tap into the initial $100 million Technology Modernization Fund in order to replace legacy systems and deliver on the potential and promise of IT modernization. 
 
