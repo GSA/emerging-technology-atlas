@@ -5,7 +5,7 @@ permalink: /TMF/
 description: ""
 ---
 
-# New: <a href="https://digital.gov/event/2018/05/22/an-overview-technology-modernization-fund-tmf/">Register today for our upcoming webinar</a> with Elizabeth Cain, executive director of the Technology Modernization Fund Program Management Office, Tuesday, May 22, 2018 11:00 AM – 12:00 PM ET, to answer your questions on TMF. 
+### New: <a href="https://digital.gov/event/2018/05/22/an-overview-technology-modernization-fund-tmf/">Register today for our upcoming webinar</a> with Elizabeth Cain, executive director of the Technology Modernization Fund Program Management Office, Tuesday, May 22, 2018 11:00 AM – 12:00 PM ET, to answer your questions on TMF. 
 
 A combination of bold and innovative emerging technology solutions including Artificial Intelligence and Robotic Process Automation piloted and tested by agencies across government with the operational rigor and funding of the Technology Modernization Fund holds the potential to drive to incredible performance advancements in public services. 
 
