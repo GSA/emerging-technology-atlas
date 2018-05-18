@@ -13,7 +13,7 @@ GSA’s Technology Modernization Fund Program Management Office (TMF PMO) and Em
 
 The main mechanism of this collaboration is to work side-by-side with agencies across government to create a submission pipeline for emerging technology proposals that may tap into the initial $100 million Technology Modernization Fund in order to replace legacy systems and deliver on the potential and promise of IT modernization. 
 
-We are hosting a workshop at GSA on June 8, 2018, “Funding the Future: Emerging Technologies for Federal IT Modernization” to launch efforts to assist agencies with developing proposals. This is just one of the many programming and development opportunities we will collaborate with agencies to facilitate in the coming weeks. 
+We are hosting a workshop at GSA on June 8, 2018, “Funding the Future: Emerging Technologies for Federal IT Modernization” to launch efforts to assist agencies with developing proposals. More details and registration information for this workshop are coming. This is just one of the many programming and development opportunities we will collaborate with agencies to facilitate in the coming weeks. 
 
 ### What is the Technology Modernization Fund?
 
