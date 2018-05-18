@@ -5,14 +5,13 @@ permalink: /TMF/
 description: ""
 ---
 
-## Funding the Future: Technology Modernization 
+#New: <a href="https://digital.gov/event/2018/05/22/an-overview-technology-modernization-fund-tmf/">Register today for our upcoming webinar</a> with Elizabeth Cain, executive director of the Technology Modernization Fund Program Management Office, Tuesday, May 22, 2018 11:00 AM – 12:00 PM ET, to answer your questions on TMF. 
 
 A combination of bold and innovative emerging technology solutions including Artificial Intelligence and Robotic Process Automation piloted and tested by agencies across government with the operational rigor and funding of the Technology Modernization Fund holds the potential to drive to incredible performance advancements in public services. 
 
 GSA’s Technology Modernization Fund Program Management Office (TMF PMO) and Emerging Citizen Technology Office (ECTO) and the are partnering this summer to help agencies apply these advances in emerging technologies and processes to IT modernization efforts that can improve our services and reduce costs for the American people today and in the coming years. 
 
 The main mechanism of this collaboration is to work side-by-side with agencies across government to create a submission pipeline for emerging technology proposals that may tap into the initial $100 million Technology Modernization Fund in order to replace legacy systems and deliver on the potential and promise of IT modernization. 
-
 
 We are hosting a workshop at GSA on June 8, 2018, “Funding the Future: Emerging Technologies for Federal IT Modernization” to launch efforts to assist agencies with developing proposals. This is just one of the many programming and development opportunities we will collaborate with agencies to facilitate in the coming weeks. 
 
