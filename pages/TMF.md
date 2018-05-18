@@ -22,7 +22,7 @@ The TMF provides a new funding model for Federal technology modernization projec
 
 ### What projects qualify for the Technology Modernization Fund?
 
-The Board will consider project proposals based on financial, technical, and operational criteria. All federal government agencies can submit project proposals to the TMF. A full list of requirements for submission, as well as a template, can be found in Appendix A of OMB M-18-12. A word document template can also be found on the OMB Modernizing Government Technology site. 
+The Board will consider project proposals based on financial, technical, and operational criteria. All federal government agencies can submit project proposals to the TMF. A full list of requirements for submission, as well as a template, can be found in <a href="https://policy.cio.gov/modernizing-government-technology/">Appendix A of OMB M-18-12</a>. A <a href="https://policy.cio.gov/assets/APPENDIXA.docx">word document template</a> can also be found on the OMB Modernizing Government Technology site. 
 
 ### Resources
 
