@@ -18,3 +18,5 @@ Federal agencies are eager to share their ideas on how this new medium might exp
 If you are a government employee with a .gov or .mil email address, join our <a href="mailto:VR-subscribe-request@listserv.gsa.gov?subject=VR%20listserv">Virtual and Augmented Reality Community</a>
 
 To join our public listserv for Artificial Intelligence for Citizen Services, contact listserv@listserv.gsa.gov with the message body “SUB VRARPublic.”
+
+If you are interested in being a part of our monthly meetings, contact us at EmergingTech@GSA.gov. 
