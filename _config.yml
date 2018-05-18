@@ -70,6 +70,8 @@ navigation:
     url: /Socialgov/
 - text: "Our Inter-Agency Initiatives"
   sub_nav:
+  - text: "Technology Modernization Fund"
+    url: /TMF/
   - text: "Open Data for AI"
     url: /OpenDataforAI/
   - text: "100 Federal Emerging Tech Leaders Initiative"
