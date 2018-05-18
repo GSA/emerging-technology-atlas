@@ -16,7 +16,7 @@ The main mechanism of this collaboration is to work side-by-side with agencies a
 
 We are hosting a workshop at GSA on June 8, 2018, “Funding the Future: Emerging Technologies for Federal IT Modernization” to launch efforts to assist agencies with developing proposals. This is just one of the many programming and development opportunities we will collaborate with agencies to facilitate in the coming weeks. 
 
-** hat is the Technology Modernization Fund?
+**What is the Technology Modernization Fund?
 
 The TMF provides a new funding model for Federal technology modernization projects. Agencies may submit project proposals for technology modernization projects to the Technology Modernization Board (Board). For FY 18, the Board will award $100 million to submitted projects. Approved projects will receive funds in an incremental manner, tied to specific project milestones and objectives, and will be regularly monitored by the Board for success.
 
@@ -26,6 +26,6 @@ The Board will consider project proposals based on financial, technical, and ope
 
 **Resources
 
-[OMB’s Modernizing Government Technology Landing Page] (https://policy.cio.gov/modernizing-government-technology/)
-Contact information:
+- <a href="https://policy.cio.gov/modernizing-government-technology/">OMB’s Modernizing Government Technology Landing Page</a>()
+- Contact information:
 ofcio@omb.eop.gov
