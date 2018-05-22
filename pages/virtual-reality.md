@@ -22,6 +22,7 @@ There are many uses for AR/VR in the public sector, and as with any new technolo
   <li>The Veterans Affairs (VA) Virtual Medical Center: An immersive three-dimensional virtual world in which veterans and VA staff can attend virtual presentations, conferences, and therapy sessions from anywhere in the world. There is also a Virtual Education Training Assistant (VETA) and a Patient Cybrary for patients while VA healthcare professionals have the Healthcare Cybrary. Visit the <a href="https://vavmc.com/">VMC website</a> for more information.</li>
 </ul>
 
+
 ### Get Involved
 
 We'd love to hear from you! Know of any current VR/AR programs or efforts to implement across government? Please reach out and share your story.  
