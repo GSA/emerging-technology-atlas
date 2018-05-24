@@ -5,7 +5,10 @@ permalink: /TMF/
 description: ""
 ---
 
-### New: View the [recording of our 5/22 Q&A webinar](https://www.youtube.com/watch?v=cvKMYGcabxo) with Liz Cain, Executive Director of the Technology Modernization Fund Program. The slides from the presentation are also [available for viewing in PDF form](../assets/Tech%20Modernization%20Fund.pdf).
+### New: 
+* **Registration is now live for the June 8 workshop ["Funding the Future: Emerging Technologies for Federal IT Modernization"](https://digital.gov/event/2018/06/08/funding-future-technology-modernization-fund-proposal-workshop/)! GSA’s Emerging Citizen Technology Office (ECTO) and the Technology Modernization Fund Program Management Office (TMF PMO) are hosting a workshop at GSA on June 8, 2018 to hands-on assist agencies with developing proposals for TMF that advance emerging technologies and programs that can improve our services and reduce costs for the American people today and in the coming years. Reserve your table today, space is limited.**
+
+* View the [recording of our 5/22 Q&A webinar](https://www.youtube.com/watch?v=cvKMYGcabxo) with Liz Cain, Executive Director of the Technology Modernization Fund Program. The slides from the presentation are also [available for viewing in PDF form](../assets/Tech%20Modernization%20Fund.pdf).
 
 A combination of bold and innovative emerging technology solutions including Artificial Intelligence and Robotic Process Automation piloted and tested by agencies across government with the operational rigor and funding of the Technology Modernization Fund holds the potential to drive to incredible performance advancements in public services. 
 
@@ -13,7 +16,7 @@ GSA’s Technology Modernization Fund Program Management Office (TMF PMO) and Em
 
 The main mechanism of this collaboration is to work side-by-side with agencies across government to create a submission pipeline for emerging technology proposals that may tap into the initial $100 million Technology Modernization Fund in order to replace legacy systems and deliver on the potential and promise of IT modernization. 
 
-We are hosting a workshop at GSA on June 8, 2018, “Funding the Future: Emerging Technologies for Federal IT Modernization” to launch efforts to assist agencies with developing proposals. More details and registration information for this workshop are coming. This is just one of the many programming and development opportunities we will collaborate with agencies to facilitate in the coming weeks. 
+We are hosting a workshop at GSA on June 8, 2018, [“Funding the Future: Emerging Technologies for Federal IT Modernization”](https://digital.gov/event/2018/06/08/funding-future-technology-modernization-fund-proposal-workshop/) to launch efforts to assist agencies with developing proposals. More details and registration information for this workshop are coming. This is just one of the many programming and development opportunities we will collaborate with agencies to facilitate in the coming weeks. 
 
 ### What is the Technology Modernization Fund?
 
