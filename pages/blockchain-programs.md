@@ -10,6 +10,8 @@ In this section find and contribute quick reference links to current programs, i
 This section is in early states of development and should not be considered comprehensive.
 
 ***
+### United States Agency for International Development
+The United States Agency for International Development (USAID) has published a report on the potential of blockchain technology. The [USAID Primer on Blockchain](https://www.usaid.gov/digital-development/digital-finance/blockchain-primer), published April 2018, equips USAID staff, implementing partners, and others to better understand if and how distributed ledger technology-based applications and/or digital currency (e.g. a cryptocurrency like Bitcoin) could help address development challenges—whether in health, agriculture, governance, finance, trade, humanitarian assistance, or energy.
 
 ### Centers for Disease Control
 For the past several months, the CDC’s Center for Surveillance, Epidemiology, and Laboratory Services has worked on several proofs of concept based on blockchain technology, with an eye toward building real applications next year. Most are geared toward better public health surveillance, which could include using a blockchain to more efficiently manage data during a crisis or to better track opioid abuse. For more information, <a href="https://www.technologyreview.com/s/608959/why-the-cdc-wants-in-on-blockchain/">read a recent report.</a>
