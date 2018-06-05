@@ -1,11 +1,9 @@
 ---
 layout: page
-title: "AI Workshop"
+title: "Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop -- AI for Citizen Services Programming"
 permalink: /workshop/
 description: ""
 ---
-
-### Emerging Tech and Open Data for a More Open and Accountable Government Collaborative Workshop -- AI for Citizen Services
 
 
 At our collaborative workshop held on September 8, 2017, Emerging Technology and Open Data for a More Open Government over 90 participants from government, industry, civil society, and academia came together and crafted potential goals to be integrated into the fourth U.S. National Action Plan for Open Government.
