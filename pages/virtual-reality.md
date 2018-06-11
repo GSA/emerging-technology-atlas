@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/GSA/emerging-technology-atlas/blob/master/assets/img/vr-usnavy.png">
+  <img width="460" height="300" src="../assets/img/vr-usnavy.png">
 </p>
 
-> The Office of Naval Research (ONR)-sponsored Battlespace Exploitation of Mixed Reality (BEMR) lab located at Space and Naval Warfare Systems Center Pacific is designed to showcase and demonstrate cutting edge low cost commercial mixed reality, virtual reality and augmented reality technologies and to provide a facility where warfighters, researchers, government, industry and academia can collaborate. (U.S. Navy photo by John F. Williams/Released)
+> *The Office of Naval Research (ONR)-sponsored Battlespace Exploitation of Mixed Reality (BEMR) lab located at Space and Naval Warfare Systems Center Pacific is designed to showcase and demonstrate cutting edge low cost commercial mixed reality, virtual reality and augmented reality technologies and to provide a facility where warfighters, researchers, government, industry and academia can collaborate. (U.S. Navy photo by John F. Williams/Released)*
 
 
 Immersive enhanced audio and visual experiences through virtual and augmented reality are now available to the American public through smartphones and other mobile devices, opening the door to an incredible diversity of new programs and services.
