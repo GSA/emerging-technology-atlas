@@ -7,7 +7,7 @@ redirect_from:
   - /vrar/
 ---
 
-<p align="left">
+<p align="center">
   <img width="460" height="300" src="../assets/img/vr-headset.jpg">
 </p>
 
