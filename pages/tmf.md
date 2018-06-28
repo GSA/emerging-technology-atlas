@@ -5,10 +5,10 @@ permalink: /TMF/
 description: ""
 ---
 
-### New: 
-* **Registration is now live for the online workshop ["Funding the Future: Emerging Technologies for Federal IT Modernization"](https://digital.gov/event/2018/06/08/funding-future-technology-modernization-fund-proposal-workshop/)! GSA’s Emerging Citizen Technology Office (ECTO) and the Technology Modernization Fund Program Management Office (TMF PMO) are hosting this online workshop June 8, 2018 to hands-on assist agencies with developing proposals for TMF that advance emerging technologies and programs that can improve our services and reduce costs for the American people today and in the coming years. In addition to information and guidance for all from TMF experts, participating federal agencies will be given the opportunity to schedule a personalized individual consultation with the TMF PMO to answer specfic questions on proposals.**
+**[Funding the Future: Technology Modernization Fund Proposal Workshop](https://www.youtube.com/watch?v=0UsrfJ9oiM4)**
+* Click the link above to receive proposal development assistance from GSA’s Emerging Citizen Technology Office (ECTO) and the Technology Modernization Fund Program Management Office (TMF PMO). This fund will help advance emerging technologies and programs that can improve our services and reduce costs for the American people today and in the coming years.
 
-* View the [recording of our 5/22 Q&A webinar](https://www.youtube.com/watch?v=cvKMYGcabxo) with Liz Cain, Executive Director of the Technology Modernization Fund Program. The slides from the presentation are also [available for viewing in PDF form](../assets/Tech%20Modernization%20Fund.pdf).
+* In addition, view the [recording of our 5/22 Q&A webinar](https://www.youtube.com/watch?v=cvKMYGcabxo) with Liz Cain, Executive Director of the Technology Modernization Fund Program. The slides from the presentation are also [available for viewing in PDF form](../assets/Tech%20Modernization%20Fund.pdf).
 
 A combination of bold and innovative emerging technology solutions including Artificial Intelligence and Robotic Process Automation piloted and tested by agencies across government with the operational rigor and funding of the Technology Modernization Fund holds the potential to drive to incredible performance advancements in public services. 
 
