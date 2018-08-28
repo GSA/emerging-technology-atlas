@@ -1,7 +1,7 @@
 ---
 layout: home
 body-class: home
-permalink: /
+permalink: /homet1
 title: FedRAMP.gov
 excerpt: The Federal Risk and Authorization Management Program, or FedRAMP, is a government-wide program that provides a standardized approach to security assessment
 keywords: FedRAMP, Federal Risk and Authorization Management Program, cloud, cloud CIO, federal cloud computing, cloud computing service models, cloud service providers, CSP, FedRAMP compliant, FedRAMP In-Process, FedRAMP Ready, GSA, General Services Administration
