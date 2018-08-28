@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Emerging Technology Atlas | Title of the page"
+title: "Social Technology"
 permalink: /social-technology/
 description: ""
 ---

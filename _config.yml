@@ -4,6 +4,10 @@ kramdown:
   extensions: ["superscript","tables","with_toc_data","strikethrough","smart"]
 highlighter: rouge
 
+plugins:
+  - jemoji
+  - jekyll-redirect-from
+
 exclude:
 - ".ruby-version"
 - ".jekyll-metadata"
@@ -21,8 +25,8 @@ exclude:
 
 # Site metadata
 name: "U.S. Emerging Citizen Technology Atlas"
-description: "All of the federal emerging citizen technology."
-baseurl: /emerging-technology-atlas
+description: "Just a fraction of federal emerging citizen technology."
+baseurl: ""
 
 # Google Analytics
 google_analytics: UA—110413123-1
@@ -40,44 +44,47 @@ branch: master
 navigation:
 - text: "Home"
   url: /
-- text: "Latest Updates"
-  url: /updates/
-- text: "How to Contribute"
-  url: /howto/
-- text: "About Emerging Citizen Technology Office"
-  url: /emergingcitizentech/
-  
-  sub_navigation:
-  - text: <span>Participating Agencies in ECTO</span>
+- text: "Take Action"
+  sub_nav:
+  - text: "Connect"
+    url: /connect/
+  - text: "Contribute"
+    url: /howto/
+  - text: "Recent Updates"
+    url: /updates/
+- text: "About GSA Emerging Citizen Technology Office"
+  sub_nav:
+  - text: "What We Do"
+    url: /emergingcitizentech/
+  - text: "Participating Agencies"
     url: /participatingagencies/
-
-- text: "Meeting Notes"
-  url: /Meeting-Notes/
-
-- text: "Artificial Intelligence for Citizen Services"
-  url: /artificial-intelligence/
-
-  sub_navigation:
-  - text: <span>Potential Use Cases</span>
-    url: /artificial-intelligence-federal/
-  - text: <span>Programs in Action</span>
-    url: /artificial-intelligence-programs/
-  - text: <span>Resources</span>
-    url: /artificial-intelligence-resources/
-    
-- text: "Blockchain"
-  url: /Blockchain/
-  
-  sub_navigation:
-  - text: <span>Potential Use Cases</span>
-    url: /blockchain-federal/
-  - text: <span>Programs in Action</span>
-    url: /blockchain-programs/
-  - text: <span>Resources</span>
-    url: /blockchain-resources/  
-
-- text: "Virtual and Augmented Reality (Coming Soon)"
-  url: /virtual-reality/
-
-- text: "Social Technology (Coming Soon)"
-  url: /social-technology/
+- text: "Our Emerging Technologies"
+  sub_nav:
+  - text: "Artificial Intelligence"
+    url: /artificial-intelligence/
+  - text: "Blockchain"
+    url: /blockchain/
+  - text: "Virtual/Augmented Reality"
+    url: /virtual-reality/
+  - text: "Social Technology"
+    url: /Socialgov/
+- text: "Our Inter-Agency Initiatives"
+  sub_nav:
+  - text: "Technology Modernization Fund"
+    url: /TMF/
+  - text: "Open Data for AI"
+    url: /OpenDataforAI/
+  - text: "100 Federal Emerging Tech Leaders Initiative"
+    url: /100Leaders/
+  - text: "Academic Research Outreach"
+    url: /AcademicOutreach/
+  - text: "Venture Capital Advisory Group"
+    url: /VentureCapital/
+  - text: "Training and Education"
+    url: /Training/
+- text: "Our Resources"
+  sub_nav:
+  - text: "Meeting Notes & Action Items"
+    url: /meeting-notes/
+  - text: "Calendar"
+    url: /calendar/

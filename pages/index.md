@@ -9,22 +9,20 @@ google_analytics: UA—110413123-1
 ---
 
 
-<h2>Welcome to the U.S. Emerging Citizen Technology Atlas</h2>
+# Welcome to the U.S. Emerging Citizen Technology Atlas
 
-<p dir="ltr">The U.S. Emerging Citizen Technology Atlas is an open source one-stop shop for U.S. federal government Artificial Intelligence for Citizen Services, Blockchain, and soon Virtual and Augmented Reality and Social Technologies. Anyone from federal managers and policy-makers to U.S. businesses, researchers, and the public can analyze and update with:</p> 
+Emerging technologies like Artificial Intelligence and Robotic Process Automation can hold the key to unlocking the vast potential of public services and open data for the American people, but they evolve at a speed that can be challenging for federal IT modernization efforts. 
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Use cases for the practical application of emerging technologies;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Reports from public service workshops, pilots, and initiatives;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Paths to current programs in action right now;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Resources anyone can use for evaluation, testing, and potential adoption.</p>
+This U.S. Emerging Citizen Technology Atlas is an open source resource organized by GSA's Emerging Citizen Technology Office (ECTO), launched in October 2017, in partnership with innovative programs and people across government to help tear down the barriers so anyone from public servants and policy-makers to U.S. businesses, researchers, and the public can learn and share updates with:
 
-<p>These pages include information provided directly from federal agencies evaluating and testing these new technologies, and like them should be considered a continual work-in-progress designed to empower you to know what we know and help us all be better informed to take advantage of new opportunities and avoid pitfalls.</p> 
+1. Uses and resources for the practical application of emerging technologies;
+2. Reports from public service workshops, pilots, and programs;
+3. Opportunities to participate and collaborate. 
 
-<p>In order for public services to best evaluate, test, and where appropriate adopt new technologies to improve services for citizens and make them more cost effective for taxpayers, federal agencies must collaborate more openly with the U.S. businesses, policymakers and innovators who are critical to building transformational technology programs. By their nature, however, emerging technologies evolve at a pace faster than traditional programs develop, which requires us to find new ways of working together.</p> 
+This Atlas is just one public-facing resource in a collaborative support and coordination effort to improve outcomes and reduce duplication of effort. 
 
-<p>This U.S. Emerging Citizen Technology Atlas, a product of hundreds of contributions from across government to <a href="https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology">General Services Administration's Emerging Citizen Technology program</a> and its inter-agency Communities and initiatives, launched Oct. 11, 2017, and will evolve with the technologies and programs within it through contributions from federal agencies, private industry, and anyone interested in promoting emerging citizen technologies.</p> 
+![ECTO Impact](../assets/img/ecto-impact-atlas.jpg)
 
-<p>For more information on the U.S. Emerging Citizen Technology Atlas, contact Justin Herman, GSA Emerging Citizen Technology lead, at EmergingTech@gsa.gov.</p>
+These are just a fraction of the expansive emerging technology programs and services within the U.S. federal government, a continual work-in-progress designed to empower you to know what we know and help us all be better informed to take advantage of new opportunities and avoid pitfalls. 
 
-<p>Hat tip: we forked the design for this resource originally from the <a href="https://usnationalarchives.github.io/opengovplan/">U.S. National Archives and Record Administration's Open Government Plan.</a></p>
-
+We look forward to working with you to build the future now.  
