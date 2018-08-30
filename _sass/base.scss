@@ -25,6 +25,20 @@ body{
     }
   }
 }
+
+section{
+  padding: 60px;
+}
+section.promos{
+  .promo{
+    background: #efefef;
+  }
+}
+section.highlight{
+  background: #212346;
+  color: #fff;
+}
+
 @media screen and (min-width: 600px) {
   .usa-header{
     .usa-navbar{

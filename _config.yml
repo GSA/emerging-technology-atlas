@@ -24,7 +24,7 @@ exclude:
 - LICENSE.md
 
 # Site metadata
-name: "U.S. Emerging Citizen Technology Atlas"
+name: "U.S. Emerging Citizen Technology Office"
 description: "Just a fraction of federal emerging citizen technology."
 baseurl: ""
 
