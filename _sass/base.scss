@@ -29,15 +29,70 @@ body{
 section{
   padding: 60px;
 }
-section.promos{
+section.strip{
+  h3{
+    font-size: 30px;
+  }
+  a{
+    color: #fff
+  }
   .promo{
-    background: #efefef;
+    padding: 1em;
+    background: #ebf5ff;
+    border-radius: 2px;
+    a{
+      color: #212346;
+    }
+    h3{
+      margin-top: 0;
+      font-size: 21px;
+      a{
+        color: #212346;
+        text-decoration: none;
+      }
+    }
+  }
+  .btn{
+    padding: 7px 13px 9px 13px;
+    background: #212346;
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    border-radius: 2px;
+  }
+  .btn:hover{
+    background: #2f3269;
+  }
+  .btn-lg{
+    padding: 10px 20px 12px 20px;
+    font-size: 22px;
   }
 }
-section.highlight{
+
+
+section.strip-dark{
   background: #212346;
   color: #fff;
+  .btn{
+    background: #fff;
+    color: #212346;
+  }
+  .btn:hover{
+    background: #fff;
+    text-decoration: underline;
+  }
+  .promo{
+    background: #3b3e70;
+    a{
+      color: #fff;
+    }
+    h3 a{
+      color: #fff;
+    }
+  }
 }
+
+
 
 @media screen and (min-width: 600px) {
   .usa-header{
