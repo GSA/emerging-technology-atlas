@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: TechOverview
 title: "Blockchain"
 permalink: /blockchain/
 description: ""
