@@ -4,13 +4,6 @@ title: "Blockchain"
 permalink: /blockchain/
 description: ""
 ---
-
-- [Potential Use Cases]({{ site.baseurl }}{% link pages/blockchain-federal.md %})
-- [Programs in Action]({{ site.baseurl }}{% link pages/blockchain-programs.md %})
-- [Resources]({{ site.baseurl }}{% link pages/blockchain-resources.md %})
-
----
-
 Federal agencies are eager to better evaluate, test and potentially adopt distributed ledger technologies like Blockchain that use encryption and coding to improve transparency, efficiency and trust in information sharing.
 
 GSA’s Emerging Citizen Technology program launched the inter-agency Blockchain program for anyone who is interested in exploring distributed ledger technology and its potential implementation within government.
