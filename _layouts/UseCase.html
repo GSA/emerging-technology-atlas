@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<main class="usa-grid usa-section usa-content usa-layout-docs" id="main-content">
+  <aside class="usa-width-one-fourth usa-layout-docs-sidenav">
+    {% include navigation.html %}
+  </aside>
+
+  <div class="usa-width-three-fourths usa-layout-docs-main_content">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+
+    <div class="post-content">
+      {{ content }}
+    </div>
+  </div>
+</main>
+
+{% include three-promos.html %}
