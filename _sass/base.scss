@@ -5,6 +5,10 @@ body{
   display: none;
 }
 
+.usa-header-extended .usa-navbar,
+.usa-grid{
+  max-width: 960px;
+}
 // expanding the text column
 .usa-content .usa-layout-docs-main_content p{
   max-width: none;
@@ -31,15 +35,29 @@ section{
 }
 
 section.strip{
+  * {
+    font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  }
+  h2{
+    font-size: 4rem;
+  }
   h3{
-    font-size: 20px;
+    margin-top: 1em;
+    font-size: 3rem;
+  }
+  .thin{
+    font-weight: 200;
   }
   a{
     color: #fff
   }
+  p{
+    margin-top:0;
+    font-size: 2rem;
+  }
   .promo{
     padding: 1em;
-    background: #ebf5ff;
+    background: #ffe3a3;
     border-radius: 2px;
     a{
       color: #212346;
@@ -52,6 +70,13 @@ section.strip{
         text-decoration: none;
       }
     }
+    p{
+      margin: 0;
+      line-height: 1.2em;
+    }
+  }
+  .centered{
+    text-align: center;
   }
   .btn{
     padding: 7px 13px 9px 13px;
