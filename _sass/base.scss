@@ -68,6 +68,9 @@ section.strip{
       a{
         color: #212346;
         text-decoration: none;
+        &:hover{
+          border-bottom: 2px #ff580a solid;
+        }
       }
     }
     p{
