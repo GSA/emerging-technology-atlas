@@ -50,7 +50,7 @@ navigation:
     url: /connect/
   - text: "Contribute"
     url: /howto/
-  - text: "Dan Raudonis"
+  - text: "Recent Updates"
     url: /updates/
 - text: "About GSA Emerging Citizen Technology Office"
   sub_nav:
