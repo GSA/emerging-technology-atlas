@@ -5,6 +5,8 @@ permalink: /EmergingTechGovServices/
 description: ""
 ---
 
+Here are the emerging technologies for government services we work together with public services, businesses and academia on: 
+
 ## Artificial Intelligence
 
 Public services are increasingly powered through the combination of greater access to data and practical advances in Artificial Intelligence and Machine Learning that deliver solutions from research and development laboratories into the hands of programs everywhere.
