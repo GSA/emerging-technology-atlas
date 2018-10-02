@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Interagency Initiatives"
+title: "Partnerships and Initiatives"
 permalink: /InteragencyInitiatives/
 description: ""
 ---
+
+Here are some of the partnerships and initiatives we work together with public services, businesses and academia on:
 
 ## Technology Modernization Fund Support
 
