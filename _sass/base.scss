@@ -31,13 +31,11 @@ body{
 }
 
 section{
-  padding: 50px;
+  padding: 50px 0;
 }
 
 section.strip{
-  * {
-    font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
-  }
+  font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
   h2{
     font-size: 4rem;
   }
@@ -56,6 +54,7 @@ section.strip{
     font-size: 2rem;
   }
   .promo{
+    margin-bottom: 1em;
     padding: 1em;
     background: #ffe3a3;
     border-radius: 2px;
