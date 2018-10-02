@@ -13,7 +13,7 @@ The Artificial Intelligence for Citizen Services program is designed to collabor
 
 ## Robotic Process Automation 
 
-
+Government programs can make their programs more effective and efficient by "taking the robot out of our human" workforce with automation, eliminating wasted time and effort and empowering employees to dedicate their full resources to more high impact activities. 
 
 ## Blockchain
 
