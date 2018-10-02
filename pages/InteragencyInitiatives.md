@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Emerging Technology Initiatives for Government Services"
-permalink: /InteragencyInitiatves/
+permalink: /InteragencyInitiatives/
 description: ""
 ---
 
