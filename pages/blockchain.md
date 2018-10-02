@@ -3,6 +3,17 @@ layout: TechOverview
 title: "Blockchain"
 permalink: /blockchain/
 description: ""
+promos:
+  - name:   'Case Studies'
+    desc:   'this is the text describing it'
+    url:    'https://emerging.digital.gov/'
+  - name:   'Examples of Examples'
+    desc:   'this is the text describing it'
+    url:    'https://emerging.digital.gov/'
+  - name:   'Great people every where'
+    desc:   'this is the text describing it'
+    url:    'https://emerging.digital.gov/'
+
 ---
 
 Federal agencies are eager to better evaluate, test and potentially adopt distributed ledger technologies like Blockchain that use encryption and coding to improve transparency, efficiency and trust in information sharing.

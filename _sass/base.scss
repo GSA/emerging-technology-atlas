@@ -49,6 +49,11 @@ section.strip{
     font-size: 2rem;
     font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
   }
+  h4{
+    margin-top: 1em;
+    font-size: 1.6rem;
+    font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  }
   @media screen and (min-width: 600px) {
     h2{
       font-size: 4rem;
@@ -75,7 +80,7 @@ section.strip{
     a{
       color: #212346;
     }
-    h3{
+    h3, h4{
       margin-top: 0;
       font-size: 28px;
       a{
@@ -85,6 +90,9 @@ section.strip{
           border-bottom: 2px #ff580a solid;
         }
       }
+    }
+    h4{
+      font-size: 21px;
     }
     p{
       margin: 0;
