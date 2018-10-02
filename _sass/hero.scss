@@ -2,7 +2,12 @@ section.hero{
   // background: #333;
   h2{
     font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
-    font-size: 5.2rem;
+    font-size: 3.8rem;
     color: #453c7b;
+  }
+  @media screen and (min-width: 600px) {
+    h2{
+      font-size: 5.2rem;
+    }
   }
 }
