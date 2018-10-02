@@ -59,7 +59,7 @@ navigation:
 - text: "Emerging Technologies for Government Services"
   url: /EmergingTechGovServices/
 - text: "Our Inter-Agency Initiatives"
-  url: /InteragencyInitatives/
+  url: /InteragencyInitiatives/
   sub_nav:
   - text: "Technology Modernization Fund"
     url: /TMF/
