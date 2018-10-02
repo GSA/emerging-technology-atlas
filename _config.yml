@@ -57,6 +57,7 @@ navigation:
   - text: "Meeting Notes & Action Items"
     url: /meeting-notes/
 - text: "Emerging Technologies for Government Services"
+  url: /EmergingTechGovServices/
   sub_nav:
   - text: "Artificial Intelligence"
     url: /artificial-intelligence/
@@ -67,6 +68,7 @@ navigation:
   - text: "Social Technology"
     url: /Socialgov/
 - text: "Our Inter-Agency Initiatives"
+  url: /InteragencyInitatives/
   sub_nav:
   - text: "Technology Modernization Fund"
     url: /TMF/
