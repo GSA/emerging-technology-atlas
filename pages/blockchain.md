@@ -1,16 +1,14 @@
 ---
-layout: TechOverview
+layout: page
 title: "Blockchain"
 permalink: /blockchain/
 description: ""
+
 promos:
   - name:   'Case Studies'
     desc:   'this is the text describing it'
     url:    'https://emerging.digital.gov/'
-  - name:   'Examples of Examples'
-    desc:   'this is the text describing it'
-    url:    'https://emerging.digital.gov/'
-  - name:   'Great people every where'
+  - name:   'Examples of Examples 2'
     desc:   'this is the text describing it'
     url:    'https://emerging.digital.gov/'
 
