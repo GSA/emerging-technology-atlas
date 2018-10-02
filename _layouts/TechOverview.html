@@ -11,27 +11,29 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
 
     <section class="promos strip">
-      {% if page.promos %}
+      <div class="usa-grid">
+        {% if page.promos %}
 
-        {% assign count = page.promos | size %}
-        {% if count == 3 %}
-          {% assign cols = "one-third" %}
-        {% else if count == 2 %}
-          {% assign cols = "one-half" %}
-        {% else if count == 1 %}
-          {% assign cols = "one-whole" %}
-        {% endif %}
+          {% assign count = page.promos | size %}
+          {% if count == 3 %}
+            {% assign cols = "one-third" %}
+          {% else if count == 2 %}
+            {% assign cols = "one-half" %}
+          {% else if count == 1 %}
+            {% assign cols = "one-whole" %}
+          {% endif %}
 
-        {% for promo in page.promos %}
-          <div class="usa-width-{{ cols }}">
-            <div class="promo">
-              <h4><a href="{{ promo.url }}">{{ promo.name }}</a></h4>
-              <p>{{ promo.desc }}</p>
-              <p><a href="{{ promo.url }}"><strong>Learn more »</strong></a></p>
+          {% for promo in page.promos %}
+            <div class="usa-width-{{ cols }}">
+              <div class="promo">
+                <h4><a href="{{ promo.url }}">{{ promo.name }}</a></h4>
+                <p>{{ promo.desc }}</p>
+                <p><a href="{{ promo.url }}"><strong>Learn more »</strong></a></p>
+              </div>
             </div>
-          </div>
-        {% endfor %}
-      {% endif %}
+          {% endfor %}
+        {% endif %}
+      </div>
     </section>
 
     <div class="post-content">
