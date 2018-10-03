@@ -60,14 +60,3 @@ navigation:
   url: /EmergingTechGovServices/
 - text: "Our Inter-Agency Initiatives"
   url: /InteragencyInitiatives/
-  sub_nav:
-  - text: "Technology Modernization Fund"
-    url: /TMF/
-  - text: "Open Data for AI"
-    url: /OpenDataforAI/
-  - text: "Academic Research Outreach"
-    url: /AcademicOutreach/
-  - text: "Venture Capital Advisory Group"
-    url: /VentureCapital/
-  - text: "Training and Education"
-    url: /Training/
