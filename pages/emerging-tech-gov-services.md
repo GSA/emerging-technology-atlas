@@ -13,6 +13,7 @@ Public services are increasingly powered through the combination of greater acce
 
 The Artificial Intelligence for Citizen Services program is designed to collaborate with agencies across government, U.S. businesses, researchers, and the public to improve customer services, civic participation, and access for the American people.
 
+Here is a recording from our Emerging Technology Leaderships Series:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8b2i7H63rzc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Robotic Process Automation
@@ -23,6 +24,7 @@ Government programs can make their programs more effective and efficient by "tak
 
 Federal agencies are eager to better evaluate, test and potentially adopt distributed ledger technologies like Blockchain that use encryption and coding to improve transparency, efficiency and trust in information sharing.
 
+Here is a recording from our Emerging Technology Leaderships Series:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0vEMKDmqKYM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Social Media
