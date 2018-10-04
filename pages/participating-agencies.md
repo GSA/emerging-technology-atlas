@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Participating Agencies"
-permalink: /participatingagencies/
+permalink: /participating-agencies/
 description: ""
 ---
 
