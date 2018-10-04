@@ -9,10 +9,9 @@ layout: default
 
   <div class="usa-width-three-fourths usa-layout-docs-main_content">
     <h1 class="post-title">{{ page.title | escape }}</h1>
-
+    {% if page.promos %}
     <section class="promos strip">
       <div class="usa-grid">
-        {% if page.promos %}
 
           {% assign count = page.promos | size %}
           {% if count == 3 %}
@@ -32,9 +31,9 @@ layout: default
               </div>
             </div>
           {% endfor %}
-        {% endif %}
       </div>
     </section>
+    {% endif %}
     
     <div class="post-content">
       {{ content }}
