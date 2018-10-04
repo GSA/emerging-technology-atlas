@@ -44,47 +44,19 @@ branch: master
 navigation:
 - text: "Home"
   url: /
-- text: "Take Action"
-  sub_nav:
-  - text: "Connect"
-    url: /connect/
-  - text: "Contribute"
-    url: /howto/
-  - text: "Recent Updates"
-    url: /updates/
-- text: "About GSA Emerging Citizen Technology Office"
+- text: "About Us"
   sub_nav:
   - text: "What We Do"
     url: /emergingcitizentech/
   - text: "Participating Agencies"
     url: /participatingagencies/
-- text: "Our Emerging Technologies"
-  sub_nav:
-  - text: "Artificial Intelligence"
-    url: /artificial-intelligence/
-  - text: "Blockchain"
-    url: /blockchain/
-  - text: "Virtual/Augmented Reality"
-    url: /virtual-reality/
-  - text: "Social Technology"
-    url: /Socialgov/
-- text: "Our Inter-Agency Initiatives"
-  sub_nav:
-  - text: "Technology Modernization Fund"
-    url: /TMF/
-  - text: "Open Data for AI"
-    url: /OpenDataforAI/
-  - text: "100 Federal Emerging Tech Leaders Initiative"
-    url: /100Leaders/
-  - text: "Academic Research Outreach"
-    url: /AcademicOutreach/
-  - text: "Venture Capital Advisory Group"
-    url: /VentureCapital/
-  - text: "Training and Education"
-    url: /Training/
-- text: "Our Resources"
-  sub_nav:
+  - text: "Connect"
+    url: /connect/
+  - text: "Contribute"
+    url: /howto/
   - text: "Meeting Notes & Action Items"
     url: /meeting-notes/
-  - text: "Calendar"
-    url: /calendar/
+- text: "Emerging Technologies for Government Services"
+  url: /EmergingTechGovServices/
+- text: "Our Interagency Initiatives"
+  url: /InteragencyInitiatives/
