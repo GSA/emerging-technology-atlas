@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Emerging Technology Atlas | Artificial Intelligence Events"
+title: "Emerging Citizen Technology | Artificial Intelligence Events"
 permalink: /artificial-intelligence-events/
 description: ""
 ---

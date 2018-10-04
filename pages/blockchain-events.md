@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Emerging Technology Atlas | Blockchain Events"
+title: "Emerging Citizen Technology | Blockchain Events"
 permalink: /blockchain-events/
 description: ""
 ---

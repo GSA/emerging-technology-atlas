@@ -47,9 +47,9 @@ navigation:
 - text: "About Us"
   sub_nav:
   - text: "What We Do"
-    url: /emergingcitizentech/
+    url: /what-we-do/
   - text: "Participating Agencies"
-    url: /participatingagencies/
+    url: /participating-agencies/
   - text: "Connect"
     url: /connect/
   - text: "Contribute"
@@ -57,6 +57,6 @@ navigation:
   - text: "Meeting Notes & Action Items"
     url: /meeting-notes/
 - text: "Emerging Technologies for Government Services"
-  url: /EmergingTechGovServices/
+  url: /emerging-tech-gov-services/
 - text: "Our Interagency Initiatives"
-  url: /InteragencyInitiatives/
+  url: /interagency-initiatives/

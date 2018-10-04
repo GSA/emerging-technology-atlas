@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Emerging Technology Atlas | Title of the page"
+title: "Emerging Citizen Technology | Title of the page"
 permalink: /ectoresources/
 description: ""
 ---

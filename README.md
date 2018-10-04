@@ -1,4 +1,4 @@
-# Emerging Technology Atlas
+# Emerging Citizen Technology
 https://emerging.digital.gov/
 
 

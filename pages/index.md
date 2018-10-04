@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Emerging Technology Atlas
+title: Emerging Citizen Technology
 permalink: /
 description: ""
 # Google Analytics

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Emerging Technology Atlas| Blockchain Forum"
+title: "Emerging Citizen Technology| Blockchain Forum"
 permalink: /blockchain-forum/
 description: ""
 ---
