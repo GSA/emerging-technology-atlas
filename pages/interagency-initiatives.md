@@ -7,13 +7,15 @@ description: ""
 
 Here are some of the partnerships and initiatives we work together with public services, businesses and academia on:
 
-## [Technology Modernization Fund Support](https://emerging.digital.gov/TMF/)
+## [Technology Modernization Fund Support]
 
 A combination of bold and innovative emerging technology solutions including Artificial Intelligence and Robotic Process Automation piloted and tested by agencies across government with the operational rigor and funding of the Technology Modernization Fund holds the potential to drive to incredible performance advancements in public services.
 
 GSA’s Technology Modernization Fund Program Management Office (TMF PMO) and Emerging Citizen Technology Office (ECTO) are partnering to help agencies apply these advances in emerging technologies and processes to IT modernization efforts that can improve our services and reduce costs for the American people today and in the coming years.
 
-For more information and resources, visit our TMF support homepage.
+For more information and resources, [visit our TMF support homepage.](https://emerging.digital.gov/TMF/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0UsrfJ9oiM4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Open Data for Artificial Intelligence
 
