@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Emerging Technologies for Government Services"
-permalink: /EmergingTechGovServices/
+permalink: /emerging-tech-gov-services/
 description: ""
 ---
 
-Here are the emerging technologies for government services we work together with public services, businesses and academia on: 
+Here are the emerging technologies for government services we work together with public services, businesses and academia on:
 
 ## Artificial Intelligence
 
@@ -13,9 +13,9 @@ Public services are increasingly powered through the combination of greater acce
 
 The Artificial Intelligence for Citizen Services program is designed to collaborate with agencies across government, U.S. businesses, researchers, and the public to improve customer services, civic participation, and access for the American people.
 
-## Robotic Process Automation 
+## Robotic Process Automation
 
-Government programs can make their programs more effective and efficient by "taking the robot out of our human" workforce with automation, eliminating wasted time and effort and empowering employees to dedicate their full resources to more high impact activities. 
+Government programs can make their programs more effective and efficient by "taking the robot out of our human" workforce with automation, eliminating wasted time and effort and empowering employees to dedicate their full resources to more high impact activities.
 
 ## Blockchain
 

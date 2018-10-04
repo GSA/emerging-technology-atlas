@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<main class="usa-grid usa-section usa-content usa-layout-docs" id="main-content">
+  <aside class="usa-width-one-fourth usa-layout-docs-sidenav">
+    {% include navigation.html %}
+  </aside>
+
+  <div class="usa-width-three-fourths usa-layout-docs-main_content">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+
+    <div class="post-content">
+      {{ content }}
+    </div>
+
+<table class="usa-table-borderless">
+  <thead>
+    <tr>
+      <th scope="col">Use Case</th>
+      <th scope="col">Description</th>
+      <th scope="col">Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th> <a href="/blockchain-workshop/" scope="row" >Emerging Tech and Open Data Collaborative Workshop</a>
+      <td>Over 90 participants from 47 teams from government, industry, civil society, and academia came together and crafted potential goals to be integrated into the fourth U.S. National Action Plan for Open Government. 35 proposals are shared here.</td>
+      <td>Sept. 8th, 2017</td>
+    </tr>
+    <tr>
+      <th> <a href="/blockchain-forum/" scope="row" >U.S. Federal Blockchain Forum</a>
+      <td>62 government offices participated in this forum which discussed advancements in Blockchain technology, use cases and set an agenda for working together to evaluate and implement Blockchain among our diverse missions. 79 of those concepts are shared here.</td>
+      <td>Jul. 28th, 2017</td>
+    </tr>
+  </tbody>
+</table>
+  </div>
+</main>
+<section class="strip strip-dark">
+  <div class="usa-grid">
+    <div class="usa-width-one-half">
+      <h3>Subscribe to our Federal and Public blockchain-focused mailing lists</h3>
+    </div>
+    <div align="center" class="usa-width-one-fourth">
+      <a class="btn btn-lg" href="">Federal</a>
+    </div>
+    <div align="center" class="usa-width-one-fourth">
+      <a class="btn btn-lg" href="">Public</a>
+    </div>
+  </div>
+</section>

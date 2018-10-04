@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+<main class="usa-grid usa-section usa-content usa-layout-docs" id="main-content">
+  <aside class="usa-width-one-fourth usa-layout-docs-sidenav">
+    {% include navigation.html %}
+  </aside>
+
+  <div class="usa-width-three-fourths usa-layout-docs-main_content">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+
+    <div class="post-content">
+      {{ content }}
+    </div>
+
+    <ul class="usa-accordion">
+      <li>
+        <button class="usa-accordion-button"
+          aria-expanded="true"
+          aria-controls="a1">
+          United States Agency for International Development
+        </button>
+        <div id="a1" class="usa-accordion-content">
+          The United States Agency for International Development (USAID) has published a report on the potential of blockchain technology. The <a href="https://www.usaid.gov/digital-development/digital-finance/blockchain-primer">USAID Primer on Blockchain</a>, published April 2018, equips USAID staff, implementing partners, and others to better understand if and how distributed ledger technology-based applications and/or digital currency (e.g. a cryptocurrency like Bitcoin) could help address development challenges—whether in health, agriculture, governance, finance, trade, humanitarian assistance, or energy.
+        </div>
+      </li><li>
+        <button class="usa-accordion-button"
+          aria-expanded="false"
+          aria-controls="a2">
+          Centers for Disease Control
+        </button>
+        <div id="a2" class="usa-accordion-content">
+          For the past several months, the CDC’s Center for Surveillance, Epidemiology, and Laboratory Services has worked on several proofs of concept based on blockchain technology, with an eye toward building real applications next year. Most are geared toward better public health surveillance, which could include using a blockchain to more efficiently manage data during a crisis or to better track opioid abuse. For more information, <a href="https://www.technologyreview.com/s/608959/why-the-cdc-wants-in-on-blockchain/">read a recent report.</a>
+        </div>
+      </li><li>
+        <button class="usa-accordion-button"
+          aria-expanded="false"
+          aria-controls="a3">
+          Department of Defense
+        </button>
+        <div id="a3" class="usa-accordion-content">
+          <p> The The Joint Staff, J4 Logistics Directorate and the Deputy Assistant Secretary of Defense for Maintenance, Policy, and Programs are co-leading a project to create a “point of use, time of need” digital supply chain enabled by Additive Manufacturing (3D Printing) and Blockchain. With the introduction of distributed manufacturing, the path from design engineering to manufacturing now includes a digital distribution phase. As the digital thread extends connectivity deep into manufacturing supply chains, cyber security must be an integral part of any successful manufacturing roadmap. AM files can be easily transmitted with the click of a mouse. The digital nature of AM means that parts and products are easier to share and transmit, enabling the creation of a digital supply network and supply chains. AM, with its reliance on the digital thread, is one area which can be especially vulnerable to cyber threats and intrusions. In order to fully realize the benefits of AM within a defined distribution network, secure data transport must be addressed. Blockchain is one solution to mitigate those risks. <p>
+
+          Participants include: Joint Staff, J4; OSD, DASD MPP; OSD, Chief Information Office; Joint Staff Innovation Group; Dept of Commerce, National Institute for Standards and Technology (NIST); National Center for Manufacturing Sciences (NCMS); Commercial Technologies for Maintenance Activities (CTMA); United States Navy; United States Army; United States Marine Corps; United States Air Force; Defense Logistics Agency; and Industry Partners.
+        </div>
+      </li>
+    </ul>
+  </div>
+</main>
+<section class="strip strip-dark">
+  <div class="usa-grid">
+    <div class="usa-width-one-half">
+      <h3>Subscribe to our Federal and Public blockchain focused mailing lists</h3>
+    </div>
+    <div align="center" class="usa-width-one-fourth">
+      <a class="btn btn-lg" href="">Federal</a>
+    </div>
+    <div align="center" class="usa-width-one-fourth">
+      <a class="btn btn-lg" href="">Public</a>
+    </div>
+  </div>
+</section>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "What is GSA's Emerging Citizen Technology Office?"
-permalink: /emergingcitizentech/
+permalink: /what-we-do/
 description: ""
 ---
 

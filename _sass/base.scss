@@ -5,6 +5,10 @@ body{
   display: none;
 }
 
+.usa-header-extended .usa-navbar,
+.usa-grid{
+  max-width: 960px;
+}
 // expanding the text column
 .usa-content .usa-layout-docs-main_content p{
   max-width: none;
@@ -25,6 +29,138 @@ body{
     }
   }
 }
+
+h1{
+  font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+}
+
+section{
+  padding: 30px 0;
+}
+@media screen and (min-width: 600px) {
+  section{
+    padding: 50px 0;
+  }
+}
+
+section.strip{
+  h2{
+    font-size: 3rem;
+    font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  }
+  h3{
+    margin-top: 1em;
+    font-size: 2rem;
+    font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  }
+  h4{
+    margin-top: 1em;
+    font-size: 1.6rem;
+    font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  }
+  @media screen and (min-width: 600px) {
+    h2{
+      font-size: 4rem;
+    }
+    h3{
+      font-size: 3rem;
+    }
+  }
+  .thin{
+    font-weight: 200;
+  }
+  a{
+    color: #fff
+  }
+  p{
+    margin-top:0;
+    font-size: 2rem;
+  }
+  .promo{
+    margin-bottom: 1em;
+    padding: 1em 1em 1.4em 1em;
+    background: #ffe3a3;
+    border-radius: 2px;
+    a{
+      color: #212346;
+    }
+    h3, h4{
+      margin-top: 0;
+      font-size: 28px;
+      a{
+        color: #212346;
+        text-decoration: none;
+        &:hover{
+          border-bottom: 2px #ff580a solid;
+        }
+      }
+    }
+    h4{
+      font-size: 21px;
+    }
+    p{
+      margin: 0;
+      line-height: 1.2em;
+      i{
+        margin: .5em 0 0 0;
+        font-size: 30px;
+      }
+    }
+  }
+  .contact{
+    background: #f0f0ec;
+    h3{
+      font-size: 21px;
+    }
+    p{
+      font-size: 16px;
+    }
+  }
+  .centered{
+    text-align: center;
+  }
+  .btn{
+    padding: 7px 13px 9px 13px;
+    background: #212346;
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    border-radius: 2px;
+  }
+  .btn:hover{
+    background: #2f3269;
+  }
+  .btn-lg{
+    padding: 10px 20px 12px 20px;
+    font-size: 22px;
+  }
+}
+
+
+section.strip-dark{
+  background: #212346;
+  color: #fff;
+  .btn{
+    background: #fff;
+    color: #212346;
+  }
+  .btn:hover{
+    background: #fff;
+    text-decoration: underline;
+  }
+  .promo{
+    background: #3b3e70;
+    a{
+      color: #fff;
+    }
+    h3 a{
+      color: #fff;
+    }
+  }
+}
+
+
+
 @media screen and (min-width: 600px) {
   .usa-header{
     .usa-navbar{

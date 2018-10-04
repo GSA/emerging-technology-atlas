@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: TechOverview
 title: "Artificial Intelligence"
 permalink: /artificial-intelligence/
 description: ""

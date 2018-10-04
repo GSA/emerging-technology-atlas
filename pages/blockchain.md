@@ -3,11 +3,14 @@ layout: page
 title: "Blockchain"
 permalink: /blockchain/
 description: ""
----
 
-- [Potential Use Cases]({{ site.baseurl }}{% link pages/blockchain-federal.md %})
-- [Programs in Action]({{ site.baseurl }}{% link pages/blockchain-programs.md %})
-- [Resources]({{ site.baseurl }}{% link pages/blockchain-resources.md %})
+promos:
+  - name:   'Case Studies'
+    desc:   'this is the text describing it'
+    url:    'https://emerging.digital.gov/'
+  - name:   'Examples of Examples 2'
+    desc:   'this is the text describing it'
+    url:    'https://emerging.digital.gov/'
 
 ---
 
