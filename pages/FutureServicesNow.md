@@ -193,3 +193,87 @@ description: ""
   </ul>
 
   <b><font size="6"><center>Robotic Process Automation Track</center></font></b>
+
+  <ul class="usa-accordion-bordered">
+    <li>
+      <button class="usa-accordion-button"
+        aria-expanded="false"
+        aria-controls="b-a11">
+        RPA Implementation Life Cycle
+      </button>
+      <div id="b-a11" class="usa-accordion-content">
+        <ul>
+          <li><b>Description:</b> This session discussed OMB's guidance on automation to move from low value to high-value work, and explained how to navigate the major phases of the RPA life cycle: candidate process assessment, IT platform and security, and ongoing operations management.</li>
+          <li><b>Presenters</b>
+          <ul class="square">
+          <li>Moderator: Robert Grabowski, Deloitte</li>
+          <li>Christine Gex, Office of the Deputy Assistant Secretary of the Army (DASA)</li>
+          <li>Jia Jian J Shen, U.S. Food and Drug Administration</li>
+          <li>Curtina Smith, White House Office of Management and Budget</li>
+          <li>Alicia Saucedo de Flores, GSA Office of the Chief Financial Officer</li>
+          <li>Christopher Rose, Deloitte</li>
+          <li>Jim Walker, UiPath</li>
+          </ul>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <button class="usa-accordion-button"
+        aria-expanded="false"
+        aria-controls="b-a12">
+        Interactive Build-a-Bot Demo
+      </button>
+      <div id="b-a12" class="usa-accordion-content">
+        <ul>
+          <li><b>Description:</b> This session demonstrated hands-on construction of two process robots with audience participation.</li>
+          <li><b>Workshop Leaders</b>
+          <ul class="square">
+          <li>Brian Diederich, Deloitte</li>
+          <li>Jim Walker, UiPath</li>
+          </ul>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <button class="usa-accordion-button"
+        aria-expanded="false"
+        aria-controls="b-a13">
+        Intelligent Automation: Beyond RPA
+      </button>
+      <div id="b-a13" class="usa-accordion-content">
+        <ul>
+          <li><b>Description:</b> This session exposed participants to advanced automation technologies such as machine learning, extraction of information from unstructured documents, neural network models, RPA generation of data sources for use by Artificial Intelligence applications.</li>
+          <li><b>Presenters</b>
+          <ul class="square">
+          <li>Moderator: Bob Dunmyer, Guidehouse</li>
+          <li>William Carroll, U.S. Navy</li>
+          <li>Marina Fox, GSA</li>
+          <li>CDR Thomas Sampson, Joint Strike Force</li>
+          <li>Mallesh Murugesan, Abeyon</li>
+          </ul>
+          </li>
+        </ul>
+      </div>
+    </li>
+    </ul>
+
+  <b><font size="6"><center>Virtual and Augmented Reality Track</center></font></b>
+
+  <ul class="usa-accordion-bordered">
+    <li>
+      <button class="usa-accordion-button"
+        aria-expanded="false"
+        aria-controls="b-a14">
+        Demos
+      </button>
+      <div id="b-a14" class="usa-accordion-content">
+        <ul>
+          <li>Jordan Higgins of ByteCubed demoed mixed reality remote collaboration in 3D with architectural and geographic models on the Microsoft Hololens.</li>
+          <li>Shayna Skolnik of Navteca demoed innovation projects developed with NASA Headquarters Information Technology Communications Directorate (ITCD) and a virtual reality (VR) project developed with the Science Mission Directorate Disaster Application group using GIS and disaster data from NOAA and NASA to show Hurricane flooding impacts in Puerto Rico, the mid Atlantic, and other at-risk regions.</li>
+          <li>Kashyap Sridhar of eGlobalTech demoed a virtual cultural tour of the Statue of Liberty in a 3D immersive environment with AI driven avatar using Amazon AWS Sumerian. The experience included use of Amazon Sumerian hosts that are designed to act as virtual tour guides. The demo also included examples of other potential VR 3D immersive experiences for government.</li>
+        </ul>
+      </div>
+    </li>
+    </ul>
