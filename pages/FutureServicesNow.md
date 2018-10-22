@@ -5,19 +5,21 @@ permalink: /FutureServicesNow/
 description: ""
 ---
 
-Friday, October 12, 2018
-U.S. General Services Administration
-1800 F Street NW, Washington, D.C. 
+<strong>Friday, October 12, 2018</strong><br/>
+U.S. General Services Administration<br/>
+1800 F Street NW, Washington, D.C.<br/>
 
-![FSN Program](img src="/assets/img/FSN%20Program.png")
+---
+
+![FSN Program](/assets/img/FSN%20Program.png)
 
 GSA’s Emerging Citizen Technology Office kicked off the new fiscal year with a half-day symposium with leading agencies, industry, and civic collaborators. Participants explored practical innovations available today in Artificial Intelligence, Robotic Process Automation, and other emerging technologies to improve public services for the American people.
 
 During the symposium, participants received hands-on, eyes-on, and voice-on experience with technological services that may seem like public services of tomorrow, but have already been successfully prototyped, piloted, or deployed. No visionary panels or aspirational speeches here, just functional instruction, practical application, and lessons learned from the experts who have “been there, done that,” and can help you to do the same.
 
-<b><font size="6"><center>Welcome</center></font></b>
-  
-![Opening Remarks](https://github.com/GSA/emerging-technology-atlas/blob/master/assets/img/Opening%20Remarks.png)
+## Welcome
+
+![Opening Remarks](/assets/img/Opening%20Remarks.png)
 
 <ul class="usa-accordion-bordered">
   <li>
@@ -47,10 +49,9 @@ During the symposium, participants received hands-on, eyes-on, and voice-on expe
   </li>
 </ul>
 
-<b><font size="6"><center>Business of Emerging Technology Track</center></font></b>
-Slides: 
+## Business of Emerging Technology Track
 
-![TMF PMO](https://github.com/GSA/emerging-technology-atlas/blob/master/assets/img/TMF.png)
+![TMF PMO](/assets/img/TMF.png)
 
 <ul class="usa-accordion-bordered">
   <li>
@@ -106,7 +107,7 @@ Slides:
       </li>
   </ul>
 
-<b><font size="6"><center>Artificial Intelligence Track</center></font></b>
+## Artificial Intelligence Track
 
 <ul class="usa-accordion-bordered">
   <li>
@@ -147,7 +148,7 @@ Slides:
   </li>
   </ul>
 
-<b><font size="6"><center>Blockchain Track</center></font></b>
+## Blockchain Track
 
 <ul class="usa-accordion-bordered">
   <li>
@@ -210,7 +211,7 @@ Slides:
   </li>
   </ul>
 
-  <b><font size="6"><center>Robotic Process Automation Track</center></font></b>
+## Robotic Process Automation Track
 
   <ul class="usa-accordion-bordered">
     <li>
@@ -277,9 +278,9 @@ Slides:
     </li>
     </ul>
 
-  <b><font size="6"><center>Virtual and Augmented Reality Track</center></font></b>
+## Virtual and Augmented Reality Track
 
-![VRAR Demos](https://github.com/GSA/emerging-technology-atlas/blob/master/assets/img/VRAR%20Demos.png)
+![VRAR Demos](/assets/img/VRAR%20Demos.png)
 
   <ul class="usa-accordion-bordered">
     <li>
