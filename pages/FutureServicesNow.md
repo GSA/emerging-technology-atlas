@@ -15,7 +15,7 @@ GSA’s Emerging Citizen Technology Office kicked off the new fiscal year with a
 
 During the symposium, participants received hands-on, eyes-on, and voice-on experience with technological services that may seem like public services of tomorrow, but have already been successfully prototyped, piloted, or deployed. No visionary panels or aspirational speeches here, just functional instruction, practical application, and lessons learned from the experts who have “been there, done that,” and can help you to do the same.
 
-<b><font size="6"><center>Welcoming></font></b>
+<b><font size="6"><center>Welcome</center></font></b>
   
 ![Opening Remarks](https://github.com/GSA/emerging-technology-atlas/blob/master/assets/img/Opening%20Remarks.png)
 
