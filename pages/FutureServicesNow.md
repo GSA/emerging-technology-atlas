@@ -46,6 +46,8 @@ During the symposium, participants received hands-on, eyes-on, and voice-on expe
 <b><font size="6"><center>Business of Emerging Technology Track</center></font></b>
 Slides: 
 
+![TMF PMO](https://github.com/GSA/emerging-technology-atlas/blob/master/assets/img/TMF.png)
+
 <ul class="usa-accordion-bordered">
   <li>
     <button class="usa-accordion-button"
