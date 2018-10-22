@@ -4,6 +4,15 @@ title: "Future Services Now"
 permalink: /FutureServicesNow/
 description: ""
 ---
+
+Friday, October 12, 2018 at U.S. General Services Administration
+
+GSA’s Emerging Citizen Technology Office is kicked off the new fiscal year with a half-day symposium with leading agencies, industry, and civic collaborators. Participants explored practical innovations available today in Artificial Intelligence, Robotic Process Automation, and other emerging technologies to improve public services for the American people.
+
+Emerging technologies don’t just hold the potential to impact how government delivers services, it is already changing how we manage data-driven decision-making, customer service, and more. To realize emerging technology’s full potential, we must better understand current applications and real-world implications beyond the hype.
+
+During the symposium, participants received hands-on, eyes-on, and voice-on experience with technological services that may seem like public services of tomorrow, but have already been successfully prototyped, piloted, or deployed. No visionary panels or aspirational speeches here, just functional instruction, practical application, and lessons learned from the experts who have “been there, done that,” and can help you to do the same.
+
 <ul class="usa-accordion-bordered">
   <li>
     <button class="usa-accordion-button"
