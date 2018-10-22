@@ -9,7 +9,7 @@ Friday, October 12, 2018
 U.S. General Services Administration
 1800 F Street NW, Washington, D.C. 
 
-![FSN Program](img src=https://github.com/GSA/emerging-technology-atlas/blob/master/assets/img/FSN%20Program.png)
+![FSN Program](img src="/assets/img/FSN%20Program.png")
 
 GSA’s Emerging Citizen Technology Office kicked off the new fiscal year with a half-day symposium with leading agencies, industry, and civic collaborators. Participants explored practical innovations available today in Artificial Intelligence, Robotic Process Automation, and other emerging technologies to improve public services for the American people.
 
