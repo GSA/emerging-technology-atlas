@@ -273,6 +273,8 @@ Slides:
 
   <b><font size="6"><center>Virtual and Augmented Reality Track</center></font></b>
 
+![VRAR Demos](https://github.com/GSA/emerging-technology-atlas/blob/master/assets/img/VRAR%20Demos.png)
+
   <ul class="usa-accordion-bordered">
     <li>
       <button class="usa-accordion-button"
