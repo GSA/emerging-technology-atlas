@@ -42,6 +42,7 @@ During the symposium, participants received hands-on, eyes-on, and voice-on expe
 </ul>
 
 <b><font size="6"><center>Business of Emerging Technology Track</center></font></b>
+Slides: 
 
 <ul class="usa-accordion-bordered">
   <li>
