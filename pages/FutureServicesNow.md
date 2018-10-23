@@ -150,6 +150,7 @@ During the symposium, participants received hands-on, eyes-on, and voice-on expe
   </ul>
 
 ## Blockchain Track
+![Blockchain](/assets/img/Blockchain.png)
 
 <ul class="usa-accordion-bordered">
   <li>
