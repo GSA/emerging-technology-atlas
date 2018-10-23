@@ -110,6 +110,8 @@ During the symposium, participants received hands-on, eyes-on, and voice-on expe
 ## Artificial Intelligence Track
 ![AI Track](/assets/img/Lobby.png)
 
+- [Slides: Intelligence Customer Services presentation](/assets/Intelligent%20Interactions%20GSA%20Future%20Services%20Now%20vFinal%20mjc.pdf) 
+
 <ul class="usa-accordion-bordered">
   <li>
     <button class="usa-accordion-button"
