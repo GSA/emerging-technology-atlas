@@ -51,6 +51,8 @@ During the symposium, participants received hands-on, eyes-on, and voice-on expe
 
 ## Business of Emerging Technology Track
 
+- [Slides: Introducing 132-20 Automated Contact Center Solutions SIN presentation](/assets/img/Final%20Automated%20Contact%20Center%20SIN%20ACCS%20Overview%20(1).pdf) 
+
 ![TMF PMO](/assets/img/TMF.png)
 
 <ul class="usa-accordion-bordered">
