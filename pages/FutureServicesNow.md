@@ -287,23 +287,27 @@ During the symposium, participants received hands-on, eyes-on, and voice-on expe
   <li>
     <button class="usa-accordion-button"
       aria-expanded="false"
-      aria-controls="b-a3">
+      aria-controls="b-a14">
       Building Public-Private Partnerships Workshop Part 1
     </button>
-    <div id="b-a3" class="usa-accordion-content">
+    <div id="b-a14" class="usa-accordion-content">
       <ul>
         <li><b>Description:</b>This session encouraged participants to roll up their sleeves and explore what partnerships between government, industry and academia can do for you and find new ways of delivering results. So much of the work of government now requires us to think in innovative ways and to use technology to meet our needs.  However, we don’t often have the budget, know-how, and capabilities to buy what we need.  Partnerships are another way to meet some needs and you’re going to learn how.</li>
-        <li><b>Presenter:</b>State Department Office of Global Partnerships.</li>
+        <li><b>Presenters</b>
+        <ul class="square">
+        <li>State Department Office of Global Partnerships.</li>
+        </ul>
+        </li>
       </ul>
     </div>
   </li>
   <li>
     <button class="usa-accordion-button"
       aria-expanded="false"
-      aria-controls="b-a4">
+      aria-controls="b-a15">
       Building Public-Private Partnerships Workshop Part 2
     </button>
-    <div id="b-a4" class="usa-accordion-content">
+    <div id="b-a15" class="usa-accordion-content">
       <ul>
         <li><b>Description:</b> This session encouraged participants to roll up their sleeves and explore what partnerships between government, industry and academia can do for you and find new ways of delivering results. So much of the work of government now requires us to think in innovative ways and to use technology to meet our needs.  However, we don’t often have the budget, know-how, and capabilities to buy what we need.  Partnerships are another way to meet some needs and you’re going to learn how.</li>
         <li><b>Presenters</b>
@@ -317,16 +321,16 @@ During the symposium, participants received hands-on, eyes-on, and voice-on expe
     <li>
       <button class="usa-accordion-button"
         aria-expanded="false"
-        aria-controls="b-a5">
+        aria-controls="b-a16">
         Engaging the Public through Citizen Science Gaming
       </button>
-      <div id="b-a5" class="usa-accordion-content">
+      <div id="b-a16" class="usa-accordion-content">
         <ul>
           <li><b>Description:</b>Emerging technologies are expanding the ways in which members of the public can participate in investigations and learning through citizen science. In particular, science games and gaming interfaces empower participants to help solve real-world problems via collaborative play. This session introduced tools and resources available on the CitizenScience.gov site and through additional platforms utilized by federal agencies, and present software tools and knowledge resources that can be used for striking up new partnerships to build such games.  .</li>
           <li><b>Presenters</b>
           <ul class="square">
           <li>John McLaughlin manages the CitizenScience.gov program designed to accelerate the use of crowdsourcing and citizen science across the U.S. government.</li>
-          <li>Dave Miller is a Program Director at the NIH's National Cancer Institute.</li> 
+          <li>Dave Miller is a Program Director at the NIH's National Cancer Institute.</li>
           </ul>
           </li>
         </ul>
