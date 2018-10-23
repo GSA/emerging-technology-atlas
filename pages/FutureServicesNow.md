@@ -213,6 +213,7 @@ During the symposium, participants received hands-on, eyes-on, and voice-on expe
   </ul>
 
 ## Robotic Process Automation Track
+![RPA](/assets/img/RPA.png)
 
   <ul class="usa-accordion-bordered">
     <li>
