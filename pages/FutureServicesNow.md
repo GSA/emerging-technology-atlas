@@ -13,7 +13,7 @@ U.S. General Services Administration<br/>
 
 ![FSN Program](/assets/img/FSN%20Program.png)
 
-GSA’s Emerging Citizen Technology Office kicked off the new fiscal year with a half-day symposium with leading agencies, industry, and civic collaborators. Participants explored practical innovations available today in Artificial Intelligence, Robotic Process Automation, and other emerging technologies to improve public services for the American people. 
+GSA’s Emerging Citizen Technology Office kicked off the new fiscal year with a half-day symposium with 250 participants from leading agencies, industry, and civic collaborators. Participants explored practical innovations available today in Artificial Intelligence, Robotic Process Automation, and other emerging technologies to improve public services for the American people. 
 
 Here you will find an overview of programming, with presenters and when available presentations -- much of the event was live demonstrations of deployable solutions, though, so not all presentations included slides. 
 
