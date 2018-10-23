@@ -281,7 +281,7 @@ During the symposium, participants received hands-on, eyes-on, and voice-on expe
     </li>
     </ul>
 
-## Blockchain Track
+## Public/Private Partnerships Track
 
 <ul class="usa-accordion-bordered">
   <li>
