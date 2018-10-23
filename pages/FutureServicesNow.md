@@ -284,6 +284,9 @@ During the symposium, participants received hands-on, eyes-on, and voice-on expe
 ## Public/Private Partnerships Track
 ![Partnerships](/assets/img/Partnerships.png)
 
+[Slides: Public/Private Partnerships Presentation](/assets/img/Public Private Partnerships.ppt)
+[Slides: Citizen Science Gaming] (/assets/Citizen%20Science%20Gaming.pdf)
+
 <ul class="usa-accordion-bordered">
   <li>
     <button class="usa-accordion-button"
