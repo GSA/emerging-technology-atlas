@@ -13,9 +13,11 @@ U.S. General Services Administration<br/>
 
 ![FSN Program](/assets/img/FSN%20Program.png)
 
-GSA’s Emerging Citizen Technology Office kicked off the new fiscal year with a half-day symposium with leading agencies, industry, and civic collaborators. Participants explored practical innovations available today in Artificial Intelligence, Robotic Process Automation, and other emerging technologies to improve public services for the American people. Here you will find an overview of programming, with presenters and when available presentations -- much of the event was live demonstrations of deployable solutions, though, so not all presentations included slides. 
+GSA’s Emerging Citizen Technology Office kicked off the new fiscal year with a half-day symposium with leading agencies, industry, and civic collaborators. Participants explored practical innovations available today in Artificial Intelligence, Robotic Process Automation, and other emerging technologies to improve public services for the American people. 
 
-During the symposium, participants received hands-on, eyes-on, and voice-on experience with technological services that may seem like public services of tomorrow, but have already been successfully prototyped, piloted, or deployed. No visionary panels or aspirational speeches here, just functional instruction, practical application, and lessons learned from the experts who have “been there, done that,” and can help you to do the same.
+Here you will find an overview of programming, with presenters and when available presentations -- much of the event was live demonstrations of deployable solutions, though, so not all presentations included slides. 
+
+During the symposium, participants received hands-on, eyes-on, and voice-on experience with technological services that may seem like public services of tomorrow, but have already been successfully prototyped, piloted, or deployed for IT modernization. No visionary panels or aspirational speeches here, just functional instruction, practical application, and lessons learned from the experts who have “been there, done that,” and can help you to do the same.
 
 ## Welcome
 
