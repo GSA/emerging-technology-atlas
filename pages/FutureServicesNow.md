@@ -294,6 +294,7 @@ During the symposium, participants received hands-on, eyes-on, and voice-on expe
     <div id="b-a14" class="usa-accordion-content">
       <ul>
         <li><b>Description:</b>This session encouraged participants to roll up their sleeves and explore what partnerships between government, industry and academia can do for you and find new ways of delivering results. So much of the work of government now requires us to think in innovative ways and to use technology to meet our needs.  However, we don’t often have the budget, know-how, and capabilities to buy what we need.  Partnerships are another way to meet some needs and you’re going to learn how.</li>
+        <li><b>[Slides on Public.Private Partnerships](/assets/img/Public%20Private%20Partnerships.ppt)</b>
         <li><b>Presenters</b>
         <ul class="square">
         <li>State Department Office of Global Partnerships.</li>
