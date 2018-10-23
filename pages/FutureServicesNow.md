@@ -216,7 +216,7 @@ During the symposium, participants received hands-on, eyes-on, and voice-on expe
 ## Robotic Process Automation Track
 ![RPA](/assets/img/RPA.png)
 
-[Slides: Robotic Process Automation presentation](/assets/RPA%20%26%20Intelligent%20Automation%20Track.pdf)
+- [Slides: Robotic Process Automation presentation](/assets/RPA%20%26%20Intelligent%20Automation%20Track.pdf)
 
   <ul class="usa-accordion-bordered">
     <li>
@@ -286,8 +286,8 @@ During the symposium, participants received hands-on, eyes-on, and voice-on expe
 ## Public/Private Partnerships Track
 ![Partnerships](/assets/img/Partnerships.png)
 
-[Slides: Public/Private Partnerships presentation](/assets/img/Public%20Private%20Partnerships.pdf)  <br/>
-[Slides: Engaging the Public through Citizen Science Gaming presentation](/assets/Citizen%20Science%20Gaming.pdf)
+- [Slides: Public/Private Partnerships presentation](/assets/img/Public%20Private%20Partnerships.pdf)  <br/>
+- [Slides: Engaging the Public through Citizen Science Gaming presentation](/assets/Citizen%20Science%20Gaming.pdf)
 
 <ul class="usa-accordion-bordered">
   <li>
