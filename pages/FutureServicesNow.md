@@ -158,6 +158,8 @@ During the symposium, participants received hands-on, eyes-on, and voice-on expe
 ## Blockchain Track
 ![Blockchain](/assets/img/Blockchain.png)
 
+- [Slides: Building (Better) Blockchains session](/assets/img/Building%20Better%20Blockchains.pdf)
+
 <ul class="usa-accordion-bordered">
   <li>
     <button class="usa-accordion-button"
