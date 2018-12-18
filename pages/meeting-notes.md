@@ -7,7 +7,7 @@ description: ""
 
 Keep an eye on developments in our programs each month through transparent sharing of our meeting notes and action items.
 
-[December 2018 Inter-agency Emerging Citizen Technologies Action Meeting] ({{ site.baseurl }}{% link pages/2018-12-17.md %}) 
+[December 2018 Inter-agency Emerging Citizen Technologies Action Meeting]({{ site.baseurl }}{% link pages/2018-12-17.md %}) 
 
 [GSA Future Services Now Symposium: October 2018](/FutureServicesNow/)
 
