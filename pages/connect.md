@@ -28,7 +28,7 @@ Anyone from industry, academia, or government may join our public listservs:
 - Virtual/Augmented Reality: Contact <a href="mailto:listserv@listserv.gsa.gov?subject=AI%20listserv">listserv@listserv.gsa.gov</a> with the message body "SUB VRARPublic."
 
 
-For more information contact Justin Herman, GSA Emerging Citizen Technology lead, at EmergingTech@gsa.gov.
+For more information contact EmergingTech@gsa.gov.
 
 
 
