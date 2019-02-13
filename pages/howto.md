@@ -39,4 +39,4 @@ If you are a reporter, please send questions to GSA Public Affairs at (202) 501-
 
 For more information on GSA policies: GSA Privacy and Security Issues
 
-For for more information on how to contribute, contact Justin Herman, GSA Emerging Citizen Technology lead, at EmergingTech@gsa.gov.
+For for more information on how to contribute, contact EmergingTech@gsa.gov.
