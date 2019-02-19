@@ -17,5 +17,5 @@ description: ""
 
 <p>If you are a government employee with a .gov or .mil email address, join our <a href="mailto:SM-COP-subscribe-request@listserv.gsa.gov?subject=SocialGov%20listserv">SocialGov Community</a>.</p>
 
-For for more information on the Social Technology program, contact Justin Herman, GSA Emerging Citizen Technology lead, at EmergingTech@gsa.gov.
+For for more information on the Social Technology program, contact EmergingTech@gsa.gov.
 
