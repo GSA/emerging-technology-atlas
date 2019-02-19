@@ -26,4 +26,4 @@ If you are a government employee with a .gov or .mil email address, join our <a 
 
 To join our public listserv for Blockchain, contact <a href="mailto:listserv@listserv.gsa.gov?subject=Blockchain%20listserv">listserv@listserv.gsa.gov</a> with the message body “SUB BlockchainPublic.”
 
-For for more information on the Blockchain program, contact Justin Herman, GSA Emerging Citizen Technology lead, at EmergingTech@gsa.gov.
+For for more information on the Blockchain program, contact EmergingTech@gsa.gov.
