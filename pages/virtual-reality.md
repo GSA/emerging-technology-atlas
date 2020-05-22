@@ -36,5 +36,3 @@ We'd love to hear from you! Know of any current VR/AR programs or efforts to imp
 If you are a government employee with a .gov or .mil email address, join our <a href="mailto:VR-subscribe-request@listserv.gsa.gov?subject=VR%20listserv">Virtual and Augmented Reality Community</a>
 
 To join our public listserv for Virtual and Augmented reality, contact listserv@listserv.gsa.gov with the message body “SUB VRARPublic.”
-
-If you are interested in being a part of our monthly meetings, contact us at <a href="mailto:EmergingTech@GSA.gov?subject=VR%20Meetings">EmergingTech@GSA.gov.</a> 

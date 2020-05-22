@@ -23,4 +23,4 @@ If you are a government employee with a .gov or .mil email address, join our [Fe
 
 To join our public listserv for Artificial Intelligence for Citizen Services, contact [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov?subject=AI%20listserv) with the message body “SUB AIPublic.”
 
-For for more information on the Artificial Intelligence for Citizen Services program, contact EmergingTech@gsa.gov.
+For for more information on the Artificial Intelligence for Citizen Services program, contact digitalgov@gsa.gov.
