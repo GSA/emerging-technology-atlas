@@ -30,7 +30,7 @@ with more than 200,000 data sets, tools, and resources, [Code.gov](https://code.
 
 Opportunities are on the rise for public services and leading U.S. academic researcher facilities and civil society organizations to conduct and participate in research on emerging technologies in government. Our new inter-agency Academic Research Outreach initative will promote greater access to our federal programs for researchers and more open sharing of research needs in order for all to benefit from these critical contributions.
 
-If you are a researcher pursuing greater awareness of emerging technologies in government and would like to discuss, please email EmergingTech@GSA.gov with “#Research” in the subject field.
+If you are a researcher pursuing greater awareness of emerging technologies in government and would like to discuss, please email digitalgov@gsa.gov with “#Research” in the subject field.
 
 ## Venture Capital Community Outreach
 
@@ -38,7 +38,7 @@ Executives do not immediately need to invest in innovative solutions of tomorrow
 
 Our collaborations with the Venture Capital community familiarize agencies with the field, increase opportunities to collaborate and help spread the awareness of these programs across the government.
 
-If you would like to participate in our Venture Capital activities please email EmergingTech@gsa.gov with “#Venture” in the subject field.
+If you would like to participate in our Venture Capital activities please email digitalgov@gsa.gov with “#Venture” in the subject field.
 
 ## Workforce Training and Education
 
@@ -46,4 +46,4 @@ Government managers need access to training and education programs for emerging 
 
 We are in the initial stages of collaborating with some of the nation's leading businesses and researchers to develop and pilot a new series of emerging technology training for the federal workforce, open to all agencies through [GSA's DigitalGov University](https://www.digitalgov.gov/digitalgov-university/), to help meet this growing need. The series of workshops and trainings will start in April 2018.
 
-If you would like to contribute to this effort, please email EmergingTech@GSA.gov with "#Training" in the subject field.
+If you would like to contribute to this effort, please email digitalgov@gsa.gov with "#Training" in the subject field.

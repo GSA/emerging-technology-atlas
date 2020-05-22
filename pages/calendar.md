@@ -15,6 +15,6 @@ In this section you will find a list of upcoming events relating to Emerging Cit
  - Virtual and Augmented Reality
  - Social and Collaborative Technologies
 
-If you would like to share events that are open to public servants, please send an email to EmergingTech@gsa.gov.
+If you would like to share events that are open to public servants, please send an email to digitalgov@gsa.gov.
 
 This calendar is in early states of development and should not be considered comprehensive. All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

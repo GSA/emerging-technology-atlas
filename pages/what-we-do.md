@@ -23,4 +23,4 @@ Because each mission is unique, use cases may vary between state, local, and fed
 
 Join our public listservs to stay informed and contribute to our latest initiatives, project wikis, and repositories.
 
-For more information contact Justin Herman, ECTO lead, and Kelly Pippin of GSA Federal Acquisition Service at EmergingTech@gsa.gov.
+For more information contact digitalgov@gsa.gov.
