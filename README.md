@@ -1,4 +1,6 @@
-# Emerging Citizen Technology
+# 🚨 This project is no longer being maintained. Contact digitalgov@gsa.gov for inquiries.
+
+## Emerging Citizen Technology
 https://emerging.digital.gov/
 
 
